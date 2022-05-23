@@ -1,0 +1,732 @@
+﻿
+Voornaam: Jan
+Achternaam: Fagel
+Geboortedatum: 
+Sterfdatum: 
+Geboorteplaats: 
+Fagel, Jan (w. 1675)
+Plaats van overlijden: 
+Geslacht: M
+Start_werkperiode: 1675
+Eind_werkperiode: 
+Beroep: custos
+Bron: AS 22-4-1684 Johannes Fagel, in bibliotheca Thysiana, 34.
+Misc: Custos van de Bibliotheca Thysiana.
+
+
+Voornaam: Joris
+Achternaam: Farquhar
+Geboortedatum: 
+Sterfdatum: 
+Geboorteplaats: aberdeen
+Plaats van overlijden: 
+Geslacht: M
+Start_werkperiode: 1645
+Eind_werkperiode: 1663
+Beroep: boekdrukker
+Huwelijkspartner: Helena Cockburn
+Adres
+Locatie: Caerdesteeg (volgens opgave bij de KO van Jan Nisbeth)
+Locatie_startdatum: 1646
+Adres
+Locatie: Middelste Raamsteeg.
+Locatie_startdatum: 1663
+Bron: NA 417, nr. 33 [scan 72] (9-3-1663) Mutueel testament met Helena Cockburne (getuigen Christiaen en Cornelis Cann).
+Bron: Vgl. doop HK 30-3-1642 Thomas van Farquar, zoon van Joris Vinko van Farquar en Helena Daniels; KO 23-6-1651 van Joseph Jorisz Farquhar, scheepstimmerman afkomstig uit Aberdeen en wonend bij de Doelen, met Grietje Jacobs uit Hoorn (getuige zijn vader); KO 22-8-1656 van Josep Jorisz Farquhar, afkomstig uit Schotland, maar wonend in Alphen, met Elsje Everts Brat, eveneens uit Alphen.
+
+Voornaam: Abraham
+Achternaam: Fatsoen
+Geboortedatum: 
+Sterfdatum: 
+Geboorteplaats: 
+Plaats van overlijden: 
+Geslacht: M
+Start_werkperiode: 1701
+Eind_werkperiode: 1717
+Beroep: boekverkoper
+Beroep: boekbinder
+Misc: Adriana van Pantser uit Alphen (getuige zijn broer Isacq Fatsoen).
+Huwelijk
+Soort huwelijk: KO
+Datum huwelijk: 23-4-1701
+Huwelijkspartner: Adriana van Pantser 
+Getuigen: zijn broer Isacq Fatsoen
+Adres
+Locatie: Papegracht.
+Locatie_startdatum: 1701
+Personeel
+Datum Aanstelling: 1-4-1721
+Naam werknemer: Pieter Larsie, (1726 nog in dienst, leertijd voldaan op 15-8-1727) (AB 83b, f. 59)
+Gilde:
+Startdatum: 1681
+Functie in het gilde: Leerling
+Einddatum: 
+Gilde_InDienstVan: Jacob Moucque
+Gilde_Literatuur: 
+Gilde:
+Startdatum: 14-4-1693
+Functie in het gilde: 
+Einddatum: 
+Gilde_InDienstVan: 
+Gilde_Literatuur: 
+Gilde:
+Startdatum: 23-12-1697
+Functie in het gilde: Knecht
+Einddatum: 
+Gilde_InDienstVan: Frederik Haaring. 
+Gilde_Literatuur: 
+Gilde:
+Startdatum: 6-6-1701
+Functie in het gilde: Vrijmeester
+Einddatum: 
+Gilde_InDienstVan: 
+Gilde_Literatuur: AB 83a, f. 58v
+Bron: NA 1555, f. 20 (14-2-1688) Procuratie n.a.v. de deling van de nalatenschap van Nicolaes Huijst en Anna du Bucquoy, wier erfgenaam hij was. Dezelfde?
+Bron: NA 1711, nr. 39 (1711) Akte (niet gedigitaliseerd).
+Bron: NA 1823, nr. 20 (19-2-1723) Obligatie van 500 mede op naam van zijn vrouw aan de directeurs van de impost.
+Bron: In 1705 kwam hij in conflict met het Lucasgilde wegens het verkopen van prenten en kaarten (AB 61, f. 34v). In datzelfde jaar beschikking van de Leidse magistraat dat hij kaarten en prenten mocht verkopen (AB 87).
+Misc: In 1705 kwam hij in conflict met het Lucasgilde wegens het verkopen van prenten en kaarten (AB 61, f. 34v). In datzelfde jaar beschikking van de Leidse magistraat dat hij kaarten en prenten mocht verkopen (AB 87).
+
+
+Voornaam: broers
+Tweede naam: de 
+Achternaam: Faye
+Geboortedatum: 
+Sterfdatum: 
+Geboorteplaats: 
+Plaats van overlijden: 
+Geslacht: M
+Start_werkperiode: 1710
+Eind_werkperiode: 1720
+Beroep: corrector
+Beroep: redacteur
+Bron: unknown
+Misc: Redacteur van de Franse courant van De la Font en corrector bij Pieter van der Aa. Vgl. brief Pieter van der Aa aan Ruchat.
+
+
+Voornaam: Ferdinand
+Tweede naam: le 
+Achternaam: Febvre
+Naamsvariant: Ferdiand le Fevere
+Geboortedatum: 
+Sterfdatum: 
+Geboorteplaats: 
+Plaats van overlijden: 
+Geslacht: M
+Start_werkperiode: 1623
+Eind_werkperiode: 1667
+Beroep: boekdrukker
+Huwelijk 
+Datum huwelijk: 1614 
+Huwelijkspartner: Elisabeth van Dorp
+Bron: NA 42, nr. 30 (24-2-1614) Huwelijkse voorwaarden met Elisabeth van Dorp. Hij wordt vergezeld van zijn moeder en zijn oudste broer Abraham, zij door haar vader en moeder Jan Claesz van Dorp en Margriete Dircks van Potterloo. Getuigen de drukkers Jacob Pietersz en Abraham Anthonisz.
+Bron: NA 353, nr. 160 (20-9-1629) Akte met Jan Jansz van Dorp en Willem Govertsz de la Barbe [Berbe], schoolmeester te Warmond (in 1612 getrouwd met Claesje, dochter van Jan Claesz van Dorp) n.a.v. de erfenis van Pieter Cornelisz van der Mersche. Zie ook NA 354, nr. 173 (19-9-1630).
+Bron: Album studiosorum 18-2-1643 Ferdinandus le Fevre, Potent. D.D. Ord. Holl. et Westfr. Collegii typographus; 30-3-1667 Ferdinandus le Febvre Typographus Colleg. Holland. Vraag is of dit niet de zoon is van bovenstaande.
+Moeder: Johanna van Coninxloo.
+Misc: 1643 Drukker van het Statencollege.
+
+
+Voornaam: Georgius
+Achternaam: Figurus
+Geboortedatum: 1611
+Sterfdatum: 
+Beroep: corrector
+Geboorteplaats: Neuburg in de
+Plaats van overlijden: 
+Geslacht: M
+Start_werkperiode: 1639
+Eind_werkperiode: 
+Beroep: corrector
+Literature: Willems p. cxii.
+Bron: Album Studiosorum 20-6-1639 Georgius Figurus ex Palatinatu Nieburgico, corrector libror. in typogr. Elsevirii. 28. P. Baccal.
+Misc: Corrector bij de Elzeviers.
+
+
+Voornaam: Amme
+Achternaam: Flamine
+Geboortedatum: 
+Sterfdatum: 
+Geboorteplaats: 
+Plaats van overlijden: 
+Geslacht: M
+Start_werkperiode: 1598
+Eind_werkperiode: 
+Literature: Thesaurus.
+
+
+Voornaam: Heijndrick
+Achternaam: Florisz
+Geboortedatum: 
+Sterfdatum: 
+Geboorteplaats: 
+Plaats van overlijden: 
+Geslacht: M
+Start_werkperiode: 1610
+Eind_werkperiode: 
+Beroep: boekdrukker
+Literature: KS 126.
+Bron: GAA, akte waarin Jan Abrahamsz Graswinckel te Delft zeker persoon machtigt om van Trijn Garbrants, weduwe van Cornelis Claesz te Amsterdam, gelden te innen i.v.m. de verkoop van muziekboeken door bemiddeling van de Leidse drukker Heijndrick Florisz.
+
+
+Voornaam: Jan
+Achternaam: Fluijters
+Geboortedatum: 
+Sterfdatum: 
+Geboorteplaats: leiden
+Plaats van overlijden: 
+Geslacht: M
+Start_werkperiode: 1741
+Eind_werkperiode: 
+Beroep: letterzetter
+Huwelijk
+Soort huwelijk: 
+Datum huwelijk: 14-4-1741
+Huwelijkspartner:  Jannetje Greijs 
+Getuigen: Zijn neef Jacob Schrijver
+Adres
+Locatie: Koppenhinksteeg.
+Locatie_startdatum: 
+Bron: unknown
+
+
+Voornaam: Anthony
+Tweede naam: de la 
+Achternaam: Font
+Geboortedatum: 
+Sterfdatum: 9-2-1738
+Geboorteplaats: languedoc
+Plaats van overlijden: 
+Geslacht: M
+Start_werkperiode: 1690
+Eind_werkperiode: 1738
+Beroep: courantier
+Huwelijk
+Soort huwelijk: 
+Datum huwelijk: 6-10-1690
+Huwelijkspartner:  Alice Terry
+Getuigen: 
+Adres
+Locatie: Steenschuur
+Locatie_startdatum: 
+Adres
+Locatie: Nieuwsteeg (verhuurde kamers aan studenten)
+Locatie_startdatum: 1699
+Adres
+Locatie: Rapenburg (koopt op 23-5-1699 / 13-8-1705 Rapenburg 69 van Johan Raven voor 1570, waarvan 550 gereed geld [Bonboek N. Rapenburg, f. 127v])
+Locatie_startdatum: 1715
+Adres
+Locatie:  Rapenburg
+Locatie_startdatum: 1727
+Locatie_einddatum: 1729
+Adres
+Locatie: Breestraat WZ.
+Locatie_startdatum: 1738
+Personeel
+Datum Aanstelling: 
+Naam werknemer: Etienne Luzac
+Personeel
+Datum Aanstelling: 
+Naam werknemer: Moses Cijfveer 
+Personeel
+Datum Aanstelling: 
+Naam werknemer: Jan Drummond 
+Misc: Medewerkers tekenen regelmatig als getuigen bij notarile acten).
+Misc: Voor een resolutie uit 1698 van de hoofdlieden van het gilde bepalende dat hij geen lid van het gilde hoefde te zijn AB 86 (18e-eeuws afschrift met begeleidende brief van S. en J. Luchtmans aan stadssecretaris Hubrechts uit 1785).
+Religie: Waals
+Bron: NA 1085, nr. 16 (1-3-1686) Contract van compagnie met Claude Jordan per 1-1-1686 voor 6 jaar. Zij zullen samenwerken voor gezamenlijke rekening in de uitgave van la gazette et autres nouvelles franoises. Hiertoe zullen zij ieder de helft overnemen van de drukkerij van Jean Alexandre de la Font. Jordan krijgt echter voor zijn werkzaamheden in de drukkerij en voor zijn hoofdredacteurschap van de krant(en?) van De la Font 270 p/jr. boven de gezamenlijke winstdeling. Beiden zullen een dubbele boekhouding voeren, maar Jordan mag de drukkerij ook voor eigen doeleinden gebruiken, mits de omvang van zijn drukwerk niet groter is dan vijf vellen. Ook diverse bepalingen over de voortzetting van de onderneming in geval van ziekte of overlijden. Voor het geval zich conflicten voordoen worden arbiters aangesteld.
+Bron: NA 1086, nr. 21 (23-7-1689) Verklaring van Claude Beaulieu, Hendrik Dermont [= Drummond] en Joh. van den Bergh op verzoek van De la Font dat zij sedert 1686 hebben gewerkt op de drukkerij van Jordan en De la Font en daar wekelijks 2560 exemplaren off historien onses tyts hebben gedrukt, die dan steeds verzonden werden. Vlgs. Beaulieu lag dit aantal de laatste anderhalf jaar echter hoger. Wilde De la Font deze verklaring gebruiken omdat Jordan hem bedotte?
+Bron: NA 1511B, nr. 2 (15-1-1688) Procuratie aan [...] Florisson te Lille om bij de weduwe en erven van wijlen de heer Patois, in leven postmeester aldaar, schulden en boeken op te eisen.
+Bron: NA 1516, nr. 67 (14-7-1693) Procuratie aan Thim. de Laet, koopman te Londen, om van Jean Leasson, controleur der posterijen te Londen, geld te innen.
+Bron: NA 1517, nr. 82 (5-7-1694) Procuratie aan Henry Hammond, koopman te Londen, om bij Fr. Clewit, commis de la poste, ,329.2 te ontvangen voor geleverde couranten.
+Bron: NA 1550, nr. 87 (20-5-1697) Mutueel testament met Alice Terry.
+Bron: NA 1200, nr. 137 (31-5-1699) Mutueel testament met Alice Terry.
+Bron: NA 1522, nr. 120 (28-12-1699) Procuratie aan John Chamberlaine te Westminster om van Mrs. Clewitt en Brocket te Londen schulden te innen.
+Bron: NA 1608, nr. 19 (28-4-1701) Procuratie aan Th. van Wieringen te Hamburg om van de weduwe Baringh (?), in leven postmeester te Bremen 119.17.8 te ontvangen voor geleverde kranten.
+Bron: NA 1529, nr. 28 (2-4-1707) Procuratie aan R. Desclouseaux Royrand in Westminster om van de eschiquier van de Engelse koning de renten op zijn annuteiten op te eisen.
+Bron: NA 1529, nrs 58-59 (11-5-1707) Acten i.v.m. de nalatenschap van Louis Fleury.
+Bron: NA 1716, nr. 25 (1708) Anthonia? (niet gedigitaliseerd).
+Bron: NA 1535, nr. 69 (26-6-1713) Procuratie aan Mr. Grimaudet te Londen om van de nabestaanden van wijlen R. Desclouseaux Royrand zekere annuteiten en loterijbriefjes op te eisen.
+Bron: NA 1537A, nr. 32 (1-4-1715) Mutueel testament.
+Bron: NA 1537A, nr. 35 (7-4-1715) Mutueel testament.
+Bron: NA 1537A, nr. 50 (18-5-1715) Procuratie aan Jan Geulinx, notaris te Keulen, om van de Heer Krickes (?), 1e commies van de keizerlijke post te Keulen 389.18 te ontvangen voor geleverde Franse gazettes (rekening verzonden 19-1-1714).
+Bron: NA 1537B, nr. 33 (28-3-1716) Vidimus van besloten testament.
+Bron: NA 1537B, nr. 94 (23-11-1716) Vidimus van besloten testament.
+Bron: NA 1539, nr. 7 (5-2-1718) Vidimus van besloten testament.
+Bron: NA 1539, nr. 112 (24-12-1718) Procuratie met Ds. Pierre Galofre (?) aan Fr. Grimaudet te Londen om van Louis Ren Desclouseaux Royrand, executeur van de nalatenschap van zijn vader Ren Desclouseaux Royrand, een bedrag van o.a. 80.11.6 te ontvangen.
+Bron: NA 1540, nr. 47 (10-6-1719) Beslechting van een ruzie met de buurman van zijn speeltuin binnen de Hogewoerdspoort.
+Bron: NA 1541, nr. 90 (21-8-1720) Machtiging tot inschrijving in een compagnie van assurantie te Rotterdam.
+Bron: NA 1473 (1720-21), nrs 90, 96, 143 Assurantin; nr. 158 verhuur van een huis in Achthoven; nr. 207 voogdijstelling.
+Bron: NA 1764, nr. 130 (3-2-1721) Procuratie i.v.m. land te Leiderdorp.
+Bron: NA 1681A, nr. 119 (9-6-1721) Vidimus van besloten testament.
+Bron: NA 1822, nr. 125 (21-8-1722) Schenking van een prijsobligatie t.b.v. 200 aan de diaconie van de Engelse kerk.
+Bron: NA 1474, nr. 114 (11-12-1722) Verhuur van een woning en land te Achthoven.
+Bron: NA 1543, nr. 115 (1-12-1722) Procuratie aan Moyse Rigail te Londen om al zijn effecten e.d. te innen.
+Bron: NA 1543, nr. 126 (22-12-1722) Procuratie aan Moyse Rigail te Londen om zijn annuteiten in de Zuidzee Compagnie op te vragen.
+Bron: NA 1475, nr. 83 (9-8-1724) Verhuur van land.
+Bron: NA 1475, nr. 153 (1-3-1725) Procuratie aan de koopman Pieter de Wit om van N. Lochell, postmeester te Emmerik schulden op te eisen (getuige Etienne Luzac).
+Bron: NA 1474, nr. 234 (12-1-1726) Verhuur van een huis en land te Achthoven.
+Bron: NA 1475, nrs 299 (26-9-1726) en 333 (30-9-1726) Testamenten.
+Bron: NA 1476, nr. 19 (21-2-1727) Procuratie aan Petrus Hubertus Pla, procureur en notaris te Leiden, om hem te vertegenwoordigen in zijn zaak tegen Jan Mostert jr. voor de schepenbank.
+Bron: NA 1476, nrs 115 (20-11-1727) en 122 (3-12-1727) Testamenten.
+Bron: NA 1477, nr. 73 (2-6-1729) Testament.
+Bron: NA 1477, nr. 175 (25-3-1729) Procuratie aan Joh. Luijtjes om voor schepenen de koop te transporteren van een huis op de Breestraat voor 1100 van Susanna Catharina van der Coecx.
+Bron: NA 1689B, nr. 226 (16-12-1729) Procuratie aan Johannes Luijtjes sr. om voor schepenen de koop te transporteren van een huis aan de Breestraat tussen de Koornbrug en de Choor Lammersteeg van Susanna Catharina van der Coecx voor 1100 (zie boven 25-3-1729).
+Bron: NA 1477, nr. 179 (6-4-1730) Procuratie aan Gerrit van der Laan om de koop aan te nemen van een huis op het Rapenburg NZ, ter hoogte van de Kloksteeg, van de erven van Corn. Boutesteyn, voor  2600 (zie ook onder Boutesteyn).
+Bron: NA 1718, nr. 25 (z.jr.) Koopt speeltuin buiten de Hogewoerdspoort voor 1590.
+Bron: NA 1752, ff. 613-620 (6-9-1732) Testament.
+Bron: NA 1752, f. 641 (25-9-1732) Procuratie om van Jan Mostert jr. schulden op te eisen (met verwijzing naar een vonnis van de schepenen van 26-2-1727; zie ook hierboven).
+Bron: NA 1753, ff. 616-? (7-10-1733) Verhuur van een huis in Achthoven.
+Bron: NA 1753, ff. 915-? (14-12-1733) Procuratie aan Gerrit Nieuwenhuisen, commissaris van het Zeeuwse veer, om een partij land op te dragen in de heerlijkheid Esselijkerwoude.
+Bron: NA 1753, f. 967 (28-12-1733) Verkoop van hooiland.
+Bron: NA 1754, nr. 50 (1734) Akte.
+Bron: NA 1925, f. 2 (4-1-1735) Verhuur van een huis aan de Steenschuur voor 250 per jaar voor 2 jaar.
+Bron: NA 1755, f. 898 (2-9-1735) Testament.
+Bron: NA 1961, f. 368 [scan nr. ] (17-4-1736 ) Anthonij de la Font Engelse procuratie i.v.m. aandelen.
+Bron: NA 1758, ff. 902-? (31-5-1738) Uitgebreide boedel.
+Bron: NA 1928, ff. 843-46 (27-6-1738) Transport van het privilege op de uitgave van de Franse courant door zijn erven aan Etienne Luzac. Zij ontvangen daarvoor jaarlijks 1200. Vgl. andere acten in dit protocol van Aletta de la Font.
+Bron: NA 1758, ff. 1469-? (eind dec. 1738) Verkoop van huizen uit de boedel.
+Bron: NA 1758, ff. 1483-? (27-12-1738) Verkoop van weilanden uit de boedel.
+Bron: NA 2180, nr. 76 [scan nr. 295] (1745) Insinutie van de diaconen van de Waalse gemeente als executeurs van het testament van Anthoine de la Font de Graaf aan Paul Petit voor de terugbetaling van een lening van 1700.
+Bron: NA 2189, nr. 89 [scan nr. 397] (1754) Scheiding van de nalatenschap van Anthony de la Font ( 9-2-1738). Zijn dochter Aletta Maria krijgt zijn huisraad, kleren, ongemunt goud en zilver, alle de drukletters van de drukkerij, zijn bibliotheek, alle chartres en de inneschulden van en uijt zijn drukkerije proflueerende. Andere prelegaten, o.a. aan de Engelse kerk waar hij is begraven, aan behoeftige Waalse studenten (1000). Hij woonde op het Rapenburg en zijn huis mag worden verkocht t.b.v. de Waalse gemeente. Zeer uitgebreide akte.
+Bron: NA 2195, nr. 62 [scan nr. 207] (12-5-1760) Anthony de la Font de Graaf advocaat, transport van obligaties. Hij is de kleinzoon van Anthony de la Font, vgl. diens testament van 12-9-1735 voor notaris Gerard Wolff.
+Literature: Het Rapenburg VIb, 640-646; Popkin; De Navorscher, 10 (1860), 135.
+Bron: GA 86 (1698) Afschrift van een resolutie d.d. 26-11-1698 van deken en hoofdlieden vanhet boekverkopersgilde dat de Franse courantier Anthony de [la] Font geen gildelid behoefde te zijn, met een begeleidend schrijven van S. en J. Luchtmans aan de secretaris (1785).
+Vader: Jean Alexandre de la Font
+Misc: Uitgever van de Franse Leidse courant. In 1698 diende hij een bezwaarschrift in bij het gilde naar aanleiding van het overlijden van zijn meesterdrukker Henry Drummond, waardoor hij zonder personeel was komen te zitten (verslag d.d. 26-11-1698, AB 83a, f. 17r-v).
+
+
+Voornaam: Jean
+Tweede naam: Alexandre de la 
+Achternaam: Font
+Geboortedatum: 1620
+Sterfdatum: 1685
+Geboorteplaats: Vivarais of Pamiers,
+Plaats van overlijden: 
+Begraafplaats: begr. HK 10/17-11-1685
+Geslacht: M
+Start_werkperiode: 1683
+Eind_werkperiode: 1684
+Beroep: courantier
+Beroep: drukker
+Huwelijk voluit: 
+Huwelijkspartner: Jeanne Boeb
+Huwelijk
+Huwelijkspartner: Magdalena Rivire
+Datum huwelijk: 1668
+Misc: Huwelijk met Magdalena Rivire te Amsterdam.
+Adres
+Locatie: Steenschuur.
+Locatie_startdatum: 
+Personeel
+Datum Aanstelling: 
+Naam werknemer: Hendrik Drummond?
+Bron: NA 1300, nr. 125 (19-9-1681) Overeenkomst met de Parijse koopman Fr. Berthon de Leffart.
+Bron: NA 1300, nr. 126 (19-9-1681) Procuratie (in het Frans).
+Bron: NA 1300, nr. 154 (30-10-1681) Procuratie aan de Amsterdamse koopman Robert Hais (Hayes) om huizen in Amsterdam te verkopen.
+Bron: NA 1300, nr. 156 (9-11-1681) Borgstelling voor de Amsterdamse boekverkoper Jean-Maximilien Lucas t.b.v. Benjamin Doorn; zie ook nr. 177 (4-12-1681).
+Bron: NA 1082, nr. 73 (8-6-1682) Overeenkomst tussen Grietje van Nierop, weduwe Joh. van Gelder, en Jean-Alexandre de la Font betreffende de overname van boeken en de drukkerij van wijlen haar man. Zij ontvangt nog 12, hij of zij nog een bedrag van 413.5 dat vanwege het boek Marckgravii Opera medica van Sr. Westin (Wetstein?) nog te ontvangen is (verkocht op de veiling?), van Jean Rigaud (haar nieuwe man) nog 50 en van Corn. Boutesteyn nog 5, in totaal 468.5. Aan de weduwe zal bovendien nog worden vergoed 27 bladen van het werk Lexicon Harpocrationis, zodra het voldrukt is. Aan De la Font moet voorts nog worden voldaan wat voor zijn rekening op de auctie van Van Gelder verkocht is.
+Bron: NA 1083, nr. 70 (22-6-1683) Jan Rigaud en Margaretha van Nierop verkopen aan Jean-Alexandre de la Font hun derde deel van het Lexicon Harpocrationis in-4 voor 290. Dit werk verscheen uiteindelijk met als impressum J. a Gelder incepit. J.A. de la Font perfecit 1683.
+Weeshuis:  1190a (1685) Boedelinventaris. Tevens testament van zijn vrouw, die op 9-11-1685 op het Steenschuur was overleden. Akte opgemaakt door Adriaen van Oosterlinck. Redelijke boedel. In het pakhuis een kooi met een papegaai. Genoemd worden voorts goederen tot de druckerije behoorende / 2 druck-perssen, en de druckerije met desselfs verdere toebehooren / 1 partye ruit-papier.
+Literature: Sautijn Kluit 1866 en 1869-70; Meijer; Thesaurus; Van Eeghen II, 26-27; Het Rapenburg VIb, 641; Sgard (red.), Dictionnaire des journalistes (1600-1789), 554-555; zie ook website Historische kranten; De Navorscher, 10 (1860), 135.
+Bron: Van hem bestaat een portret uit 1667 met in zijn hand een editie van de Gazette dAmsterdam.
+Misc:  Volgens Sautijn Kluit kunnen er twee personen van deze naam zijn geweest, in Amsterdam en in Leiden.
+Misc: Werkte sedert c. 1667 te Amsterdam als redacteur van de Gazette ordinaire dAmsterdam, uitgegeven door Otto Barentsz Smient. Tussen 1675-78 naar Leiden, waar hij meewerkte aan de Traduction libre des gazettes flamendes et autres met Johannes van Gelder (sedert 5-7-1678 met de initialen D.L.F.). Drukte vanaf 1679 de Nouvelles extra-ordinaires de divers endroits (oudste exemplaar d.d. 1-10-1680).
+
+
+Voornaam: Meijndert
+Tweede naam: Huijbert 
+Achternaam: Fonteijn
+Geboortedatum: 
+Sterfdatum: 
+Geboorteplaats: leiden
+Plaats van overlijden: 
+Geslacht: M
+Start_werkperiode: 1784
+Eind_werkperiode: 
+Beroep: letterzetter
+Huwelijk
+Soort huwelijk: KO
+Datum huwelijk: 22-10-1784
+Huwelijkspartner:  Jacomina van Ree 
+Getuigen: zijn moeder en haar moeder Pieternella Breeveel uit Amsterdam
+Adres: Scheepmakersteeg.
+Adres
+Locatie: Scheepmakersteeg.
+Locatie_startdatum: 
+Vaer: Huijbert? Fonteijn 
+Moeder: Neeltje van Lith.
+
+
+Voornaam: Jan
+Achternaam: Fonteyn
+Geboortedatum: 
+Sterfdatum: 
+Geboorteplaats: 
+Plaats van overlijden: 
+Geslacht: M
+Start_werkperiode: 1680
+Eind_werkperiode: 
+Literature: Thesaurus.
+
+
+Voornaam: Thomas
+Tweede naam: Jaspersz 
+Achternaam: Fonteyn
+Geboortedatum: 
+Sterfdatum: 1661
+Geboorteplaats: 
+Misc: Werkzaam te Haarlem 1629-52; Leiden 1652-53; Amsterdam 1653-61
+Plaats van overlijden: 
+Geslacht: M
+Start_werkperiode: 1629
+Eind_werkperiode: 1661
+Beroep: boekverkoper
+Beroep: drukker
+Misc: Jannetje Passchiers uit Haarlem.
+Huwelijk
+Soort huwelijk: AH
+Datum huwelijk: 1-11-1652
+Huwelijkspartner: Jannetje Passchiers 
+Getuigen: 
+Adres
+Locatie:  Breestraat, in de gekroonde Druckery.
+Locatie_startdatum: 1652
+Locatie_einddatum: 1653
+Literature: Briels 281-283; Thesaurus.
+Bron: Poorterboek 1268, f. 111v (5-5-1652) Poorter, afkomstig uit Hoorn of Haarlem? (borgen Cornelis Banheining en Gijsbert de Wit).
+
+Voornaam: Francoys
+Achternaam: Formie
+Geboortedatum: 
+Sterfdatum: 
+Geboorteplaats: parijs
+Plaats van overlijden: 
+Geslacht: M
+Start_werkperiode: 1685
+Eind_werkperiode: 
+Beroep: letterzetter
+Misc: Anselick du Baer uit Rijssel, in de Drie Hoepelsteeg (getuige zijn bekende Michiel du Rieu en haar bekende Sjen Francoo).
+Huwelijk
+Soort huwelijk: KO Waalse Kerk
+Datum huwelijk: 18-10-1685
+Huwelijkspartner: Anselick du Baer 
+Getuigen: zijn bekende Michiel du Rieu en haar bekende Sjen Francoo
+Adres
+Locatie: Doelachtergracht.
+Locatie_startdatum: 
+
+
+## TOT HIER ##
+
+Voornaam: Abraham
+Achternaam: Fortrie
+Geboortedatum: 
+Sterfdatum: 
+Geboorteplaats: 
+Fortrie, Abraham (w. 1668-69)
+Plaats van overlijden: 
+Geslacht: M
+Start_werkperiode: 1668
+Eind_werkperiode: 1669
+Beroep: boekverkoper
+Beroep: boekbinder
+Beroep: greindrapier
+Kinderen: doop MK 13-8-1702 Catharina, kind van Ahraham Fortrie en Susanna van Namen
+Huwelijk voluit: 1. KO 23-11-1660 Jeanne du Pr (dochter van Johannes du Pr; getuige zijn stiefvader Jan du Boys); 2. KO 12-8-1701 Susanna Andries [van Namen?] (getuige zijn bekende Isack Pals). Kinderen
+Huwelijk
+Soort huwelijk: KO
+Datum huwelijk: 23-11-1660
+Huwelijkspartner:  Jeanne du Pr 
+Getuigen: 
+Huwelijk
+Soort huwelijk: KO
+Datum huwelijk: 12-8-1701
+Huwelijkspartner:  Susanna Andries [van Namen?] 
+Getuigen: getuige zijn bekende Isack Pals
+Adres: 1660, 1668 Haarlemmerstraat, in de buurt van de Franse kerk; 1701 Santstraat.
+Adres
+Locatie: 1668 Haarlemmerstraat, in de buurt van de Franse kerk
+Locatie_startdatum: 1660
+Adres
+Locatie: Santstraat.
+Locatie_startdatum: 1701
+Gilde: 14-8-1663 Vrijmeester als opvolger van zijn schoonmoeder, weduwe Jean du Pr (AB 83a, f. 21).
+Gilde:
+Startdatum: 14-8-1663
+Functie in het gilde: Vrijmeester
+Einddatum: 
+Gilde_InDienstVan: 
+Gilde_Literatuur: AB 83a, f. 21
+Bron: NA 769, nr. 349 (19-10-1661) Verklaring greindrapier.
+Bron: NA 770, nr. 230 (19-10-1662) Mutueel testament met Jannetje du Pree. Greindrapier.
+Bron: OHC 2/27-4-1669 Tot Leyden, by Abraham Fortry, Boeckverkooper, Swager van de Weduwe van Ian du Pre, wert gedruckt en sal in 10 a 14 Dagen uytgegeven werden: Le Heraut Muet, ou Refutation du Livre intitule: le Heraut du grand Roy Iesus, fait par le Sieur Iaen de Labadie, Pasteur de lEglise Walonne de Middelbourg. Ou est parle de la Doctrine des Chiliastes. Avec deux autres pieces justificatives: lune, pour la Confession de Foy. Et lautre, pour le Synode de Leyden, de lAn 1667. Par Antoine Hulsius, Regent du College en Theologie de Messeigneurs les Estats de Hollande &amp; de West-Frise; &amp; Professeur en la langue S. en lUniversite de Leyden. In 12.
+Bron: NA 1069, nr. 9 (8-1-1670) Acte van compagnie met zijn schoonvader aangaande de door hen beiden van de weduwe Croock gekochte calander (glanspers voor papier of textiel).
+Bron: NA 944, nr. 39 (22-5-1670) Obligatie van 2000 aan Pieter de Ridder, koopman te Haarlem (vermeld als kalandermeester).
+Bron: NA 944, nr. 41 (22-5-1670) Obligatie van 2000 aan Pieter Marcus de Quien en Willem Wijmot, voogden over de kinderen van ...
+Bron: OHC 19-9-1675 Also Abraham Fortri, gewoont hebbende binnen de Stadt Leyden, hem selven ten dienste van Coopluyden buyten de Stadt woonachtigh als Factoor ofte Maeckelaer heeft laten gebruycken, ende onder dien deckmantel in korten tijdt van veele ende vercheyde Persoonen voor ettelijcke duysenden aen goederen heeft gekocht, ende als nu met sijn Huysvrouw Jannetje de Pree, seer schelmachtigh is doorgegaen, mede nemende alle sijne Boecken ende Koopmanschappen, ende alsoo de Crediteuren van haer Achterwesen berovende; soo werdt een yder by desen versocht ende gewaerschouwt, dat die eenige Gelden aen hem Fortri schuldigh zijn, deselve aen hem ofte sijn ordre niet te betalen, ofte dat hun t selve voor geen betalinge verstrecken sal, maer dat sy hunne betalinge sullen gelieven te doen aen den Notaris Johannes vander Eycke, woonende tot Leyden, tegenover het Raethuys, die by de E:E: Achtb: Heeren van den Gerechte der selver Stede gestelt is tot Curateur over den Boedel van den voorn: Fortri: dat wyders die geene, die den voorsz. Fortri ende sijn Huysvrouwe sal konnen aenwysen, dat sy, ofte een van beyde, in besloote hechtenisse komen te geraecken, tot een Vereeringe van de Crediteuren sullen genieten voor yder Persoon 100 Silvere Ducatons: den voorsz. Fortri is middelmatigh van lengte, een wynigh pockdaligh van Aengesicht, out omtrent 6 a 38 Jaren; ende sijn Huysvrouw mede middelbaer van lengte, geelu van couleur, ende wat lyvigh, out omtrent 4 a 36 Jaren. De advertentie werd herhaald op 24-9-1675.
+Bron: NA 1329, nr. 46 (1680) Akte.
+Bron: NA 1329, nr. 88 (12-2-1681) Mutueel testament.
+Bron: NA 1329, nr. 97 (4-4-1681) Huurt van Catharina de Tombe huis in Maredorp op de hoek van de Vrouwesteeg voor 4 jaar  110 per jaar.
+Bron: NA 1357, nr. 63 (16-4-1682) Voogd over de nagelaten kinderen van Jean du Pr en Magdalena Desquiers.
+Literature: Thesaurus.
+Bron: unknown
+#TEST#Fortrie, Abraham (w. 1668-69)
+#TEST#Greindrapier, later boekbinder en boekverkoper.
+#TEST#Adres: 1660, 1668 Haarlemmerstraat, in de buurt van de Franse kerk; 1701 Santstraat.
+#TEST#Huwelijk: 1. KO 23-11-1660 Jeanne du Pr (dochter van Johannes du Pr; getuige zijn stiefvader Jan du Boys); 2. KO 12-8-1701 Susanna Andries [van Namen?] (getuige zijn bekende Isack Pals). Kinderen: doop MK 13-8-1702 Catharina, kind van Ahraham Fortrie en Susanna van Namen.
+#TEST#Gilde: 14-8-1663 Vrijmeester als opvolger van zijn schoonmoeder, weduwe Jean du Pr (AB 83a, f. 21).
+#TEST#NA 769, nr. 349 (19-10-1661) Verklaring greindrapier.
+#TEST#NA 770, nr. 230 (19-10-1662) Mutueel testament met Jannetje du Pree. Greindrapier.
+#TEST#OHC 2/27-4-1669 Tot Leyden, by Abraham Fortry, Boeckverkooper, Swager van de Weduwe van Ian du Pre, wert gedruckt en sal in 10 a 14 Dagen uytgegeven werden: Le Heraut Muet, ou Refutation du Livre intitule: le Heraut du grand Roy Iesus, fait par le Sieur Iaen de Labadie, Pasteur de lEglise Walonne de Middelbourg. Ou est parle de la Doctrine des Chiliastes. Avec deux autres pieces justificatives: lune, pour la Confession de Foy. Et lautre, pour le Synode de Leyden, de lAn 1667. Par Antoine Hulsius, Regent du College en Theologie de Messeigneurs les Estats de Hollande &amp; de West-Frise; &amp; Professeur en la langue S. en lUniversite de Leyden. In 12.
+#TEST#NA 1069, nr. 9 (8-1-1670) Acte van compagnie met zijn schoonvader aangaande de door hen beiden van de weduwe Croock gekochte calander (glanspers voor papier of textiel).
+#TEST#NA 944, nr. 39 (22-5-1670) Obligatie van 2000 aan Pieter de Ridder, koopman te Haarlem (vermeld als kalandermeester).
+#TEST#NA 944, nr. 41 (22-5-1670) Obligatie van 2000 aan Pieter Marcus de Quien en Willem Wijmot, voogden over de kinderen van ...
+#TEST#OHC 19-9-1675 Also Abraham Fortri, gewoont hebbende binnen de Stadt Leyden, hem selven ten dienste van Coopluyden buyten de Stadt woonachtigh als Factoor ofte Maeckelaer heeft laten gebruycken, ende onder dien deckmantel in korten tijdt van veele ende vercheyde Persoonen voor ettelijcke duysenden aen goederen heeft gekocht, ende als nu met sijn Huysvrouw Jannetje de Pree, seer schelmachtigh is doorgegaen, mede nemende alle sijne Boecken ende Koopmanschappen, ende alsoo de Crediteuren van haer Achterwesen berovende; soo werdt een yder by desen versocht ende gewaerschouwt, dat die eenige Gelden aen hem Fortri schuldigh zijn, deselve aen hem ofte sijn ordre niet te betalen, ofte dat hun t selve voor geen betalinge verstrecken sal, maer dat sy hunne betalinge sullen gelieven te doen aen den Notaris Johannes vander Eycke, woonende tot Leyden, tegenover het Raethuys, die by de E:E: Achtb: Heeren van den Gerechte der selver Stede gestelt is tot Curateur over den Boedel van den voorn: Fortri: dat wyders die geene, die den voorsz. Fortri ende sijn Huysvrouwe sal konnen aenwysen, dat sy, ofte een van beyde, in besloote hechtenisse komen te geraecken, tot een Vereeringe van de Crediteuren sullen genieten voor yder Persoon 100 Silvere Ducatons: den voorsz. Fortri is middelmatigh van lengte, een wynigh pockdaligh van Aengesicht, out omtrent 6 a 38 Jaren; ende sijn Huysvrouw mede middelbaer van lengte, geelu van couleur, ende wat lyvigh, out omtrent 4 a 36 Jaren. De advertentie werd herhaald op 24-9-1675.
+#TEST#NA 1329, nr. 46 (1680) Akte.
+#TEST#NA 1329, nr. 88 (12-2-1681) Mutueel testament.
+#TEST#NA 1329, nr. 97 (4-4-1681) Huurt van Catharina de Tombe huis in Maredorp op de hoek van de Vrouwesteeg voor 4 jaar  110 per jaar.
+#TEST#NA 1357, nr. 63 (16-4-1682) Voogd over de nagelaten kinderen van Jean du Pr en Magdalena Desquiers.
+#TEST#Lit.: Thesaurus.
+
+
+Voornaam: Sara
+Tweede naam: de 
+Achternaam: Four
+Geboortedatum: 
+Sterfdatum: 
+Geboorteplaats: 
+Four, Sara de (w. 1766)
+Plaats van overlijden: 
+Geslacht: F
+Start_werkperiode: 1766
+Eind_werkperiode: 
+Beroep: spelkaartverkoper
+Adres: hoek Maarsmansteeg.
+Adres
+Locatie: hoek Maarsmansteeg.
+Locatie_startdatum: 
+Gilde: 1766 Contribuant (AB 83c, f. 95).
+Gilde:
+Startdatum: 1766
+Functie in het gilde: Contribuant
+Einddatum: 
+Gilde_InDienstVan: 
+Gilde_Literatuur: AB 83c, f. 95
+Bron: NA 2053, nr. 113 (1764) Akte.
+Bron: unknown
+#TEST#Four, Sara de (w. 1766)
+#TEST#Speelkaartverkoopster.
+#TEST#Adres: hoek Maarsmansteeg.
+#TEST#NA 2053, nr. 113 (1764) Akte.
+#TEST#Gilde: 1766 Contribuant (AB 83c, f. 95).
+
+
+Voornaam: Simon
+Tweede naam: le 
+Achternaam: Fourbe
+Geboortedatum: 
+Sterfdatum: 
+Geboorteplaats: 
+Fourbe, Simon le (w. 1664)
+Plaats van overlijden: 
+Geslacht: M
+Start_werkperiode: 1664
+Eind_werkperiode: 
+Adres: Steenschuur.
+Adres
+Locatie: Steenschuur.
+Locatie_startdatum: 
+Literature: Thesaurus.
+Bron: unknown
+#TEST#Fourbe, Simon le (w. 1664)
+#TEST#Pseudoniem?
+#TEST#Adres: Steenschuur.
+#TEST#Lit.: Thesaurus.
+
+
+Voornaam: Jean
+Tweede naam: le 
+Achternaam: Franois
+Geboortedatum: 
+Sterfdatum: 
+Geboorteplaats: 
+Franois, Jean le (w. 1678)
+Plaats van overlijden: 
+Geslacht: M
+Start_werkperiode: 1678
+Eind_werkperiode: 
+Literature: Ledeboer.
+Bron: unknown
+#TEST#Franois, Jean le (w. 1678)
+#TEST#Pseudoniem?
+#TEST#Lit.: Ledeboer.
+
+
+Voornaam: Carel
+Achternaam: Fransz
+Geboortedatum: 
+Sterfdatum: 
+Geboorteplaats: delft
+Fransz, Carel (* Delft; w. 1633)
+Plaats van overlijden: 
+Geslacht: M
+Start_werkperiode: 1633
+Eind_werkperiode: 
+Beroep: boekdrukker
+Huwelijk voluit: KO 27-1-1633 Josina Carels (getuige zijn meester Willem Christiaensz van der Boxe).
+Huwelijk
+Soort huwelijk: KO
+Datum huwelijk: 27-1-1633
+Huwelijkspartner:  Josina Carels 
+Getuigen: getuige zijn meester Willem Christiaensz van der Boxe
+Adres: Doelengracht (of Broertjensgracht?).
+Adres
+Locatie: Doelengracht (of Broertjensgracht?).
+Locatie_startdatum: 
+Bron: unknown
+#TEST#Fransz, Carel (* Delft; w. 1633)
+#TEST#Boekdrukker.
+#TEST#Adres: Doelengracht (of Broertjensgracht?).
+#TEST#Huwelijk: KO 27-1-1633 Josina Carels (getuige zijn meester Willem Christiaensz van der Boxe).
+
+
+Voornaam: Frans
+Achternaam: Fransz
+Geboortedatum: 
+Sterfdatum: 
+Geboorteplaats: 
+Fransz, Frans (w. 1619-20)
+Plaats van overlijden: 
+Geslacht: M
+Start_werkperiode: 1619
+Eind_werkperiode: 1620
+Adres: Haarlemmerstraat.
+Adres
+Locatie: Haarlemmerstraat.
+Locatie_startdatum: 
+Literature: Thesaurus.
+Bron: unknown
+#TEST#Fransz, Frans (w. 1619-20)
+#TEST#Pseudoniem?
+#TEST#Adres: Haarlemmerstraat.
+#TEST#Lit.: Thesaurus.
+
+
+Voornaam: Jan
+Achternaam: Fransz
+Geboortedatum: 
+Sterfdatum: 
+Geboorteplaats: 
+Fransz, Jan (w. 1652)
+Plaats van overlijden: 
+Geslacht: M
+Start_werkperiode: 1652
+Eind_werkperiode: 
+Adres: 1652 Haarlemmerstraat.
+Adres
+Locatie: Haarlemmerstraat.
+Locatie_startdatum: 1652
+Literature: Thesaurus.
+Bron: unknown
+#TEST#Fransz, Jan (w. 1652)
+#TEST#Pseudoniem?
+#TEST#Adres: 1652 Haarlemmerstraat.
+#TEST#Lit.: Thesaurus.
+
+
+Voornaam: ?
+Achternaam: Freekbuur
+Geboortedatum: 
+Sterfdatum: 
+Geboorteplaats: 
+Freekbuur, ? (w. 1784)
+Plaats van overlijden: 
+Geslacht: M
+Start_werkperiode: 1784
+Eind_werkperiode: 
+Literature: Ledeboer.
+Bron: Gefingeerd uithangteken In de meniste waarheyd.
+#TEST#Freekbuur, ? (w. 1784)
+#TEST#Pseudoniem.
+#TEST#Gefingeerd uithangteken In de meniste waarheyd.
+#TEST#Lit.: Ledeboer.
+
+
+Voornaam: 
+Achternaam: 
+Geboortedatum: 
+Sterfdatum: 
+Geboorteplaats: 
+Fries, Asinga Ellerts de, zie Vries, De
+Plaats van overlijden: 
+Geslacht: M
+Start_werkperiode: 
+Eind_werkperiode: 
+Bron: unknown
+#TEST#Fries, Asinga Ellerts de, zie Vries, De
+
+
+Voornaam: Bartholomeus
+Tweede naam: Jacobsz de 
+Achternaam: Fries
+Geboortedatum: 
+Sterfdatum: 
+Geboorteplaats: 
+Fries, Bartholomeus Jacobsz de (w. 1617)
+Plaats van overlijden: 
+Geslacht: M
+Start_werkperiode: 1617
+Eind_werkperiode: 
+Beroep: boekverkoper
+Huwelijk voluit: Agatha Maartens van Meer.
+Adres: 1617 Lokhorststraat, Over t Groot School.
+Adres
+Locatie: Lokhorststraat, Over t Groot School.
+Locatie_startdatum: 1617
+Bron: NA 97A, nr. 138 (22-5-1617) Mutueel testament.
+Literature: Ledeboer; Thesaurus.
+Bron: unknown
+#TEST#Fries, Bartholomeus Jacobsz de (w. 1617)
+#TEST#Boekverkoper?
+#TEST#Adres: 1617 Lokhorststraat, Over t Groot School.
+#TEST#Huwelijk: Agatha Maartens van Meer.
+#TEST#NA 97A, nr. 138 (22-5-1617) Mutueel testament.
+#TEST#Lit.: Ledeboer; Thesaurus.
+
+
+Voornaam: Claude
+Achternaam: Frison
+Geboortedatum: 
+Sterfdatum: 
+Geboorteplaats: 
+Frison, Claude (w. 1669)
+Plaats van overlijden: 
+Geslacht: M
+Start_werkperiode: 1669
+Eind_werkperiode: 
+Beroep: boekverkoper
+Literature: Thesaurus.
+Bron: unknown
+#TEST#Frison, Claude (w. 1669)
+#TEST#Boekverkoper?
+#TEST#Lit.: Thesaurus.
+
+
+Voornaam: Dirk
+Achternaam: Frousse
+Geboortedatum: 
+Sterfdatum: 
+Geboorteplaats: 
+Frousse, Dirk (w. 1632?)
+Plaats van overlijden: 
+Geslacht: M
+Start_werkperiode: 1632
+Eind_werkperiode: 
+Beroep: boekverkoper
+Bron: Bron: Bibl. KVB, VH 11.
+#TEST#Frousse, Dirk (w. 1632?)
+#TEST#Boekverkoper?
+#TEST#GAL, Dingboek WW, f. 61 (?) Zaak vs. Dirk van Zijl.
+#TEST#Bron: Bibl. KVB, VH 11.
+
+

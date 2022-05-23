@@ -1,0 +1,439 @@
+﻿
+Voornaam: Jan
+Tweede naam: Hendricxz 
+Achternaam: Nachtegael
+Geboortedatum: 1612
+Sterfdatum: 
+Geboorteplaats: Leiden
+Misc: 16-4, volgens STCN 1616-17 w. in Amsterdam?
+Plaats van overlijden: 
+Geslacht: M
+Start_werkperiode: 1601
+Eind_werkperiode: 1602
+Beroep: boekdrukker
+Naam kind: Henrick Nachtegael
+Naam kind: Jan Nachtegael
+Huwelijk
+Soort huwelijk: KO
+Datum huwelijk: 2-6-1601
+Huwelijkspartner: Jannetje Huygens 
+Getuigen: getuige zijn oom Jan Jacobsz Paedts en haar zuster Marytje
+Adres: 1609 Breestraat.
+Adres
+Locatie: Breestraat.
+Locatie_startdatum: 1609
+Bron: NA 74, nr. 61 (23-4-1607) Vermeld als concierge van het stadhuis.
+Bron: NA 341, nr. 19 (17-2-1628) Testament van zijn vrouw. Haar zonen Hendrik en Jan ontvangen elk 500. Zij kan haar handtekening niet zetten.
+Bron: NA 251, nr. 105 [scan 362 e.v.] (1628) Boedel van zijn vrouw; zij was al weduwe. Huis aan de Oude Rijn schuin over de Amsterdamse Veer. Slecht leesbaar. Vgl. nr. 105, waarin sprake is van zijn zoon Henric Jansz Nachtegael, notaris.
+Literature: Briels 377.
+Bron: Een Hendrick Nachtegael wordt in 1577 genoemd als stadhouder van de schout van Leiden (NA 6, nr. 396).
+Misc: Een Hendrick Nachtegael wordt in 1577 genoemd als stadhouder van de schout van Leiden (NA 6, nr. 396).
+
+
+Voornaam: Joris
+Tweede naam: Gerritsz 
+Achternaam: Nachtegael
+Geboortedatum: 
+Sterfdatum: 
+Misc: w. Amsterdam 1604; Leiden 1610-15; Amsterdam 1616-1617
+Plaats van overlijden: 
+Geslacht: M
+Start_werkperiode: 1604
+Eind_werkperiode: 1617
+Beroep: boekdrukker
+Adres
+Locatie: Middel[ste] Raamsteeg.
+Locatie_startdatum: 1615
+Bron: NA 38, nr. 184 (28-11-1610) Getuige bij mutueel testament prof. Ludolf van Ceulen en Adriana Simons.
+Literature: Briels 377; Thesaurus.
+
+
+Voornaam: Philips
+Tweede naam: Hendricksz 
+Achternaam: Nachtegael
+Geboortedatum: 1578
+Sterfdatum: 1612
+Geboorteplaats: leiden
+Plaats van overlijden: 
+Begraafplaats: begr. 4-1612
+Geslacht: M
+Start_werkperiode: 1605
+Eind_werkperiode: 1613
+Beroep: boekverkoper
+Beroep: boekbinder
+Huwelijk
+Soort huwelijk: KO
+Datum huwelijk: 26-5-1609
+Huwelijkspartner:  Belytje Willems 
+Getuigen: getuige zijn broer Jan
+Adres
+Locatie: Nieuwe Sionstraat
+Locatie_startdatum: 
+Adres
+Locatie: Plein van het Gravesteen (Bonboek Over t Hof, f. 435v)
+Locatie_startdatum: 
+Adres
+Locatie: Nieuwe Rijn.
+Locatie_startdatum: 1612
+Bron: NA 90a, nr. 149 (5-12-1608) Verklaring van o.a. Nachtegael, oud 30 jaar, t.v.v. Jan Jansz Storm n.a.v. een weddenschap over een reis.
+Bron: NA 77, nr. 159 (8-11-1610) Procuratie aan de Amsterdamse not. Willem Benninck om zijn zaak voor schepenen aldaar waar te nemen.
+Bron: NA 93a, nr. 168 (15-6-1612) Verklaring Dammas Adriaensz van der Codde, Jan Jansz van Hoorenburch en Niclaes Motu t.b.v. Philips Nachtegael n.a.v. de aflossing van een losrente (?) van 31 n.a.v. de koop van een huis t.o. het Gravesteen.
+Bron: NA 87, nr. 54 (27-8-1612) Verklaring o.a. Jac. van Loo, onderwijzer aan de Triviale School t.v.v. Nachtegael.
+Bron: NA 78, nr. 237 (4-11-1612) Verklaring Jan Pietersz van Bosche en Pieter Pietersz van Bosche t.v.v. Jac. van Loo, dat Nachtegael met ingang van mei 1612 zijn huis bij het Gravesteen had verhuurd aan Van Loo voor 3 jaar.
+Bron: NA 41, nr. 38 (7-3-1613) Procuratie Jan Jansz te Arnhem aan Gerrit Maertensz van Peltenburg om van zijn erven 147.6 te innen voor geleverde boeken en papier.
+Bron: NA 41, nr. 44 (15-3-1613) Procuratie Jan van Waesberge te Rotterdam aan Gerrit Maertensz van Peltenburg om van Nachtegaels erven 101.10 te innen voor geleverde boeken.
+Bron: NA 95, nr. 36 (16-2-1614) Verklaring Jacob van Loo n.a.v. het huis t.o. het Gravesteen dat hij in 1612 had gehuurd en naderhand had gekocht van wijlen Nachtegael.
+Bron: NA 156, nr. 111 (1616) Procuratie van Jan de Trooster te Colchester aan de procureur Ewout Schilperoort e.a. i.v.m. de inning van een schuld die zijn grootvader Jan de Trooster heeft uitstaan bij Belijtje Willems.
+Literature: Briels 377; Witkam.
+Bron: Vgl. (zijn vader?) Weeskamer 2934a (7-8-1577) Testament; 2934b (30-11-1580) Inventaris; 2934c (12-12-1583) Rekening; 2934d (z.j.) Rekening van goederen gekomen aan Jacob Woutersz Heuckesloot; 2934e (1578-84) Processtukken; 2934f (18-12-1587) Rekening; 2934g (17-3-1592) Rekening; 2934h (28-3-1600) Rekening van goederen gekomen aan Claes Jacobsz Heuckesloot; 2934j Bijlagen.
+Misc: 1607 Kandidaat-pedel van de universiteit.
+Misc: Opgenomen in de lijst van Latijnse boekverkopers in 1608.
+Misc: 1605-1609 in voormalige winkel van Plantijn op de binnenplaats van de Academie.
+Misc: Zie ook Adolf Engelbrecht.
+Misc: Vgl. (zijn vader?) Weeskamer 2934a (7-8-1577) Testament; 2934b (30-11-1580) Inventaris; 2934c (12-12-1583) Rekening; 2934d (z.j.) Rekening van goederen gekomen aan Jacob Woutersz Heuckesloot; 2934e (1578-84) Processtukken; 2934f (18-12-1587) Rekening; 2934g (17-3-1592) Rekening; 2934h (28-3-1600) Rekening van goederen gekomen aan Claes Jacobsz Heuckesloot; 2934j Bijlagen.
+
+
+Voornaam: Josephus
+Tweede naam:  
+Achternaam: van der Nave
+Geboortedatum: 1607
+Sterfdatum: 
+Geboorteplaats: leiden
+Plaats van overlijden: 
+Geslacht: M
+Start_werkperiode: 1630
+Eind_werkperiode: 1635
+Beroep: boekverkoper
+Kinderen: 
+Doop: PK 
+Geboortedatum kind: 14-2-1631 
+Naam kind: Anna
+Kinderen: 
+Doop: HK 
+Geboortedatum kind: 9-1-1633 
+Naam kind: Jacquemijntje
+Misc: Catharina Adriaens uit Amsterdam
+Huwelijk
+Huwelijkspartner: Catharina Adriaens
+Huwelijk
+Soort huwelijk: KO
+Datum huwelijk: 25-6-1629
+Huwelijkspartner: Jaecquemijntje Nolleth 
+Getuigen: getuige zijn toekomstige oom Dionijs van Steenstraete
+Adres
+Locatie: St. Jansstraat, In de ghekroonde bijbel
+Locatie_startdatum: 1627
+Adres
+Locatie:  Zonneveldsteeg ZZ, in de ghekroonde bijbel (Zevenhuizen f. 21v).
+Locatie_startdatum: 1629
+Locatie_einddatum: 1635
+Bron: NA 300, nr. 41 (27-2-1631) Insinuatie door Andries Cloeck aangaande het nadrukken van een deel (de tafels) uit het Schatboeck van Zacharias Ursinus in vertaling van Festus Hommius waarop Cloeck van de SG een octrooi voor 7 jaar had. De Nave verklaarde echter t.o. de notaris dat hij door ging met zijn uitgave, die reeds goed gevorderd was, daar Festus Hommius hem consent had gegeven en hem bovendien een voorwoord had beloofd.
+Bron: NA 375, nr. 138 (15-9-1634) Schuldeiser van student Laurentius Petri Roelander voor 30.
+Bron: NA 173, f. 118 (26-4-1637) Afhandeling van zijn schulden. Als vertegenwoordigers van zijn voornaamste schuldeiser, de Amsterdamse papierkoopman Hans Petiteau, treden op Joost Ockers, Jan Willemsz van der Stoffel en Jan Jansz van Dorp. Josephus had een dochter Jacquemijntje bij zijn tweede vrouw.
+Literature: Briels 377; Geesink 1986.
+
+Voornaam: Jan
+Tweede naam: Huybrechtsz van 
+Achternaam: Nederwaert
+Naamsvariant: Jan Neerwaert
+Geboortedatum: 
+Sterfdatum: 
+Geboorteplaats: leiden
+Plaats van overlijden: 
+Geslacht: M
+Start_werkperiode: 1605
+Eind_werkperiode: 1614
+Beroep: boekverkoper
+Beroep: boekbinder
+Huwelijk
+Soort huwelijk: SH
+Datum huwelijk: 1/9-7-1605
+Huwelijkspartner: Lydya Jans de Clerck 
+Getuigen: getuige zijn bekende Willem Vincentensz en zijn cousijn Coenraad Adriaensz
+Adres
+Locatie: Kolfmakersteeg of Meutjessteeg (Bevolkingsregister).
+Locatie_startdatum: 
+Bron: NA 79, nr. (330) (3-12-1614) Verklaring Joris Abrahamsz van der Marsche en Ulrick Corsz van Honthorst op zijn verzoek, dat zij tot twee maal toe hebben gedrukt een boekje, de eerste maal onder de titel Vrye zevaert ofte bewys van t regt dat den Hollanders toecomt over de Indische coophandel, uit het Latijn vertaald, de tweede maal Vrije zevaert ofte bewijs van t regt dat de ingesetenen deser geunieerde landen toecomt over de Indische coophandel, ten tweedemael oversien ende verbetert deur den autheur selfs.
+Literature: Briels 562-563; Thesaurus; Nellen 167; Briefwisseling Grotius I, no. 357 (Bertius aan de Groot, 3-8-1614).
+Bron: ARA, SG 4929 (?18-8-1614) Privilege op Hugo de Groot, Vrye zeevaert ofte bewys van t recht dat den Hollanders toecompt over de Indische coophandel, vertaald uit het Latijn door P.B. (Petrus Bertius?) (Ter M/D 552 en 554 [1614; de tweede dr. samen met Blaeu in Amsterdam]). Bertius fungeerde als bemiddelaar tussen Grotius en de uitgever, die volgens een brief van Bertius arm was met veel kinderen en door een dedicatie aan het stadsbestuur van Rotterdam of de Staten Generaal wat wilde bijverdienen.
+Misc: 1608 Ondertekenaar van het protest tegen Amsterdamse fockers.
+
+
+Voornaam: Nicolaes
+Tweede naam: van 
+Achternaam: Nes
+Geboortedatum: 
+Sterfdatum: 
+Geboorteplaats: 
+Plaats van overlijden: 
+Geslacht: M
+Start_werkperiode: 1653
+Eind_werkperiode: 1656
+Literature: STCN.
+Adres
+Locatie: Breestraat
+Locatie_startdatum: 1653
+
+
+
+Voornaam: Kornelis
+Naamsvariant: Cornelis Claesz? Nicolai
+Achternaam: Nicolai
+Geboortedatum: 
+Sterfdatum: 
+Geboorteplaats: 
+Plaats van overlijden: 
+Geslacht: M
+Start_werkperiode: 1603
+Eind_werkperiode: 
+Beroep: boekverkoper
+
+
+Voornaam: Leonardus
+Achternaam: Niestus
+Geboortedatum: 
+Sterfdatum: 
+Geboorteplaats: 
+Plaats van overlijden: 
+Geslacht: M
+Start_werkperiode: 1585
+Eind_werkperiode: 
+Literature: Thesaurus 128.
+Misc: Pseudoniem van L. Ostein te Bazel.
+Literature: Thesaurus 128.
+
+
+Voornaam: Jan
+Tweede naam: Jansz 
+Achternaam: Nieukerck
+Geboortedatum: 
+Sterfdatum: 
+Geboorteplaats: 
+Plaats van overlijden: 
+Geslacht: M
+Start_werkperiode: 1620
+Eind_werkperiode: 
+Literature: Thesaurus.
+Bron: unknown
+Misc: Pseudoniem?
+
+
+Voornaam: Jan
+Achternaam: Nisbeth
+Geboortedatum: 
+Sterfdatum: 
+Geboorteplaats: Edinburgh
+Plaats van overlijden: 
+Geslacht: M
+Start_werkperiode: 1646
+Eind_werkperiode: 
+Beroep: boekdrukker
+Misc: Maria Nicolson uit Aberdeen (getuige zijn bekende Joris Farquhar); het huwelijk vond plaats op 13 mei in Warmond.
+Huwelijk
+Soort huwelijk: KO
+Datum huwelijk: 13-4-1646
+Huwelijkspartner: Maria Nicolson 
+Getuigen: getuige zijn bekende Joris Farquhar
+Adres
+Locatie: Uiterstegracht.
+Locatie_startdatum: 
+
+
+Voornaam: Johannes
+Tweede naam: Georgius 
+Achternaam: Nisselius
+Geboortedatum: 1624
+Sterfdatum: 1662
+Geboorteplaats: Haseloch [Palts]
+Misc: (voor 17-10)
+Plaats van overlijden: 
+Geslacht: M
+Start_werkperiode: 1655
+Eind_werkperiode: 1662
+Beroep: uitgever
+Beroep: drukker
+Bron: NA 673, nr. 98 (10-10-1657) Obligatie aan Jan Maire van 71; borg de schoenmaker Jan Thonisz. Get. Abr. Verhoef.
+Bron: NA 716, nr. 18 (2-3-1658) Verklaring letterzetter Dirck Pietersz. Waterloo, oud 19 jaar, wonende in de Korte Schoolsteeg, t.v.v. van de hoofdlieden van het boekverkopersgilde dat hij ca. 9 maanden heeft gewerkt bij Jan Baron op het Sant, en dat hij gezien heeft dat Dr. Joh. Nisselius, praeceptor van de 2e klas van de Triviale School op zaterdag en zondag is gekomen met geld om de drukkersgasten te betalen en dat Baron had gezegd dat hij maar een meesterknecht was en dat Nisselius de winkel aanging, sulcx dat Baron van de cleyne dingen ende tgene wijders voorviel bouck gehouden heeft om daer van reeckening aen Nisselius te doen, in welck register hij Baron ook teyckende zijn belooning van drije rycxdaalders ter weeck die hij van Nisselius genoot, als mede de andere knechten verdiende ende ontfingen.
+Bron: NA 412, nr. 49 (20-3-1658) Verkoopt aan Jan Zacharias Baron, drukker op t Sant al zijn letters, uyt[gezonderd] verscheyden de orientaelse als arabes, hrebrees, aethiops, rabbijns, griecks, Syris etc., alsoo de vercoper deselve aen hem behout; voorts al het gereedschap tot de drukkerij behorende zoals dat staat in het huis van Baron. De letters zijn: augustijn romijn en cursief  8 st. het pond; mediaan romein en cursief  10 st.; descendiaan romein  5 st.; text romein en cursief  8 st.; assendonica romein en cursief  3 st.; canon romein  8 st.; paragon nederduits  7 st.; canon duits  3 st.; mediaan hoogduits  8 st.; garamont romein en cursief  3 st.; alle kapitalen groot en klein, bloemen, strikken, etc.  8 st., dan het formaat, de ramen, kassen, schragen, borden en banken etc. voor 30. Baron zal het totaalbedrag in termijnen betalen met steeds 50.
+Bron: NA 381, nr. 77 (8-4-1660) Obligatie aan Joannes Snoeck, kamerbewaarder van de Weeskamer van  150. Als onderpand dienen 150 suyvere wel geconditioneerde exemplaren vanden Hebreuschen Bijbel in octavo, jegenwoordig voor hem comparant gedruckt werdende. Zodra de bijbel voltooid is en verkocht wordt, kan de lening worden afgelost. De Bijbel verscheen uiteindelijk pas in 1662 na de dood van Nisselius Volgens Fuks en Fuks-Mansfeld was de oplage 5000 exemplaren, die waren voorgefinancierd door de papierhandelaar Christoffel van Gangelt.
+Bron: Nationaal Archief, Academische Vierschaar, 03.03.06, 24 (Dingboek F), ff. 129-130 (1660-1661) Jan Zachariasz Baron contra Johannes Georgius Nisselius, om zijn huis gerustelijk te laten bewonen, zijne gekogte drukletters gebruijken, zijne gelede schade te voldoen, en van een borgtogte te ontlasten. Nisselius wordt op 4-11-1660 veroordeeld om de kamer waar de drukkerij in is gevestigd te laten gebruiken en het nog verschuldigde bedrag over de letters te betalen. Op 24-11 wordt de pedel gelast de kamer te openen.
+Bron: Nationaal Archief, Academische Vierschaar, 03.03.06, 24 (Dingboek F), f. 127 (1660) Siafin Kandij contra Johannes Georgius Nisselius om betaling van 120 volgens obligatie en 35 voor schrijfloon en kamerhuur.
+Bron: NA 942, nr. 140 (14-10-1662) Testament; vier universele erfgenamen: de kleermaker Jan Teunis van Geldermalsen, de student Theodorus Petraeus, de drukker Johan Simmer en de droogscheerder Johannes Godtman. Blijkens NA 942, nr. 143 (17-10-1662) was hij toen overleden. Zijn boedel in de Desolate Boedelkamer GAA of RAL? (Van Eeghen).
+Bron: SA 78 (Gerechtsdagboek KK), f. 347r (23-3-1663) Consent aan de erven van Johannes Georgius Nisselius voor de verkoop van zijn boeken. Opzienders 2.10.
+Literature: Rahlfs 1917; ADB XXIII, 702-703; Philologia Arabica, 188-193; Juynboll; Molhuysen, Bronnen, III, 87, 90; Van Eeghen IV, 215-216; Folkers 288; Fuks en Fuks-Mansfeld, I, 45-49; Heller, The seventeenth-century Hebrew book: An abridged thesaurus, II, 839-840; Heller, Further studies in the making of the early Hebrew book, 316-317; Deutsche Biographie, s.v. Nissel, Johann Georg.
+Bron: Molhuysen, Bronnen, III, 165: C 7-5-1660 Verzoek van Nisselius om de titel van Professor linguarum exoticarum te dragen en daarbij een klein tractement te genieten wordt afgeslagen; wel krijgt hij 60 voor dat hy eenige stucken uyt het Oude Testament, oock sommige adagia, sententias, precationes ende homilia de nativitate domini nostri Jhesu Christi uyt dAethiopische sprake in de Latijnsche tale overgeset, ende tot sijnen kosten met den druck gemeen gemaeckt, mitsgaders aen de heeren van dese vergaderinge gedediceert ende eenige exemplaren van t voors. werck overgelevert heeft.
+Misc: Praeceptor van de Latijnse school; Propagator Linguarum orientalium aan de Leidse universiteit; drukker/uitgever.
+Misc: 11-1644 ingeschreven aan de universiteit van Rostock. Als plaats van herkomst wordt Pforzheim opgegeven.
+Misc: Begon, na een aantal Erpenius-lettertypen van de Elzeviers te hebben overgenomen, een oosterse drukkerij. Hij werkte samen met Theodorus Petreius, die het bedrijf na zijn dood nog enige tijd voortzette. Hij verpandde zijn lettermateriaal aan Nicolaes Witsen, die op zijn beurt materiaal verkocht aan de Engelse geleerde Bernard en aan de Hamburgse koopman Paul Kraai (Folkers; Fuks en Fuks-Mansfeld).
+Misc: Gerechtsdagboeken: 78, f. 347.
+Misc: Album studiosorum: 7-3-1647 Joannes Georgius Nisselius Haselochensis Palatinus, 23.
+Misc: 12-1653 genoemd in een brief van D. de Wilhem aan Constantijn Huygens: De Duitsche student, dien ik naar u heb gezonden, heet Johannes Georgius Nisselius en komt uit Spiers. Kunt gij iets voor hem doen bij graaf Willem? Worp, Briefwisseling, V, nr. 5321.
+
+Voornaam: Cornelis
+Achternaam: Noest
+Geboortedatum: 
+Sterfdatum: 
+Geboorteplaats: 
+Plaats van overlijden: 
+Geslacht: M
+Start_werkperiode: 1728
+Eind_werkperiode: 
+Beroep: boekverkoper
+Bron: STCN.
+
+
+Voornaam: Cornelis
+Tweede naam: Pietersz van 
+Achternaam: Noorde
+Geboortedatum: 
+Sterfdatum: 
+Geboorteplaats: leiden
+Plaats van overlijden: 
+Geslacht: M
+Start_werkperiode: 1605
+Eind_werkperiode: 
+Beroep: boekverkoper
+Misc: Neeltje Dircx Noyee uit Alkmaar (zij woont in het Huis te Wijngaerden; getuige zijn vader en de vrouwe van Wijngaerden).
+Huwelijk
+Soort huwelijk: KO
+Datum huwelijk: 24-11-1605
+Huwelijkspartner: Neeltje Dircx Noyee 
+Getuigen: Zijn vader en de vrouwe van Wijngaerden
+Adres
+Locatie: Nieuwe Rijn (Begraafboek).
+Locatie_startdatum: 1608
+Bron: Zoon van Pieter van Noorde.
+
+Voornaam: Dirck
+Tweede naam: Pietersz van 
+Achternaam: Noort
+Geboortedatum: 
+Sterfdatum: 
+Geboorteplaats: 
+Plaats van overlijden: 
+Geslacht: M
+Start_werkperiode: 1622
+Eind_werkperiode: 
+Beroep: boekdrukker
+Bron: NA 140, nr. 107 (3-9-1622) Getuige bij verkoop aandeel Matthijs Elzevier aan zijn zoon Abraham.
+Bron: unknown
+
+
+Voornaam: Cornelis
+Achternaam: Noodt
+Naamsvariant: Cornelis Noordt
+Geboortedatum: 
+Sterfdatum: 
+Geboorteplaats: 
+Plaats van overlijden: 
+Geslacht: M
+Start_werkperiode: 1723
+Eind_werkperiode: 
+Beroep: boekverkoper
+Gilde:
+Startdatum: 
+Functie in het gilde: Contribuant
+Einddatum: 
+Gilde_InDienstVan: 
+Gilde_Literatuur: 
+Gilde:
+Startdatum: 5-4-1723
+Functie in het gilde: Vrijmeester
+Einddatum: 
+Gilde_InDienstVan: 
+Gilde_Literatuur: AB 83a, f. 2v
+Bron: Een Cornelis Noord wordt in 1786 en 1792 vermeld als papier- en pennenverkoper (AB 83c, f. 99).
+Misc: Een Cornelis Noord wordt in 1786 en 1792 vermeld als papier- en pennenverkoper (AB 83c, f. 99).
+
+
+Voornaam: Daniel
+Tweede naam: Jansz de 
+Achternaam: Noot
+Geboortedatum: 
+Sterfdatum: 
+Geboorteplaats: leiden
+Plaats van overlijden: 
+Geslacht: M
+Start_werkperiode: 1680
+Eind_werkperiode: 1699
+Beroep: letterzetter
+Kinderen: 
+Doop: MK 
+Geboortedatum kind: 7-6-1682 
+Naam kind: Johannes
+Kinderen: 
+Doop: PK 
+Geboortedatum kind: 13-8-1683 
+Naam kind: Hesther
+Kinderen: 
+Geboortedatum kind: 17-10-1685 
+Naam kind: Jannetje
+Kinderen: 
+Doop: PK 
+Geboortedatum kind: 12-2-1687 
+Naam kind: Magdalena
+Kinderen: 
+Doop: HK 
+Geboortedatum kind: 21-12-1692 
+Naam kind: Jannetje
+Kinderen: 
+Doop: HK 
+Geboortedatum kind: 3-5-1699 
+Naam kind: Jannetje
+Huwelijk
+Soort huwelijk: KO
+Datum huwelijk: 8-3-1680
+Huwelijkspartner: Willemijntje Elias Vlees 
+Getuigen: getuige zijn bekende, de boekdrukker IJsbrandt van Leeuwen en haar bekende Teuntje Reyniers
+Adres
+Locatie: Cathalijnesteeg
+Locatie_startdatum: 1680
+Adres
+Locatie: Sliksteeg (Bevolkingsregister).
+Locatie_startdatum: 
+Bron: unknown
+
+Voornaam: François
+Achternaam: Nortier
+Geboortedatum: 28-1-1812
+Sterfdatum: 
+Geboorteplaats: 
+Misc: sterftedatum w. eind 18de eeuw)
+Plaats van overlijden: 
+Geslacht: M
+Start_werkperiode: 18
+Eind_werkperiode: 
+Beroep: Letterzetter 
+Beroep: drukkersknecht
+Adres
+Locatie: Voldersgracht
+Locatie_startdatum: 
+Adres
+Locatie: Langegracht
+Locatie_startdatum: 
+Adres
+Locatie: Prinsenstraat (Bevolkingsregister)
+Locatie_startdatum: 
+Adres
+Locatie: Maredorp.
+Locatie_startdatum: 1812
+Literature: De Navorscher, 17 (1869), 13 pp.
+Bron: Schreef Leerrijke bespiegelingen bij het oude jaar, en nuttige overdenkingen bij het nieuw begonnen jaar (1804), waarin de letter a niet voorkomt.
+Misc: Zoon van de lakenbereider Isaac Nortier en Suzanna Provo (KO 15-7-1768).
+Vader: Isaac Nortier
+Moeder: Suzanna Provo
+Misc: Schreef Leerrijke bespiegelingen bij het oude jaar, en nuttige overdenkingen bij het nieuw begonnen jaar (1804), waarin de letter a niet voorkomt.
+
+
+Voornaam: Gilles
+Achternaam: Nutin
+Geboortedatum: 
+Sterfdatum: 
+Geboorteplaats: 
+Plaats van overlijden: 
+Geslacht: M
+Start_werkperiode: 1617
+Eind_werkperiode: 
+Literature: Thesaurus; STCN.
+Misc: Een Gilles Nutin is tussen 1605 en 1619 diverse malen getuige bij de doop van kinderen in de Waalse Kerk.
+

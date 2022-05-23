@@ -1,0 +1,1915 @@
+﻿
+Voornaam: Lucas
+Tweede naam: van
+Achternaam: Vuyren
+Naamsvariant: Lucas van Vueren
+Geboortedatum: 1626
+Sterfdatum:
+Geboorteplaats: leiden
+Misc: Doop HK 8-9
+Plaats van overlijden:
+Geslacht: M
+Start_werkperiode: 1653
+Eind_werkperiode:
+Beroep: boekverkoper
+Huwelijk
+Soort huwelijk: KO
+Datum huwelijk: 12-4-1653
+Huwelijkspartner: Johanna van der Linden
+Getuigen:
+Adres
+Locatie: Lokhorststraat.
+Locatie_startdatum: 1653
+Bron: NA 828, nr. 67 (15-6-1654) Lucas van Vuyren verkoopt aan Bartholomeus van Swanevelt twee grafsteden in de Pieterskerk achter de preekstoel, nr. 28 en ongenummerd, beide met zijn wapen erin gehouwen, voor 200 met recht van terugkoop.
+Literature: Thesaurus; Het Rapenburg Va, 44.
+Bron: In 1649 in dienst bij Bonaventura Elsevier, zijn neef.
+
+Voornaam: Isaac
+Tweede naam: de
+Achternaam: Waal
+Geboortedatum:
+Sterfdatum:
+Geboorteplaats: leiden
+Plaats van overlijden:
+Geslacht: M
+Start_werkperiode: 1654
+Eind_werkperiode: 1660
+Beroep: boekverkoper
+Misc: Cathalyntje van Sonhoven afkomstig uit Rotterdam (huwt aldaar).
+Huwelijk
+Soort huwelijk: SH
+Datum huwelijk: 4-11-1654
+Huwelijkspartner:  Cathalyntje van Sonhoven
+Getuigen:
+Adres
+Locatie: Nieuwstraat
+Locatie_startdatum: 1654
+Adres
+Locatie: Bij de Hooglandse kerk, in de gekroonde bijbel
+Locatie_startdatum: 1655
+Adres
+Locatie: op den Burg.
+Locatie_startdatum: 1659
+Bron: NA 828, nr. 145 (12-12-1654) Contract met Pieter Barentsz van der Heyde, vader van Barent Pietersz van der Heyde. Barent zal 4 jaar bij De Wael in dienst zijn, ingaande per 24-6-1654. Loon: I 6 st. II 10 st. III 14 st. IV 18 st. per week, plus een gebonden bijbel met annotaties.
+Bron: NA 637, nr. 141 (1660) Akte.
+Literature: Thesaurus.
+Bron: GAA, NA ? (notaris J. van Oli, 30-8-1662) Genoemd als schuldenaar in de boedel van Paulus Aertsz van Ravesteijn te Amsterdam. Hij staat in het krijt voor 256.14 prijs. KS 581-606.
+
+
+Voornaam: Johan
+Tweede naam: van
+Achternaam: Waalwijck
+Geboortedatum:
+Sterfdatum:
+Geboorteplaats: utrecht
+Plaats van overlijden:
+Geslacht: M
+Start_werkperiode: 1682
+Eind_werkperiode: 1685
+Beroep: boekbinder
+Kinderen
+Doop kind: HK 15-7-1683
+Naam kind: Maria
+Kinderen
+Doop kind: PK 8-8-1685
+Naam kind: Johannes
+Huwelijk
+Soort huwelijk: KO (Lutherse Kerk)
+Datum huwelijk: 14-8-1682
+Huwelijkspartner: Hendriette Pickert van der Heyde
+Religie: Luthers
+
+
+Achternaam: Waalswyk
+Tweede naam: de huisvrouw van
+Geboortedatum:
+Sterfdatum:
+Geboorteplaats:
+Plaats van overlijden:
+Geslacht: F
+Start_werkperiode: 1766
+Eind_werkperiode:
+Beroep: spelkaartverkoper
+Adres: hoek Noordeinde.
+Adres
+Locatie: hoek Noordeinde.
+Locatie_startdatum:
+Gilde:
+Startdatum: 1766
+Functie in het gilde: Contribuant
+Einddatum:
+Gilde_InDienstVan:
+Gilde_Literatuur: AB 83c, f. 95
+
+
+Voornaam: Abraham
+Achternaam: Waelpot
+Naamsvariant: Abraham van Waelpot
+Geboortedatum:
+Sterfdatum:
+Geboorteplaats: delft
+Plaats van overlijden: delft
+Geslacht: M
+Start_werkperiode: 1660
+Eind_werkperiode:
+Beroep: boekverkoper
+Kinderen
+Doop kind: doop HK 2-9-1660
+Naam kind: Cornelia
+Huwelijk
+Soort huwelijk: KO
+Datum huwelijk: 18-1-1650
+Huwelijkspartner: Elisabeth Cruysius
+Getuigen: Getuige zijn vader en Johannes Cruysius uit Haarlem
+Gilde:
+Startdatum: 23-6-1660
+Functie in het gilde: Vrijmeester
+Einddatum:
+Gilde_InDienstVan:
+Gilde_Literatuur: AB 83a, f. 103
+Bron: NA 457, nr. 298 (16-12-1663) Verklaring van zijn weduwe Elisabeth Cruysius n.a.v. een obligatie van 300 aan Johan van der Brouck te Steenbergen.
+Bron: NA 460, nr 198 (1666) Zijn weduwe genoemd in de boedel van Gerrit Willemsz van Swanenburg, weduwnaar van Elisabeth Joris van der Marsche, met schulden van 3.2.8, 6.5 en 3.8, o.a. voor geleverd papier (zie onder Gerrit Jorisz van der Marsche).
+Bron: Zoon van de Delftse boekdrukker Jan Pietersz Waelpot. Ten tijde van zijn huwelijk werkzaam in Delft.
+
+
+Voornaam: Yemandt
+Tweede naam: van
+Achternaam: Waermondt
+Geboortedatum:
+Sterfdatum:
+Geboorteplaats:
+Plaats van overlijden:
+Geslacht: M
+Start_werkperiode: 1663
+Eind_werkperiode:
+Literature: Thesaurus.
+
+
+Voornaam: Antonie
+Naamsvariant: Antonie Wagen
+Geboortedatum:
+Sterfdatum:
+Geboorteplaats:
+Plaats van overlijden:
+Geslacht: M
+Start_werkperiode: 1761
+Eind_werkperiode:
+Beroep: verkoper
+Misc: Jannetje de Wever is weduwe van Pieter Broekhoff (getuige zijn zoon Cornelis).
+Huwelijk
+Soort huwelijk: MK
+Datum huwelijk: 1762
+Huwelijkspartner: Cornelia Verhagen
+Getuigen:
+Huwelijk
+Soort huwelijk: KO
+Datum huwelijk: 21-6-1787
+Huwelijkspartner: Jannetje de Wever
+Getuigen: zijn zoon Cornelis
+Adres
+Locatie: Mare.
+Locatie_startdatum: 1787
+Gilde:
+Startdatum: 6-7-1761
+Functie in het gilde: Contribuant
+Einddatum:
+Gilde_InDienstVan:
+Gilde_Literatuur: AB 83a, f. 24B
+Bron: NA 2270, nr. 15 (1756) Mutueel testament.
+Bron: NA 2273, nr. 168 (1759) Mutueel testament.
+
+
+Voornaam: Salomon
+Achternaam: Wagenaar
+Geboortedatum:
+Sterfdatum: 1675
+Geboorteplaats: Leiden
+Plaats van overlijden:
+Geslacht: M
+Start_werkperiode: 1656
+Eind_werkperiode: 1667
+Beroep: boekverkoper
+Kinderen
+Geboortedatum kind: 9-9-1657 Lutherse Kerk Doop zoon
+Naam kind: Matthias
+Huwelijk
+Soort huwelijk: SH
+Datum huwelijk: 19-11-1656
+Huwelijkspartner: Anna Davidts Denys
+Getuigen: getuige zijn zwager Johannes Seehuysens
+Adres: 1656 Cortsteeg; 1658-62 Kloksteeg.
+Adres
+Locatie: Cortsteeg
+Locatie_startdatum: 1656
+Adres
+Locatie: Kloksteeg.
+Locatie_startdatum: 1658
+Locatie_einddatum: 1662
+Personeel
+Datum Aanstelling: 1-10-1660
+Naam werknemer: Balthasar Davidsz Denys L voor 4 jaar
+Functie werknemer: Leerling
+Personeel
+Datum Aanstelling: 29-3-1663
+Naam werknemer: Dirk Abrahamsz Karreman, oud 13 jaar, L voor 4 jaar
+Functie werknemer: Leerling
+Personeel
+Datum Aanstelling: 20-12-1667
+Naam werknemer: Abraham Schreuder, voor 4 jaar (AB 83a, f. 69).
+Veiling
+Datum veiling: 27-6-1663
+Geveilde collectie:  anon. (KBK)
+Veiling
+Datum veiling: 14-10-1665
+Geveilde collectie: Rudolphus Heggerus (OHC 6-10-1665)
+Veiling
+Datum veiling: 27-9-1668
+Geveilde collectie:   Pieter Leffen ()
+Veiling
+Datum veiling: 1-5-1669
+Geveilde collectie:   anon. (OHC 27-4-1669)
+Veiling
+Datum veiling: 5-5-1670
+Geveilde collectie:   assortiment (OHC 24-4-1670)
+Veiling
+Datum veiling: 17-10-1670
+Geveilde collectie:   assortiment (OHC 4-10-1670).
+Gilde: 1654 L bij Jan Maire. 16-2-1657 Vrijmeester (AB 83a, f. 69). Hoofdman 1660, 1666-67.
+Gilde:
+Startdatum: 1654
+Functie in het gilde: Leerling
+Einddatum:
+Gilde_InDienstVan: Jan Maire.
+Gilde_Literatuur:
+Gilde:
+Startdatum: 16-2-1657
+Functie in het gilde: Vrijmeester
+Einddatum:
+Gilde_InDienstVan:
+Gilde_Literatuur: AB 83a, f. 69
+Gilde:
+Startdatum: 1660
+Functie in het gilde: Hoofdman
+Einddatum:
+Gilde_InDienstVan:
+Gilde_Literatuur:
+Religie: Luthers
+Bron: NA 672, nr. 105 (20-8-1654) Procuratie van Maire om diens schulden te liquideren.
+Bron: NA 450, nr. 175 (6-9-1657) Assisteert zijn moeder bij het leercontract van haar zoon Abraham in het wolscheiden.
+Bron: NA 673, nr. 151 (5-11-1658) Obligatie aan Maire van 1000 voor gekochte boeken.
+Bron: NA 694, nr. 201 (9-12-1658) Frans Moeyaert verkoopt aan hem huis aan de Kloksteeg NZ, aan de achterkant grenzend aan het huis van David Lopez voor 5200.
+Bron: NA 694, nrs. 47, 49 (5-6-1659) Akten betreffende familiezaken.
+Bron: NA 674, nr. 37 (3-7-1659) Obligatie aan zijn moeder van 1400. Getuige o.a. Maire.
+Bron: NA 674, nr. 123 (10-11-1660) Deelnemer anti-nadruk contract.
+Bron: NA 454, nr. 26 (28-1-1661) Verklaring t.b.v. Pieter Didier, dat hij op 7-12-1660 aanwezig is geweest in de Witte Doelen bij een gesprek tussen Didier en dr. Lodewijc Gerstecoorn (rest onleesbaar).
+Bron: NA 674b, nr. 28 (8-4-1661) Obligatie aan Jan Maire van 1000 voor boeken gekocht op de auctie van 16 maart. Voldaan 16-3-1667.
+Bron: NA 675a, nr. 45 (4-7-1662) Mutueel testament met Anna Davidts de Nijs.
+Bron: OHC 6-10-1665 Ter Huyse van Salomon Wagenaer, Boeckverkooper in de Klocksteegh, binnen Leyden, sullen op de 14 October verkocht werden de nagelaten Boecken van de E: Heer N. Rudolphus Heggerus, in sijn leven Predicant van de Augsburgse Confessi aldaer.
+Bron: NA 460, nr 198 (1666) Genoemd in de boedel van Gerrit Willemsz van Swanenburg, weduwnaar van Elisabeth Joris van der Marsche, met een schulden van 10 voor geleverd papier (zie onder Gerrit Jorisz van der Marsche).
+Bron: OHC 17-4-1666 Tot Leyden, by Salomon Wagenaer, Boeckverkooper, wordt uytgegeven Henr. Bruyno: Mengel-Moes, van verscheyde Gedichten; op allerhande voor-vallende saecken. Begreepen in Twee Deelen. In 8. ** Item, Iohannis Heuroii Ultrajectini Institutiones Medicinae. Editio Ultima, prioribus longe emendiator, &amp; auctior. In 12.
+Bron: NA 677, nr. 32 (25-5-1666) Consent met Judith Abrahams, weduwe Mathijs Wagenaar voor het huwelijk van haar zoon Jacob te Amsterdam met Cath. Blauwenhelm.
+Bron: NA 677, nr. 53 (8-11-1666) Verklaring Franciscus Hackius, oud 42 jaar, en Salomon Wagenaar, oud 34 jaar, t.v.v. de Amsterdamse boekverkoper Joost Pluymers. Hackius verklaart dat hij op zijn laatste auctie aan kopers die contant betaalden 6% korting heeft gegeven; Wagenaar verklaart dat hij indertijd, toen hij met de administratie was belast van de boedel van Louis Elzevier en zijn weduwe Eva van Alphen diens boeken ter veiling bracht, aan de kopers die contant betaalden 10% korting is gegeven. Getuige de drukkersgasten Pieter Drummond en Jac. de Vinck.
+Bron: NA 854, nr. 132 (1-9-1667) Borgstelling van Judith Abrahams, wed. Mathijs Wagenaar, voor Salomon Wagenaar ten gunste van de erven van Jan Maire (zie onder Maire).
+Bron: NA 1108, nr. 1 (6-4-1667) Borgstelling voor de schaarslijper David Jochemsz Denijs.
+Bron: OHC 18-9-1668 Den 27 September sullen tot Leyden, ten Huyse van Salomon Wagenaer, verkocht werden de nagelaten Boecken van Pieter Leffen, in sijn Leven Boeckverkoper, bestaende in alderhanden Faculteyten en Talen: waer van de Catalogus te bekomen is tot Amsterdam by Iacobus Wagenaer, tot Rotterdam by Aernout Leers, tot Uytrecht by Iacobus van Doyenburgh, in den Haegh by Michiel van Heyningen.
+Bron: SA 81 (Gerechtsdagboek NN), f. 283r (14-3-1669) Consent aan Salomon Wagenaer voor een veiling; opz. 50 st.
+Bron: OHC 27-4-1669 Op Woensdagh, zijnde den 1 Mey, sullen tot Leyden, ten Huyse van Salomon Wagenaer, verkocht werden veelderhande schoone Boecken, in alderhande Faculteyten en Talen; waer van de Cataloguen te bekomen zijn tot Amsterdam by Iacobus Wagenaer, tot Rotterdam by Arnout Leers, tot Haerlem by Abraham Casteleyn, tot Uytrecht by Gijsbert van Zijl, ende in den Haegh by Michiel van Heyningen.
+Bron: SA 81 (Gerechtsdagboek NN), f. 284r (16-8-1669) Consent voor een veiling; opz. 30 st.
+Bron: OHC 24-4-1670 Op Maendagh den 5 Mey, en volgende Dagen, sal, s Morgens ten 8, en 's Middags ten 2 uren, ten Huyse van de Weduwe van Salomon Wagenaer, Boeckverkoopster in de Klock-steegh, tot Leyden, verkocht werden de naegelaten Boecken van Salomon Wagenaer zal:, in sijn leven Boeckverkooper aldaer, bestaende in alderhande Faculteyten en Talen, gelijck breder by de Catalogus te sien is, welcke is te bekomen by de Weduwe voornoemt, tot Amsterdam by Iacobus Wagenaer, tot Rotterdam by Arnout Leers, tot Uytrecht by Iacob Doeyenburgh, in den Haegh by Daniel Steucker, tot Delft by Plantenburgh, tot Dort by van Nispen, tot Middelburgh by Goeree, tot Hoorn by Gerbrant Martensz, tot Enckhuysen by Kluppel, tot Nimwegen by Smetius, tot Franeker by Iacob Pietersz, tot Haerlem by Iacob van Beverwijck, tot Gouda by Endenburgh, en op andere Plaetsen meer. Vgl. Catalogus variorum ... librorum tam compactorum quam incompactorum, Leiden: weduwe Salomon Wagenaar, 1670, 4, 48 pp. (Wolfenbttel; BSC 2397). Vgl. SA 82 (Gerechtsdagboek OO), f. 239v (24-4-1670) Consent aan zijn weduwe Anna Denys. Opzienders 2.10.
+Bron: OHC 4-10-1670 Op den 17 October sal men tot Leyden, in de Klock-steegh, ten Huyse van de Weduwe van Salomon Wagenaer zal: verkoopen voortreffelijcke Boecken, bestaende in alderhande Faculteyten en Talen, gelijck breeder by de Catalogus te sien is.
+Bron: NA 1119, nr.  (3-5-1675) Obligatie van Anna Denijs van 500 aan Corn. de Jongh, Heer van Elmeet (rente 5%).
+Bron: RA 4, Correctieboek N, ff. 138v-139r (14-12-1662) Veroordeling met Pieter Arnoel, Johannes van der Brugge en Johannes Wagens wegens de verkoop van pamfletten van Pieter de la Court dan wel het boek Politicque discoursen. Arnoel verkocht alleen de pamfletten. Straf: verbeurte van de in beslag genomen exemplaren, 1 zilveren ducaton en de kosten van het proces.
+
+
+Voornaam: Johannes
+Tweede naam: I
+Achternaam: Wagens
+Geboortedatum:
+Sterfdatum:
+Geboorteplaats: rotterdam
+Plaats van overlijden:
+Geslacht: M
+Start_werkperiode: 1659
+Eind_werkperiode: 1712
+Beroep: boekverkoper
+Kinderen: doop HK 19-8-1660 Anna; HK 3-8-1662 Hendrick; HK 20-7-1664 Maria; HK 1-9-1667 Johannes; HK 9-6-1669 Johannes; 2. KO 28-12-1673 Elisabeth Braeckenburgh uit Amsterdam, weduwe van Abraham van Uylenbroeck (getuige zijn bekende Helena Mannekes). Kinderen: doop PK 26-9-1674 Catharina; HK 13-6-1677 Menno; HK 5-5-1676 Vroutje
+Huwelijk
+Soort huwelijk: KO
+Datum huwelijk: KO 2-4-1659
+Huwelijkspartner: Catharina le Bor[g]ne
+Getuigen: bekende David le Borgne en haar toekomstige schoonmoeder Catharina Wagens
+Huwelijk
+Soort huwelijk: KO
+Datum huwelijk: 28-12-1673
+Huwelijkspartner: Elisabeth Braeckenburgh
+Getuigen: bekende Helena Mannekes
+Adres
+Locatie: Kloksteeg, In de vergulde kerck-bijbel
+Locatie_startdatum: 1659
+Adres
+Locatie:  Breestraat, in de Nieuwe Staten Bybel en In de vergulde kerkbijbel
+Locatie_startdatum: 1659
+Locatie_einddatum: 1698
+Adres
+Locatie: Choorlammersteeg.
+Locatie_startdatum: 1712
+Personeel
+Datum Aanstelling: 2-7-1659
+Naam werknemer: Abraham Boleyn, L voor 4 jaar (accoord)
+Functie werknemer: Leerling
+Personeel
+Datum Aanstelling: 3-4-1662
+Naam werknemer: Daniel van den Dalen, (*?) voor 4 jaar (accoord) (AB 83a, f. 37). Zijn zoon Johannes was eerst knecht bij Johannes du Vivi (zie aldaar), later boekverkoper te Utrecht.
+Veiling
+Datum veiling: 2-6-1670
+Geveilde collectie:  ds. Ioannes Horstius, predikant te Alphen (OHC 24-5-1670)
+Veiling
+Datum veiling: 22-9-1698
+Geveilde collectie: Bibliotheek jurist Johannes van der Sluys (KVB Nv 49) met lijstje verboden boeken.
+Gilde:
+Startdatum: 2-7-1659
+Functie in het gilde: Vrijmeester
+Einddatum:
+Gilde_InDienstVan:
+Gilde_Literatuur: AB 83a, f. 37
+Bron: NA 765, nr. 101 (10-4-1659) Huwelijkse voorwaarden met Catharina le Borgne.
+Bron: NA 455, nr. 72 (1-3-1662) Verklaring met Catharina le Borgne dat zij een erfdeel van de familie Banheyning hebben ontvangen.
+Bron: NA 771, nr. 602 (30-12-1662) Mutueel testament met Catharina le Borgne.
+Bron: NA 932, nr.  (1-5-1664) Huurt huis op de Breestraat van Dorothea Michiels van Ockenburg (?), weduwe Cornelis Maartensz van Vliethoorn, voor 2 jaar  215.
+Bron: NA 1030, nr. 56 (26-1-1665) Machtiging aan de Amsterdamse boekverkoper Jacob Benjamin om van ... Agata (?) 35.7 te innen wegens geleverde boeken.
+Bron: NA 943, nr. 24 (18-6-1665) Verklaring t.b.v. Anna Meulemans.
+Bron: NA 460, nr 198 (1666) Genoemd in de boedel van Gerrit Willemsz van Swanenburg, weduwnaar van Elisabeth Joris van der Marsche, met schulden van 16.2 (voor geleverd papier) en 10 (zie onder Gerrit Jorisz van der Marsche).
+Bron: OHC 24-5-1670 Tot Leyden, ten Huyse van Iohannes Wagens, Boeckverkooper op de Bree-straet, sullen op Maendagh den 2 Iuny, en volgende Dagen, verkocht werden de naergelaten Boecken van zal: D. Ioachimus Horstius, in sijn leven Predicant tot Alphen; bestaende in rare Latijnse, Franse en Nederduytse Boecken, voornamentlijck in de Theologie en Historye; alwaer de Catalogus te bekomen is.
+Bron: NA 1147, nr. 62 (23-3-1672) Mutueel testament.
+Bron: NA 1369, nr. 7 (22-2-1684) Mutueel testament met Elisabeth Brakenburg (genoemd worden drie voorkinderen: Hendrik, Anna en Jan).
+Bron: NA 1290, nr. 96 (6-1-1695) Testament Barent Spanbroeck, inwonend bij Wagens; vlgs. de laatste bepaling kreeg Catharina Wagens, als zij ongetrouwd bleef, 100).
+Bron: NA 1465, nr. 123 (24-12-1703) Obligatie van Johannes Wagens jr. aan Pieter van der Aa t.b.v. 964.13 voor boeken gekocht op diens auctie op 6/8-12-1702; Johannes sr. borg.
+Bron: NA 1177a, nr. 13 (27-4-1712) Aanstelling van Daniel van den Dalen en Jan van Garderen tot voogden over zijn kinderen met uitsluiting van de Weeskamer.
+Bron: NA 1177a, nr. 14 (27-4-1712) Procuratie aan Daniel van den Dalen en Jan van Garderen om zijn huis op de hoek van de Choorlammersteeg alsmede de inboedel te verkopen.
+Bron: NA 1177a, nr. 17 (23-6-1712) Testament. Hij heeft drie dochters  Anna, Kaatje en Vrouwtje  en een zoon Johannes. Zij erven elk een kwart.
+Bron: In Rotterdam waren diverse leden van familie Wagens als boekverkoper actief.
+
+
+Voornaam: Johannes
+Tweede naam: jr.
+Achternaam: Wagens
+Geboortedatum: 1669
+Sterfdatum:
+Geboorteplaats: Leiden
+Misc: doop HK 9-6], werkzaam in Utrecht; Leiden pre-1712?
+Plaats van overlijden:
+Geslacht: M
+Start_werkperiode:
+Eind_werkperiode:
+Beroep: boekverkoper
+Gilde:
+Startdatum:
+Functie in het gilde: Knecht
+Einddatum:
+Gilde_InDienstVan: Johannes du Vivi
+Gilde_Literatuur:
+Vader: Johannes Wagens sr.
+Moeder: Catharina le Borgne.
+
+
+Voornaam: Maerten
+Tweede naam: Jansz
+Achternaam: Wanna
+Geboortedatum:
+Sterfdatum:
+Geboorteplaats: leiden
+Plaats van overlijden:
+Geslacht: M
+Start_werkperiode: 1664
+Eind_werkperiode:
+Beroep: letterzetter
+Huwelijk
+Soort huwelijk: SH
+Datum huwelijk: 20-4/6-5-1663
+Huwelijkspartner: Aryaentje Meynderts van Hogendijck
+Getuigen: getuige zijn vader in de Bouwelouwesteeg en haar zuster Aeltje Cornelis
+Huwelijk
+Soort huwelijk: SH
+Datum huwelijk: 28-9-1664
+Huwelijkspartner: Catharina Dircx van Vrancke
+Getuigen: getuige zijn vader en haar bekende Barber Crijnen
+Adres
+Locatie: Levendaal
+Locatie_startdatum: 1663
+Adres
+Locatie: Bouwelouwesteeg.
+Locatie_startdatum: 1664
+Bron: NA 749, nr. 64 (9-8-1663) Verklaring t.v.v. Eva van Alphen dat hij samen met wijlen Johan Elsevier in mei 1661 naar Engeland is gereisd en dat Johan op de avond voorafgaand aan hun vertrek een zak met geld, zijnde de betalingen van boekverkopers in Londen en Cambridge (een bedrag van 20 van een boekverkoper in Cambridge wordt genoemd) heeft gebracht bij James? Allestry (Allestree), waaruit een bedrag aan reisgeld is afgeteld. Op de vraag van Wanna waarom hij niet al het geld mee naar huis nam, antwoordde Johan dat hij dit veiliger vond; het geld kon per wissel worden overgemaakt. Toen op hun terugreis een medereiziger was beroofd van r500 had Johan gezegd dat het maar goed was geweest dat hij niet al het geld contant had meegenomen.
+Bron: Zoon van Jan Volckertsz Wanna.
+
+
+Voornaam: Benjamin
+Tweede naam: de
+Achternaam: Wannemaecker
+Geboortedatum: 1595
+Sterfdatum: 1662
+Geboorteplaats: Keulen
+Plaats van overlijden: Leiden
+Geslacht: M
+Start_werkperiode:
+Eind_werkperiode:
+Beroep: boekverkoper
+Kinderen: dopen PK 13-12-1634 Adrianus; HK 14-9-1636 Elisabeth; HK 7-10-1638 Gilles; PK 31-5-1641 Philips; HK 21-12-1645 Elisabeth; PK 13-2-1647 Benjamin. Zijn weduwe hertrouwt KO 11-11-1662 prof. Johannes Hornius
+Huwelijk
+HuwelijkspartnerL Anna van Ulst
+Datum huwelijk: ca. 1669
+Adres
+Locatie: Breestraat 73
+Locatie_startdatum: 1635
+Adres
+Locatie:  Rapenburg 26.
+Locatie_startdatum: 1650
+Locatie_einddatum: 1662
+Misc: Na zijn dood erfde zijn weduwe alles behalve de boeken. Hij bezat een groot aantal huizen door de stad.
+Bron: NA 381, nr. 62 (of 61?) (1659) Akte.
+Bron: NA 773, nr. 548 (9-8-1663) Boedel van zijn weduwe Anna van Ulft, nu echtgenote van Johannes Hornius.
+Literature: Het Rapenburg IVb, 520, 536.
+Bron: 11-5-1635 Poorter.
+Misc: Zijn vader was textielhandelaar te Keulen.
+Misc: Na zijn dood erfde zijn weduwe alles behalve de boeken. Hij bezat een groot aantal huizen door de stad.
+
+
+Voornaam: David
+Achternaam: Wardenaar
+Geboortedatum: 1747
+Sterfdatum:
+Geboorteplaats: leiden
+Misc: doop HK 26-11
+Plaats van overlijden:
+STCN: 316740071
+Geslacht: M
+Start_werkperiode: 1762
+Eind_werkperiode: 1773
+Beroep: letterzetter
+Gilde:
+Startdatum:
+Functie in het gilde: Leerling
+Einddatum:
+Gilde_InDienstVan: Hendrik van Damme.
+Gilde_Literatuur:
+Gilde:
+Startdatum:
+Functie in het gilde: Knecht
+Einddatum:
+Gilde_InDienstVan: Hendrik van Damme.
+Gilde_Literatuur:
+Literature: Janssen, Zetten en drukken, 52-55.
+Bron: In 1773 naar Rotterdam vertrokken. Auteur van de Beschrijving der boekdrukkunst (hs. 1801).
+
+
+Voornaam: Huijbert
+Achternaam: Wardenaar
+Geboortedatum: 1720
+Sterfdatum: 1798 of 1799
+Geboorteplaats: Leiden
+Plaats van overlijden:
+Geslacht: M
+Start_werkperiode:
+Eind_werkperiode:
+Beroep: letterzetter
+Kinderen: doop HK 26-11-1747 David; HK 4-1-1750 Alida; PK 29-12-1751 Hendrik; PK 6-2-1754 Catharina; HK 9-9-1756 Willemijntje; PK 3-12-1758 Johanna; PK 7-5-1762 Willem; HK 17-3-1764 Adriana; PK 9-4-1766 Eva; PK 24-6-1767 Jacoba
+Huwelijk
+Soort huwelijk: KO
+Datum huwelijk: 26-11-1745
+Huwelijkspartner:  Alida van Panne
+Getuigen: getuige zijn moeder op de Marendorpseachtergracht
+Adres
+Locatie: Marendorpseachtergracht.
+Locatie_startdatum: 1745
+Bron: NA 2301, nr. 215 (1768) Akte.
+Bron: NA 2461, nr. 88 (f. 566) [scan nr. 527] (29-12-1779) Verkoop van een huis aan de Herensteeg OZ voor 200.
+Bron: NA 2467, nr. 45, f. 215 [scan nr. 186] (27-7-1785) Procuratie met zijn vrouw Alida van Pannen aan zijn dochter Maria om maandloon van zijn overleden zoon Hendrik te innen van de VOC.
+Bron: NA 2468, nr. 36, f. 393 [scan nr. 375] (1-6-1786) Acte van directie en voogdij in geval van zijn overlijden.
+Literature: Janssen, Zetten en drukken, 52.
+Bron: Zoon van ? Wardenaar en Maria la Gas.
+#TEST#Wardenaar, Huijbert (* Leiden c. 1720;  1798 of 1799).
+Misc: Werkzaam bij Simon Boonaart, Jan Willem de Groot, Willem Boot en de familie Bouwman.
+Moeder:  Maria la Gas.
+
+
+Voornaam: Pierre
+Achternaam: Warnaer
+Geboortedatum:
+Sterfdatum:
+Geboorteplaats:
+Plaats van overlijden:
+STCN: 075564300
+Geslacht: M
+Start_werkperiode: 1678
+Eind_werkperiode:
+Beroep: boekverkoper
+Literature: Thesaurus.
+
+
+Voornaam: ?
+Achternaam: Warnaert
+Geboortedatum:
+Sterfdatum:
+Geboorteplaats:
+Plaats van overlijden:
+Geslacht: M
+Start_werkperiode: 1589
+Eind_werkperiode:
+Beroep: boekverkoper
+Literature: Ledeboer.
+
+
+Voornaam: Hiob
+Achternaam: Warnfast
+Geboortedatum:
+Sterfdatum:
+Geboorteplaats:
+Plaats van overlijden:
+STCN: 075564327
+Geslacht: M
+Start_werkperiode: 1595
+Eind_werkperiode:
+Beroep: boekverkoper
+Literature: Thesaurus; STCN.
+
+
+Voornaam: Dirck
+Tweede naam: Pietersz
+Achternaam: Waterloo
+Geboortedatum: 1639
+Sterfdatum:
+Geboorteplaats: leiden
+Misc: doop HK 20-3]
+Plaats van overlijden:
+Geslacht: M
+Start_werkperiode: 1658
+Eind_werkperiode: 1670
+Beroep: letterzetter
+Misc: KO 24-10-1670 Anna Pieters de Vinck uit Leiden, in de St. Jorissteeg (getuige zijn broer Pieter en haar moei Lijsbeth Jans).
+Huwelijk
+Soort huwelijk: KO
+Datum huwelijk: 24-10-1670
+Huwelijkspartner:  Anna Pieters de Vinck
+Getuigen: getuige zijn broer Pieter en haar moei Lijsbeth Jans
+Adres
+Locatie: Korte Schoolsteeg
+Locatie_startdatum: 1658
+Adres
+Locatie: Langebrug.
+Locatie_startdatum: 1670
+Bron: NA 716, nr. 18 (2-3-1658) Verklaring, oud 19 jaar, wonende in de Korte Schoolsteeg, t.v.v. van de hoofdlieden van het boekverkopersgilde dat hij ca. negen maanden heeft gewerkt bij Jan Baron op het Sant, en dat hij gezien heeft dat dr. Johannes Nisselius, praeceptor van de 2e klas van de Triviale School op zaterdag en zondag is gekomen met geld om de drukkersgasten te betalen en dat Baron had gezegd dat hij maar een meesterknecht was en dat Nisselius de winkel aanging, sulcx dat Baron van de cleyne dingen ende tgene wijders voorviel bouck gehouden heeft om daer van reeckening aen Nisselius te doen, in welck register hij Baron ook teyckende zijn belooning van drije rycxdaalders ter weeck die hij van Nisselius genoot, als mede de andere knechten verdiende ende ontfingen.
+Bron: Zoon van Pieter Waterloo en Catelijntje Roelants.
+Vader: Pieter Waterloo
+Moeder: Catelijntje Roelants.
+
+
+Voornaam: Jacob
+Achternaam: Marcusz
+Naamsvariant: Jacob Marcusz van der Weele
+Naamsvariant: Jacob Marcusz van der Wiele
+
+
+Voornaam: Geertruida
+Tweede naam: Johanna van
+Achternaam: Weezel
+Geboortedatum:
+Sterfdatum:
+Geboorteplaats:
+Plaats van overlijden:
+Geslacht: F
+Start_werkperiode: 1766
+Eind_werkperiode:
+Beroep: boekverkoper
+Adres
+Locatie: Breestraat over de Papengracht.
+Locatie_startdatum:
+Gilde:
+Startdatum:
+Functie in het gilde: Contribuant
+Einddatum:
+Gilde_InDienstVan:
+Gilde_Literatuur: AB 83c, f. 96
+Bron: unknown
+
+
+Voornaam: Guillaume
+Tweede naam: van de
+Achternaam: Weege
+Geboortedatum:
+Sterfdatum:
+Geboorteplaats:
+Plaats van overlijden:
+Geslacht: M
+Start_werkperiode: 1588
+Eind_werkperiode:
+Beroep: verkoper
+Bron: Bron: lijstje Salman.
+Misc: Verkoper van schotschriften.
+
+
+Voornaam: Arnold
+Achternaam: Wessel
+Geboortedatum:
+Sterfdatum:
+Geboorteplaats: Bremen
+Plaats van overlijden:
+Geslacht: M
+Start_werkperiode: 1643
+Eind_werkperiode:
+Beroep: boekdrukker
+Huwelijk
+Soort huwelijk: KO
+Datum huwelijk: 7-8-1643
+Huwelijkspartner:  Margrita Grimmerius
+Getuigen: getuige zijn bekende Severijn Mathijsz
+Adres: 1643 Middelweg.
+Adres
+Locatie: Middelweg.
+Locatie_startdatum: 1643
+
+
+Voornaam: Levina
+Achternaam: Westerbaan
+Geboortedatum:
+Sterfdatum:
+Geboorteplaats:
+Plaats van overlijden:
+Geslacht: M
+Start_werkperiode:
+Eind_werkperiode: 1799
+Beroep: courantier
+Bron: NA 2134, f. 728 [scan nr. ] (1782) Akte van voogdij.
+
+
+Voornaam: Harman
+Tweede naam: Lucasz van
+Achternaam: Westerhuysen
+Geboortedatum: 1591
+Sterfdatum: 1635
+Geboorteplaats: westerhuizen
+Misc: begr. PK 6-11
+Plaats van overlijden:
+Begraafplaats: begr. PK 6-11
+Geslacht: M
+Start_werkperiode: 1616
+Eind_werkperiode: 1626
+Beroep: boekverkoper
+Beroep: boekbinder
+Kinderen: doop HK 2-11-1621 Lucas; begr. 17-1-1636 PK zoon; begr. 27-11-1635 dochter
+Huwelijk
+Soort huwelijk: KO
+Datum huwelijk: 21-7-1616
+Huwelijkspartner: Marytje Jacobs van der Wiele
+Misc: Marytje Jacobs van der Wiele is dochter van Jacob Simons van der Wielen en Lidia Dav[]lles
+Getuigen: zijn meester Andries Clouck
+Adres
+Locatie: Kloksteeg.
+Locatie_startdatum: 1636
+Bron: SA 682, Burgemeesters Dagboeken, f. 102v (23-8-1622) Zweert censuureed.
+Bron: NA 140, nr. 179 (21-12-1622) Verklaring van diverse personen op verzoek van Jan Ganne aangaande een vechtpartij, waarbij ook Van Westerhuysen (met een rapier in de hand) was betrokken.
+Bron: NA 311, nr. 58 (2-4-1625) Obligatie Johannes van Diephorst van 135 aan Susanna Malapart, weduwe Jan Hattu, voor boeken overgenomen van Van Westerhuysen, die deze weer had gekocht op de auctie na Hattus overlijden. Westerhuysen verscheen eveneens voor de notaris.
+Bron: NA 311, nr. 76 (1625) Transport van een aantal studentenschulden aan Susanna Malapart. Hij had een proces hieromtrent voor de Academische Vierschaar en het Hof van Holland verloren.
+Bron: NA 294, nr. 148 (10-9-1625) Verklaring met zijn dienstmaagd Maartje IJsbrands t.v.v. de knoopmaker Hubrecht Cornelis betreffende een ruzie tussen o.a. de jonkheer Van der Does en twee Duitsers, van wie een, Christiaan Bach woonde bij Elizabeth Elzevier op de Houtstraat. Hij is ca. 34 jaar.
+Bron: NA 106, nr. 85 (15-8-1626) Overdracht van goederen wegens aanzienlijke schulden aan Rijckje Jans van der Heuvel, weduwe van Heyndrick Pietersz Coornsetter t.b.v.  600, Dirck Cornelisz Focx t.b.v. 200, Jan Jansz Orlers president schepen t.b.v. 300, alsmede achterstallige huishuur t.b.v. 324, waarvoor zijn schoonvader Jacob Simonsz van der Wiele borg stond. Het betreft onder meer een bed met toebehoren en gordijnen t.w.v. 60; een landschap in een vergulde lijst 12; een schilderij van Mercurius en Venus 8; twee portretten van hemzelf en zijn vrouw 12; 2 ketels 4; een koperen pot 1.10; een vergulde spiegel 2; 6 tinnen schotels en 3 teljoren en kommen 6; een koperen vijzel en 2 [?]4; een beddepan en een koperen schuimspaan 2.10; een vurenhouten kast 3; 8 kleine schilderijen voor 7; een grote porsse 36; 10 kleine handpersen 8; pers met een ploeg 3, een klopsteen met hamer 6; 2 naaibanken 2; een glase cas om vergulde boecken inne te setten 1.10; een quarto-plaat 2; alle planken van de winkel 3; 5 rollen 3; een kunstpers 15; 2 werkbanken 1.10; 2 brandijzers 2.10; 2 koperen blakers met koperen armen 1.10.
+Bron: NA 212, nr. 149 (19-11-1626) Procuratie aan Jacob Aelbertsz van Houten, bode van Leiden op Friesland, om van de voormalig student Barnhardus Houdebeecq, nu wonend te Emden, 77 te innen.
+Bron: NA 375, nr. 138 (15-9-1634) Schuldeiser van student Laurentius Petri Roelander voor 33.
+Bron: NA 321, nr. 90 (8-8-1635) Akte van repudiatie, met de zusters van zijn vrouw, van de boedel van haar ouders.
+Bron: NA 537, nr. 35 (28-6-1639) Akte met o.a. zijn weduwe Maaike van der Wielen n.a.v. een erfenis. Zij kan haar naam niet zetten.
+Literature: Ledeboer; Willems 422; Briels 584; Thesaurus.
+Bron: Zie ook Bartholomeus van der Bildt.
+Misc: Poorterboek 17-4-1617 (afkomstig uit Oost-V[...]?; getuige zijn meester Andries Clouck).
+
+
+Voornaam: Jacob
+Achternaam: Wetstein
+Naamsvariant: James de Wetstein
+Geboortedatum: 12-12-1706
+Sterfdatum: 1775
+Geboorteplaats: Amsterdam
+Plaats van overlijden:
+STCN: 138260206
+Geslacht: M
+Start_werkperiode: 1751
+Eind_werkperiode: 1759
+Beroep: boekverkoper
+Misc: Huwelijk voltrokken te Amsterdam
+Huwelijk
+Soort huwelijk:
+Datum huwelijk: 3-10-1738
+Huwelijkspartner: Elisabeth Antonia Cocq
+Getuigen:
+Misc: Hij betaalde de dubbele gildebijdrage omdat hij uit Amsterdam kwam (AB 83a, f. 15v).
+Gilde:
+Startdatum: 1-5-1758
+Functie in het gilde: Vrijmeester
+Einddatum:
+Gilde_InDienstVan:
+Gilde_Literatuur:
+Bron: NA 2047, nr. 8 [scan nr. 31] (27-1-1758) Procuratie i.v.m. Engelse obligaties.
+Bron: NA 2049, nr. 183 (1760) Akte.
+Bron: NA 2085, nr. 51/f. 570 [scan nr. 503] (12-9-1761) Koopt voor 635 het huis van Christianus Carolus Musaeus aan de ZO zijde van de Rijn omtrent de Vrouwensteeg op de hoek van zekere poort door bemiddeling van de executeur van diens nalatenschap.
+Bron: NA 2051, nr. 191 (1762) James Wetstein Engelse obligatie.
+Bron: NA 2116, nr. 76 (1764) Afgifte.
+Bron: NA 2055, nrs. 63, 64, 65 (1766) Jacob (James) de Wetstein bookseller, Engelse obligaties.
+Bron: NA 2056B, nr. 28 [scan nr. 733] (26-2-1768) Procuratie James de Wetstein en Abram Cornab aan Mr. Cornelis Anthonij Vos in Utrecht om de obligaties te verkopen uit het legaat van Gerard Wetstein. Zijn broer, Rudolph Wetstein, is inmiddels overleden.
+Bron: NA 2056B, nr. 70 [scan nr. 880] (19-5-1768) Procuratie Jacobus de Wetstein en Abram Cornab aan de Amsterdamse makelaar Abraham van Vloten om van Jacob Blazius zes obligaties te ontvangen van ieder 1000 rijksdaalders, afkomstig uit de erfenis van Gerard Wetstein. De erfenis bedroeg in totaal 12000.
+Bron: NA 2056, nr. 78 (1768) Akte.
+Bron: NA 2351, nrs. 286, 290, 291, 306 (12-9-1776) Engelse aandelen weduwe Jacob alias James de Wetstein.
+Bron: NA 2352, nrs. 82, 106 (weduwe) Engelse aandelen.
+Literature: Van Eeghen, IV, 182; Janssens-Knorsch.
+Bron: Publiceerde de Bibliothque raisonne en een Table gnrale des matires op Scheurleers Bibliothque Britannique (1763).
+Misc: Reeds in 1723 in Amsterdam als boekdrukker werkzaam.
+Bron:* Catalogus librorum, tam Graecorum quam Latinorum, qui venales prostant Lugduni Batavorum apud Wetstenium, 1760 (Leiden: Jacob Wetstein, 1760), 12: A-F6; 72 pp. Erlangen UB H61/TREW.Mx 546; BNF Q 9349; Rome Vaticaanse bibliotheek Chigi.V.3120. BSC.
+
+
+Voornaam: Rudolph
+Tweede naam: Hendrik
+Achternaam: Wetstein
+Naamsvariant: Rudolph Hendrik de Wetstein
+Geboortedatum: 26-2-1741
+Sterfdatum:
+Geboorteplaats: amsterdam
+Plaats van overlijden:
+Geslacht: M
+Start_werkperiode: 1775
+Eind_werkperiode: 1783
+Beroep: boekverkoper
+Personeel
+Datum Aanstelling: 3-6-1776
+Naam werknemer: Jan David Vreugdewater, (van Vijgh) (AB 83c, f. 56).
+Misc: Vrijmeester vlgs. geboorterecht (AB 83a, f. 41v). Daarvoor werkzaam te Amsterdam?
+Gilde:
+Startdatum: 18-12-1775
+Functie in het gilde: Vrijmeester
+Einddatum:
+Gilde_InDienstVan:
+Gilde_Literatuur: AB 83a, f. 41v
+Bron: NA 2310, nr. 165 (1781) Akte.
+Bron: NA 2341, nr. 394 (1781) Certificatie.
+Bron: NA 2341, nr. 422 (1781) Certificatie.
+Bron: NA 2341, nrs. 630 en 638 (1781) Akten van transport, afgifte en quitantie.
+Bron: NA 2342, nr. 89 (1782) Rekening.
+Bron: NA 2349, f. 105 (1788) Procuratie; f. 311 (1788) Testament.
+Bron: NA 2654, nr. 87 (1797) Akte.
+Bron: NA 2654, nr. 103 (1797) Akte van verkiezing.
+Bron: NA 2654, nr. 151 (1797) Akte.
+Bron: NA 2654, nr. 155 (1797) Procuratie ad negotiam.
+Bron: NA 2654, nr. 481 (1797) Akte.
+Bron: NA 2654, nr. 493 (1797) Afgifte.
+Bron: NA 2683, nr. 543 (1798) Procuratie ad negotiam.
+Bron: NA 2684, nr. 163 (1799) Procuratie ad negotiam.
+Bron: NA 2784, nr. 469 (1799) Procuratie ad negotiam.
+Literature: Ledeboer; Van Eeghen, IV, 182.
+Vader: Jacob Wetstein.
+
+
+Voornaam: Frederick
+Achternaam: Wevel
+Naamsvariant: Frederick Voevel
+Geboortedatum: 1654
+Sterfdatum:
+Geboorteplaats:
+Misc: doop MK 29-3
+Plaats van overlijden:
+Geslacht: M
+Start_werkperiode: 1677
+Eind_werkperiode:
+Beroep: boekverkoper
+Misc: Zijn vrouw hertrouwt KO 20-5-1678 met de vleeshouwer Cornelis Verschouw.
+Huwelijk
+Soort huwelijk: KO
+Datum huwelijk: 10-10-1677
+Huwelijkspartner:  Jacomina Marcus van Wolferhuijsen
+Getuigen:
+Adres
+Locatie: Haarlemmerstraat.
+Locatie_startdatum: 1677
+Gilde: Contribuant; 16-11-1677 Vrijmeester (AB 83a, f. 106v).
+Gilde:
+Startdatum:
+Functie in het gilde: Contribuant
+Einddatum:
+Gilde_InDienstVan:
+Gilde_Literatuur:
+Gilde:
+Startdatum: 16-11-1677
+Functie in het gilde: Vrijmeester
+Einddatum:
+Gilde_InDienstVan:
+Gilde_Literatuur: AB 83a, f. 106v
+Bron: NA 681c, nr. 64 (21-11-1677) Mutueel testament met Jacomina Wolferhuijsen.
+Literature: Ledeboer.
+Bron: Vgl. KO 14-5-1671 greinwerker Frederick Wevel en Niesje Baerents van Groenendael.
+Beroep: perkamentmaker
+Vader: Frederick Wevel
+Moeder: Maartje Andries
+Misc: Voor de boedel van de ouders zie NA 762, nr. 145 [scans 213 e.v.] [1656]; vgl. nr. 146 boedel Christiaen Fredricxs Wevel, met daarin ook boeken, en Weeskamer 4417a Christiaen Wevel en Aechien Willems van Houte, 1655, 1 omslag). Wordt in 1701 genoemd als halfbroer van Thomas Jansz van Wijck (getuige bij diens KO).
+Misc: Hij had relaties met de perkamentmakersfamilie Peper (zie aldaar).
+Misc: Vgl. KO 14-5-1671 greinwerker Frederick Wevel en Niesje Baerents van Groenendael.
+
+
+Voornaam: ?
+Achternaam: Wheelers
+Geboortedatum:
+Sterfdatum:
+Geboorteplaats:
+Plaats van overlijden:
+Geslacht: M
+Start_werkperiode: 1638
+Eind_werkperiode:
+Beroep: boekdrukker
+Literature: Sprunger, ch. 5.
+Misc: Werkte voor Willem Christiaensz van der Boxe.
+
+
+Voornaam: Jacob
+Achternaam: Marcus
+Naamsvariant: Jacob Marcusz van der Wiele
+
+
+Voornaam: Mathijs
+Tweede naam: Jacobsz
+Achternaam: van der Wiele
+Geboortedatum:
+Sterfdatum:
+Geboorteplaats:
+Plaats van overlijden:
+Geslacht: M
+Start_werkperiode: 1661
+Eind_werkperiode:
+Beroep: boekdrukker
+Misc: Neeltje Leenderts is weduwe van Jacob Cornelisz van Sluys
+Huwelijk
+Soort huwelijk: KO
+Datum huwelijk: 20-7-1661
+Huwelijkspartner:  Marya Heyndricx
+Getuigen: zijn broer Jan, van beroep zwaardveger
+Huwelijk
+Soort huwelijk: KO
+Datum huwelijk: 14-11-1670
+Huwelijkspartner:  Neeltje Leenderts
+Getuigen: zijn neef Hendrick de Ronde
+Adres
+Locatie: St. Jacobsgracht
+Locatie_startdatum: 1661
+Adres
+Locatie: Herensteeg.
+Locatie_startdatum: 1670
+Gilde:
+Startdatum: 1681
+Functie in het gilde: Leerling
+Einddatum:
+Gilde_InDienstVan: Jacob Hackius.
+Gilde_Literatuur:
+Bron: Zoon van Jacob Marcusz [v.d. Weele]?
+
+
+Voornaam: Adriaan
+Tweede naam: Dirixsz
+Achternaam: Wijngaerden
+Naamsvariant: Adriaan Dirixsz van Wijngaerden
+Geboortedatum: 1677
+Sterfdatum:
+Geboorteplaats: Leeuwarden
+Misc: werkzaam Duisburg/Heidelberg 1654-64; Nijmegen 1657-59; Leiden 1668-69
+Misc: Rapenburg 54 gekocht voor 6905, verkocht aan Frans Moeyaert in 1657 voor 5200
+Plaats van overlijden:
+Geslacht: M
+Start_werkperiode: 1642
+Eind_werkperiode: 1657
+Beroep: boekverkoper
+Beroep: boekbinder
+Kinderen: doop HK 23-5-1643 Cornelia; PK 31-1-1646 Justus (getuige Frans Moyaert); HK 2-1-1650 Janneke; PK 13-9-1651 Cornelia; PK 24-9-1654 Amerens; PK 24-3-1656 Elizabeth; 2. KO 15-6-1673 Aeltje Jans Visser, weduwe Thomas Ventjager (* Oud Beijerland,  ). Zij hertrouwde KO 4-12-1676 met Jan Isbrantsz van Couwenhoven
+Huwelijk
+Soort huwelijk: KO
+Datum huwelijk: 12-6-1642
+Huwelijkspartner: Lijsbeth Ardiers
+Getuigen:
+Huwelijk
+Soort huwelijk: KO
+Datum huwelijk: 15-6-1673
+Huwelijkspartner: Aeltje Jans Visser
+Getuigen:
+Adres
+Locatie: Bagijnhof
+Locatie_startdatum: 1642
+Adres
+Locatie: Rapenburg 54
+Locatie_startdatum: 1646
+Locatie_einddatum: 1657
+Adres
+Locatie: Rijn.
+Locatie_startdatum: 1673
+Personeel
+Datum Aanstelling: 1-5-1648
+Naam werknemer:  Cornelis , L voor 3 jaar
+Functie werknemer: Leerling
+Personeel
+Datum Aanstelling: 10-1650
+Naam werknemer:  Johannes van der Eycken, oud 14 jaar, L voor 4 jaar
+Functie werknemer: Leerling
+Personeel
+Datum Aanstelling: 1-3-1651
+Naam werknemer:   Jean Martin, L voor 4 jaar
+Functie werknemer: Leerling
+Personeel
+Datum Aanstelling: 16-8-1651
+Naam werknemer: Nicolaes Wijngaerden, oud 14 jaar L
+Functie werknemer: Leerling
+Veiling
+Datum veiling: 8-10-1646
+Geveilde collectie:  Adriaen Smout (KBK)
+Veiling
+Datum veiling: 28-5-1648
+Geveilde collectie:   anon. (KBK)
+Veiling
+Datum veiling: 1650
+Geveilde collectie:   Antonius Walaeus (op het titelblad noemt hij zich Academiae bibliopola)
+Veiling
+Datum veiling: 17-4-1652
+Geveilde collectie:   Catalogus variorum insignium ... librorum (Leiden: Adriaen Wijngaerden, 1652), 4, 27 pp. (BSC 1968).
+Gilde:
+Startdatum: 1651
+Functie in het gilde: Hoofdman
+Einddatum: 1665
+Gilde_InDienstVan:
+Gilde_Literatuur:
+Bron: Nam in 1647 Philippe de Croy in dienst als drukker.
+Bron: NA 397, nr. 157 (3-8-1643) Obligatie aan med. dr. Johannes Hasius van 600. Borgen Pieter Ouseel en Jacob Ardier, lakenverkopers.
+Bron: NA 702, nr. 152 (2-11-1644) Obligatie aan de kinderen van wijlen med. dr. Johannes Elemans van 1200. Borgen zijn de lakenreders Johannes Harperius Snoeck (getuige bij zijn huwelijk) en Jacob Ardier.
+Bron: NA 821, nr. 35 (31-4-1646) Obligatie aan dr. Cornelis Weesp van 800 i.v.m. lening. Borgen Johannes Harperius Snoeck en Jacob Ardier, kooplieden. Afgelost op 7-1-1647.
+Bron: NA 728, nr. 56 (5-3-1647) Contract met Philippe le Croy om per 1 april 4 jaar voor hem te werken. De Croy moest een pers altijd ter beschikking van Van Wijngaarden houden, alsmede twee knechts aan de drukpers en zoveel letterzetters als nodig om deze continu aan het werk te houden. Hij mag hierop niets anders laten drukken, behalve gelegenheidsdrukwerk als carmina, biljette, bruiloftsgedichten, etc. De Croy moet zorgen voor een goed uitgeruste drukkerij en alles wat eventueel aan letters en anderszins naar de smaak van Van Wijngaarden ontbreekt aanvullen en moet de beste kwaliteit leveren. (Ende sal wyders hij de Croij verbonden wesen hem Wijngaerden soo schoonen goeden en curieusen werck te maecken als van yemant binnen Leijden gemaecct wert). Ook als De Croy slechte zetters gebruikt, waardoor de correctie duurder zal uitvallen, moet hij dat op eigen kosten dragen. Van Wijngaarden zorgde voor kopij en papier, met dien verstande dat wanneer er voor een volle pers niet genoeg werk is, Van Wijngaerden voor iedere knecht twintig stuivers per dag zal moeten betalen. Over het salaris van De Croy wordt vastgesteld dat dit tussen beiden in alle redelijkheid zal worden overeengekomen. Iedere zes maanden zal de rekening worden opgemaakt.
+Bron: NA 730, nr. 333 (15-11-1649) Mutueel testament met Elisabeth Ardier, wonende op het Rapenburg. Tot voogden benoemt hij zijn goede vrunt David Lopez en zij haar broer en schoonbroer.
+Bron: Nationaal Archief, Academische Vierschaar, 03.03.06, 24 (Dingboek F), f. 16v (1650) Adriaan van Wijngaerden contra Adriaen Beeckerts van Thienen, om betaling van 30.16 voor het binden en leveren van boeken.
+Bron: NA 444, nr. 22 (27-1-1651) Obligatie aan de erven van Christina du Pree, weduwe van Joost Bertens van 1700. Borg de lakenkoper Jacob Ardier (zijn zwager?). Afgelost 27-4-1657.
+Bron: NA 732, nr. 232 (21-7-1651) Verklaring met anderen n.a.v. schulden van de Schotse student Alexander Person.
+Bron: NA 734, nr. 100 (11-4-1653) Obligatie aan zijn schoonbroer de koopman Pieter Ouseel van 800.
+Bron: NA 735, nr. 23 (22-1-1654) Procuratie aan Pieter Wouwe (?), beeldsnijder te Middelburg om van de boekverkoper Gillis Horthemels aldaar 330.19 te innen voor geleverde boeken.
+Bron: NA 736A, nr. 177 (5-6-1655) Obligatie aan Daniel Ouseel, predikant te Homade van 700.
+Bron: NA 736A, nr. 178 (10-6-1655) Obligatie aan Johannes Ouseel, zijdelakenkoper van 560 voor geleverde waren.
+Bron: NA 736B, nr. 420 (28-12-1655) Genoemd in leercontract tussen Pieter Ouseel en Moyses Ouseel. Zie ook NA 736B, nr. 419 (28-12-1655) Getuige bij akte Pieter Ouseel.
+Bron: NA 737, nr. 148 (12-6-1656) Obligatie aan Joh. Polio te Amsterdam van 2400 i.v.m. lening.
+Bron: SA 74 (Gerechtsdagboek FF), f. 330r (27-2-1657) Consent voor een veiling van zijn winkelvoorraad. Opzienders 5.
+Bron: NA 738, nr. 115 (3-5-1657) Obligatie van in totaal 11116 aan Catharina Vockestaert, weduwe van prof. Joh. Walaeus (zij wordt bijgestaan door advocaat Daniel de Backere), Paschasia van Ysenhout, weduwe van prof. Anthonius Walaeus (haar schoonmoeder), Johan Polio, koopman te Amsterdam (haar zwager). Als onderpand gebruikt hij zijn gebonden en ongebonden boeken en zijn letters in de drukkerij. Hij woont inmiddels in Nijmegen.
+Bron: NA 1052, nr. 156 (12-10-1677) Akte n.a.v. de nalatenschap van zijn vrouw volgens testament van 15-11-1649. Kinderen: Adriaan (advocaat), Jannetje en Cornelia.
+Literature: Briels 552-553; Gheprint te Nymegen 44; Het Rapenburg V, 721, 729-730; P.J. Mennenh, Duisburg in der Geschichte des niederrheinischen Buchdrucks und Buchhandels bis zum Ende der alten Universitt (1818) (Duisburg, 1870), 46-48, 93, 174, 267, 291-292.
+Bron: Gerechtsdagboeken: 74, f. 330; 82, f. 110; 84, f. 70.
+#TEST#Wijngaerden, Adriaan Dirixsz [van] (* Leeuwarden,  pre-1677; w. Leiden 1642-57; Duisburg/Heidelberg 1654-64; Nijmegen 1657-59; Leiden 1668-69)
+
+
+Voornaam: Georgius
+Achternaam: Wilbrots
+Geboortedatum: 1558
+Sterfdatum:
+Geboorteplaats:
+Plaats van overlijden:
+Geslacht: M
+Start_werkperiode: 1570
+Eind_werkperiode:
+Beroep: letterzetter
+Literature: Rombouts, Certificats, 30.
+Misc: In dienst geweest bij Diederik Horst. Werkte samen met Hendrik van Aken. Vroeg op 20-11-1570 een certificaat aan Plantijn om als drukker te werken.
+
+Voornaam: William
+Achternaam: Wilkinson
+Geboortedatum:
+Sterfdatum:
+Geboorteplaats: engeland
+Plaats van overlijden:
+Geslacht: M
+Start_werkperiode: 1627
+Eind_werkperiode:
+Beroep: boekdrukker
+Literature: Henselmans p. 5; Sprunger, ch. 4.
+Misc: Werkte eerst te Amsterdam. Ook AS 12-2-1627. Hij wordt hier genoemd Guilelmus Wilchensoonus Anglus. 28.
+Misc: Werkte voorheen mogelijk voor Erpenius.
+Bron: UBL, Senaatsarchief, Volumen Inscriptionum, f. 232 (12-2-1627) Inschrijving als student, 28 jaar oud, samen met 7 anderen: Willem Christaensz van der Boxe, Henry Randulph, Pieter Vincentsz van Heemskerck, Johannes de Vechter, Pieter Schut, Angelus Jacobsz Junior en Theodorus Wolders (Servi typographi nostri Academici sequenter acto ex gratie et liberalitate D.D. Consulum urbis nostris Leidensis gratis inscripti sunt).
+
+
+Voornaam: Andries
+Achternaam: Willaart
+Naamsvariant: Andries Willaert
+Geboortedatum: 1681
+Sterfdatum:
+Geboorteplaats: leiden
+Misc: doop HK 6-11
+Plaats van overlijden:
+Geslacht: M
+Start_werkperiode: 1708
+Eind_werkperiode:
+Beroep: letterzetter
+Kinderen: dopen HK 17-9-1709 Maria; HK 23-8-1711 Pieter; PK 26-2-1710 Maghtild
+Misc: KO 27-4-1708 Maria Cortijn uit Rotterdam, in de Lokhorststraat (getuige zijn vader en haar bekende Anna Caldercamp). Zij overleed in 1758 en werd op18-10 begraven in Leiderdorp.
+Huwelijk
+Soort huwelijk: KO
+Datum huwelijk: 27-4-1708
+Huwelijkspartner:  Maria Cortijn
+Getuigen: zijn vader en haar bekende Anna Caldercamp
+Adres
+Locatie: aan de Pieterskerk.
+Locatie_startdatum: 1708
+Bron: NA 2146, nr. 94 (1744) Akte?
+Bron: NA 2084, nr. 145 (1759) Akte?
+Bron: Zoon van Wybout Willaart en Marij Jans.
+Vader: Wybout Willaart
+Moer: Marij Jans.
+
+
+Voornaam: Joris
+Achternaam: Willeboortsz
+Geboortedatum: 1558
+Sterfdatum:
+Geboorteplaats:
+Plaats van overlijden:
+Geslacht: M
+Start_werkperiode: 1570
+Eind_werkperiode:
+Beroep: knecht
+Literature: De Navorscher, 8 (1858), 231-232; Ph. Rombouts, Certificats dlivrs aux imprimeurs des Pays-Bas par Christophe Plantin et autres documents se rapportant  la charge du Prototypographe (Antwerpen/Gent, 1881), 30-31.
+Bron: Georgius Wilbroti, aag de 22 ans, natif de Leyden, en Hollande, estant comparu devant moy, ma premirement exhib lectres dattestation de sa bonne fame, renomme et vie catholique, faictes par le Proviseur de Reynlant, dattes en ladicte ville de Leyden, du 15. de ce prsent mois, et scelles avec deux cachets de cire verde, quil disoit estre au nom de lvesque dUtrecht, etc. Plus autres lectres des Signeurs de la ville de Leyden, au mesme effect, dattes aussi dudict 15. de Novembre, soussignes Broechoven. Et disant vouloir estre admis pour exercer lart de limprimerie, je lay interrogu et a respondu avoir apprins ledict art audict Leyden, avec Dierick Horst, environ 4. annes, et depuis besongn pour compagnon chez Henrick van Acken et autres, pour compagnon  la casse, ou compositeur et collecteur de lectres. Et de faict, a demonstr quil entend bien ledict art et le sait exercer, et sait entendre aucunnement le latin avec sa langue maternelle dudict pas. Parquoy, dsirant, comme dict est, exercer ledict art, je luy ay encharg de saddresser au conseil du Roy pour en obtenir le cong, et dentretenir les ordonnances de Sa Majest et de limprimerie. Et ce en la prsence de Jehan Verwithaghe, imprimeur, et Jehan vanden Driesche, notaire,  ce appells.
+Misc: Knecht, in dienst van Dierick Horst.
+
+
+Voornaam: Willem
+Achternaam: Willeboortsz
+Geboortedatum:
+Sterfdatum:
+Geboorteplaats:
+Plaats van overlijden:
+Geslacht: M
+Start_werkperiode: 1579
+Eind_werkperiode:
+Beroep: boekdrukker
+MIsc: Magdalena Willems afkomstig Delft (getuige zijn oom Maarten Dircxz).
+Huwelijk
+Soort huwelijk: KO
+Datum huwelijk: 12-9-1579
+Huwelijkspartner:  Magdalena Willems
+Getuigen: zijn oom Maarten Dircxz
+Literature: Briels 550; De Navorscher, 8 (1858), 231-232.
+Bron: Vgl. Joris Willeboorts, genoemd in De Navorscher.
+
+
+Voornaam: Jacob
+Achternaam: Willeke
+Naamsvariant: Jacob Willekes
+Geboortedatum:
+Sterfdatum:
+Geboorteplaats:
+Plaats van overlijden:
+Geslacht: M
+Start_werkperiode: 1732
+Eind_werkperiode: 1774
+Beroep: boekverkoper
+Kinderen: doop PK 20-11-1754 Jacobus; PK 1-12-1756 Mouris; PK 13-6-1759 Magdalena Barbera
+Huwelijk
+Soort huwelijk: KO
+Datum huwelijk: 8-11-1753
+Huwelijkspartner:  Helena Nasvelt
+Getuigen: zijn zwager Isaac Martijn
+Adres
+Locatie: Steenschuur.
+Locatie_startdatum: 1748
+Locatie_einddatum: 1753
+Personeel
+Datum Aanstelling: 20-9-1737
+Naam werknemer:  Hendrik Adrichem, L voor 3 jaar
+Functie werknemer: Leerling
+Personeel
+Datum Aanstelling: 8-12-1750
+Naam werknemer:   Jacob Perk, L (van Heyligert)
+Functie werknemer: Leerling
+Personeel
+Datum Aanstelling: 1752
+Naam werknemer: Hendrick Liler, L
+Functie werknemer: Leerling
+Personeel
+Datum Aanstelling: 17-12-1754
+Naam werknemer: Theodoor Reijgers, L
+Functie werknemer: Leerling
+Personeel
+Datum Aanstelling: 2-7-1755
+Naam werknemer: Jacob van der Spijk, L
+Functie werknemer: Leerling
+Personeel
+Datum Aanstelling: 10-6-1759
+Naam werknemer: Dirk Strikker, L (AB 83c, f. 40).
+Misc: Zonder jaar: Geschil met Jacob de Beunje over de druk van een werk van Vitringa over Jesaias (AB 101).
+Functie werknemer: Leerling
+Gilde:
+Startdatum: 1-4-1726
+Functie in het gilde: Leerling
+Einddatum:
+Gilde_InDienstVan: Adam Schouten.
+Gilde_Literatuur:
+Gilde:
+Startdatum: 5-5-1732
+Functie in het gilde: Vrijmeester
+Einddatum:
+Gilde_InDienstVan:
+Gilde_Literatuur: AB 83a, f. 4
+Bron: NA 2542, f. 647 (1773) Transport.
+
+
+Voornaam: Maurits
+Achternaam: Willeke
+Naamsvariant: Mouris Willekes
+Geboortedatum: 1756
+Sterfdatum:
+Geboorteplaats: leiden
+Misc: doop PK 2-12
+Plaats van overlijden:
+Geslacht: M
+Start_werkperiode: 1784
+Eind_werkperiode: 1793
+Beroep: boekverkoper
+Gilde:
+Startdatum: 1-3-1773
+Functie in het gilde: Leerling
+Einddatum:
+Gilde_InDienstVan: Daniel Vijgh, voor 4 jaar.
+Gilde_Literatuur:
+Gilde:
+Startdatum: 1-3-1784
+Functie in het gilde: Vrijmeester
+Einddatum:
+Gilde_InDienstVan:
+Gilde_Literatuur: AB 83a, f. 76v
+Gilde:
+Startdatum: 1793
+Functie in het gilde:
+Einddatum:
+Gilde_InDienstVan:
+Gilde_Literatuur: AB 83c, f. 101
+Bron: NA 2556, nr. 81 (1768) Qualificatie.
+Vader: Jacob Willekes.
+
+
+Voornaam: Jan
+Achternaam: Willemsz
+Geboortedatum:
+Sterfdatum:
+Geboorteplaats:
+Plaats van overlijden:
+STCN: 075564998
+Geslacht: M
+Start_werkperiode: 1604
+Eind_werkperiode:
+Beroep: boekdrukker
+Bron: NA 84, nr. 74 (20-1-1604) Getuige bij testament Adam Smesmans.
+Misc: Waarschijnlijk. in dienst van Raphelengius.
+
+
+Voornaam: Jan
+Achternaam: Williamson
+Naamsvariant: Jan Willemsz
+Geboortedatum:
+Sterfdatum:
+Geboorteplaats: Schotland
+Plaats van overlijden:
+Geslacht: M
+Start_werkperiode: 1606
+Eind_werkperiode: 1615
+Beroep: boekdrukker
+Misc: Nijesje Adriaens van Aarlanderveen is weduwe Jacob Jansz, schotsman (getuige zijn bekende de bakker Pieter Geerloffsz).
+Huwelijk
+Soort huwelijk: KO
+Datum huwelijk: 22-5-1615
+Huwelijkspartner: Trijn Jans
+Huwelijk
+Soort huwelijk: KO
+Datum huwelijk: 22-5-1615
+Huwelijkspartner: Nijesje Adriaens van Aarlanderveen, weduwe Jacob Jansz, schotsman
+Getuigen: zijn bekende de bakker Pieter Geerloffsz
+Bron: NA 73, nr. 68 (22-5-1606) Verklaring
+Bron: NA 176, f. 363 (7-12-1614) Procuratie i.v.m. vordering.
+Bron: NA 177, f. ? (13-1-1615) ?
+
+Voornaam: Jan
+Achternaam: Willemsz (edinburgh)
+Geboortedatum:
+Sterfdatum:
+Geboorteplaats: edinburgh
+Plaats van overlijden:
+STCN: 075557223
+Geslacht: M
+Start_werkperiode: 1644
+Eind_werkperiode:
+Beroep: boekdrukker
+Misc: Jannetje Joosten is weduwe Mathias Arentsz van den Bosch
+Huwelijk
+Soort huwelijk: KO
+Datum huwelijk: 20-5-1644
+Huwelijkspartner:  Jannetje Joosten
+Getuigen: zijn bekende Joris Balentyr
+Adres: 1644 Herensteeg.
+Adres
+Locatie: Herensteeg.
+Locatie_startdatum: 1644
+Bron: Getuigenisboek I, f. 186 (drukker); K, f. 102; L, ff. 148v, 341, 418 (37 jaar); M, ff. 2v, 99 (38 jaar), 287v (40 jaar).
+
+
+Voornaam: Lammert
+Achternaam: Willemsz
+Geboortedatum:
+Sterfdatum:
+Geboorteplaats: franeker
+Plaats van overlijden:
+Geslacht: M
+Start_werkperiode: 1606
+Eind_werkperiode: 1610
+Beroep: letterzetter
+Huwelijk
+Soort huwelijk: KO
+Datum huwelijk: 3-5-1606
+Huwelijkspartner:  Maertje Andries
+Getuigen: getuige zijn bekende de letterzetter Hans Spoor en haar schoonzuster Aeltje Neelmans
+Bron: NA 91, nr. 92 (1610) Akte ontbreekt.
+
+
+Voornaam: Willem
+Achternaam: Willemsz
+Geboortedatum:
+Sterfdatum:
+Geboorteplaats: leiden
+Plaats van overlijden:
+STCN: 138259488
+Geslacht: M
+Start_werkperiode: 1613
+Eind_werkperiode: 1622
+Beroep: boekverkoper
+Beroep: boekbinder
+Huwelijk
+Soort huwelijk: SH
+Datum huwelijk: 16-1-1621
+Huwelijkspartner:  Annetje Jans
+Getuigen: getuige zijn cousijn Pieter Jansz
+Bron: SA 682, Burgemeestersdagboek, f. 102v (23-8-1622) Zweert censuureed.
+Literature: Bgels 63.
+Bron: Genoemd in SA 3406, nrs. 166, 169 en SA 682, f. 102v.
+#TEST#Willemsz, Willem (* Leiden; w. 1613-22)
+Misc: Vgl. de Haarlemse boekverkoper Willem Willemsz die op 22-4-1622 huwde voor schepenen met Neeltje Willems (getuigen zijn broers Pieter en Jan).
+Bron: Genoemd in SA 3406, nrs. 166, 169 en SA 682, f. 102v.
+
+
+Voornaam: Gerard
+Achternaam: Wingendorp
+Geboortedatum:
+Sterfdatum:
+Geboorteplaats:
+Plaats van overlijden:
+Geslacht: M
+Start_werkperiode: 1653
+Eind_werkperiode:
+Beroep: boekverkoper
+Literature: Thesaurus.
+
+
+Voornaam: Harmanus
+Tweede naam: van
+Achternaam: Wingendorp
+Geboortedatum:
+Sterfdatum:
+Geboorteplaats:
+Plaats van overlijden:
+Geslacht: M
+Start_werkperiode: 1652
+Eind_werkperiode:
+Beroep: boekdrukker
+Bron: NA 622, nr. 96 (10-8-1644) Verklaring dat hij de inspectie van het Berchwerck toebehorende Joffr. Agatha Scholiers, weduwe van Mathijs van Overbeke accepteert en aanneemt.
+Bron: SA 71, ff. 114r-117r (3-9-1652) Consent aan Harmanus Wingendorp om Severijn Matthijsz tot 1 november in een achterkamer van zijn huis een drukpers te laten gebruiken voor de druk voor eigen rekening van een aantal Italiaanse gedichten. Wingendorp had Matthijsz hiertoe uijt puijre charitatieve consideratie uitgenodigd, omdat die in zijn eigen huis niet kon werken wegens een conflict met zijn huisbaas. Vervolgens was een conflict ontstaan met de overlieden van het boekverkopersgilde, die meenden dat dit tegen de gildekeur was. Zij hadden Wingendorp thuis bezocht en twee letterbakken en een vorm meegenomen, waardoor het werk stil was komen te liggen. Op 29-8 werd het gildebestuur gehoord, vervolgens Matthijsz, waarna consent werd gegeven. Cf. Giovanni Battista Morino, lAdone, 2 dln. (Amsterdam?: drukker S. Matthijsz, 1651), 18 (UBL 567 G 14-15); Torquato Tasso, Orazio Ariosti en Camillo Camilli, Il Goffredo, overo Gierusalemme liberata, poemo heroico (Amsterdam: Giovanni La No en Sebastiano Combi, dr. Severijn Matthijsz, 1652), 1652), 24. UBL 566 G 12; Traiano Boccalini [= Antonio Santa Croce], La secretaria di Apollo (Amsterdam: F.M. Boccafranca; dr. Severijn Matthijsz?, 1653), 24. UBL 568 G 9.
+Bron: NA 1120, nr. 12 (1677) Akte.
+Bron: RA 4, Correctieboek N, f. 21r (3-9-1652) Veroordeling wegens de ongeoorloofde druk (als niet gildelid?) van een niet nader genoemd boek, ondanks een eerder verbod. Hij had bovendien de overlieden van het boekverkopersgilde zeer onheus bejegend. Boete 10 plus de kosten van het proces.
+
+Voornaam: Eduwaert
+Achternaam: Winsloo
+Naamsvariant: Edward Winslow
+Geboortedatum:
+Sterfdatum:
+Geboorteplaats: londen
+Plaats van overlijden:
+Geslacht: M
+Start_werkperiode: 1618
+Eind_werkperiode:
+Beroep: boekdrukker
+Huwelijk
+Soort huwelijk: SH
+Datum huwelijk: 27-4-1618
+Huwelijkspartner:  Elisabeth Berkar
+Getuigen: getuigen zijn bekenden Jonathan Willems Brewster en Ysaack Allerton en voor de bruid haar nicht Janneke Phesels? en Mary Allerton-Norris
+Literature: Sprunger, ch. 5?
+
+
+Voornaam: Johannes
+Tweede naam: de
+Achternaam: Winter
+Geboortedatum:
+Sterfdatum:
+Geboorteplaats:
+Plaats van overlijden:
+Geslacht: M
+Start_werkperiode: 1671
+Eind_werkperiode:
+Beroep: boekverkoper
+Huwelijk
+Soort huwelijk: KO
+Datum huwelijk: 12-10-1686
+Huwelijkspartner: Jannetje Basin
+Getuigen: getuige zijn vader
+Adres
+Locatie: Uiterstergracht.
+Locatie_startdatum: 1686
+Gilde:
+Startdatum: 26-8-1671
+Functie in het gilde: Vrijmeester
+Einddatum:
+Gilde_InDienstVan:
+Gilde_Literatuur: AB 83a, f. 118
+
+Voornaam:
+Achternaam: Wishoff, familie
+Misc: Album studiosorum: 20-3-1750 Coenradus Wishof Leidensis, 15.
+
+
+Voornaam: Coenraad sr.
+Tweede naam:
+Achternaam: Wishoff
+Geboortedatum: 14-7-1719
+Sterfdatum:
+Geboorteplaats: pre -7-
+Plaats van overlijden:
+Geslacht: M
+Start_werkperiode:
+Eind_werkperiode:
+Beroep: boekverkoper
+Misc: Begr. PK (opschrift grafsteen: Coenraet / Wishoff / Boekverkooper / 14 Iuly 1719).
+
+
+Voornaam: Coenraad jr.
+Tweede naam:
+Achternaam: Wishoff
+Geboortedatum:
+Sterfdatum:
+Geboorteplaats:
+Plaats van overlijden:
+Geslacht: M
+Start_werkperiode: 1710
+Eind_werkperiode: 1754
+Beroep: boekverkoper
+Misc: Sibilla Henke afkomstig uit Altena int Land van der Mark (getuige zijn vader).
+Huwelijk
+Soort huwelijk: KO
+Datum huwelijk: 16-10-1711
+Huwelijkspartner:  Sibilla Henke
+Getuigen: getuige zijn vader
+Misc: 1711 Rapenburg 56 z.dl (als huurder; onduidelijk hoe lang hij hier heeft gewoond); ? Herensteeg; 1735, 1756 Kloksteeg.
+Adres
+Locatie: Rapenburg 56
+Locatie_startdatum: 1711
+Adres
+Locatie: Herensteeg
+Locatie_startdatum:
+Adres
+Locatie: 1756 Kloksteeg.
+Locatie_startdatum: 1735
+Personeel
+Datum Aanstelling: 25-6-1725
+Naam werknemer:  Jan Heyligert,* L voor 4 jaar (loon I 12 st. II 18 st. III 24 st. IV 30 st.)
+Functie werknemer: Leerling
+Personeel
+Datum Aanstelling: 3-1-1729
+Naam werknemer:   Hendrick Heyligert, voor 6 jaar (loon I + II 7 st. III 12 st. IV 18 st. V 24 st. VI 30 st.)
+Personeel
+Datum Aanstelling: 1-4-1733
+Naam werknemer:   David Mortier,* (van Kallewier)
+Personeel
+Datum Aanstelling: 3-6-1735
+Naam werknemer:   Johannes Seuters, L
+Functie werknemer: Leerling
+Personeel
+Datum Aanstelling: 3-11-1739
+Naam werknemer:   Fr. Slingerland, L, Jacob van der Sluijs L (houkint)
+Functie werknemer: Leerling
+Personeel
+Datum Aanstelling: 1-5-1740
+Naam werknemer:   Frederick Slijk, L (afgegaan op koekebakke)
+Functie werknemer: Leerling
+Personeel
+Datum Aanstelling: 2-5-1746
+Naam werknemer:   Poulus Spijk, L voor 4 jaar (loon I 6 st. II 12 st. III 18 st. IV 24 st.)
+Functie werknemer: Leerling
+Personeel
+Datum Aanstelling: 7-11-1750
+Naam werknemer:   Moses Cijfveer,* (van Heyligert)
+Personeel
+Datum Aanstelling: 8-12-1750
+Naam werknemer:   Jacques Sinot, (van Luchtmans) (AB 83b, f. 51v; 83c, f. 10).
+Veiling
+Datum veiling: 1734
+Geveilde collectie:  D*** (Saltykow 18.72.4.37).
+Gilde:
+Startdatum: 30-9-1710
+Functie in het gilde: Vrijmeester
+Einddatum:
+Gilde_InDienstVan:
+Gilde_Literatuur: AB 83a, f. 114v
+Gilde:
+Startdatum: 1729
+Functie in het gilde: Hoofdman
+Einddatum:
+Gilde_InDienstVan:
+Gilde_Literatuur:
+Religie: Luthers
+Bron: NA 1818, nr. 7 (31-8-1714) Mutueel testament.
+Bron: NA 1737, nr. 143 (1716) Procuratie.
+Bron: NA 1472, nr. 6 (20-1-1717) Obligatie van 900 met Hendrick Teering, Jurriaan Wishoff en Jan Nivelt aan de erven Reinier Leers voor boeken gekocht op de auctie van M. Bhm te Delft d.d. 11-11-1715 (transportacte voor notaris G. van Bortel op 27-8-1716).
+Bron: NA 1472, nr. 82 (27-9-1717) Obligatie van 1065.2 met Jurriaan Wishoff en Hartgerus Teering aan de erven van de Utrechtse boekverkoper Willem van Poolsum voor gekochte boeken ten huize van Melchior de Raet te Utrecht d.d. 14-5-1717.
+Bron: NA 1472, nr. 211 (24-9-1718) Obligatie van 1040.15.14 met Johannes van der Deyster, Jacob Losel en Hendrick Teering aan de Rotterdamse boekverkoper Barend Bos voor boeken gekocht op een auctie te Delft d.d. 15-8-1718.
+Bron: NA 1323, nr. 86 (11-9-1720) Gezamenlijke obligatie van Wishoff t.b.v. 250, Daniel Goedval t.b.v. 218 en Hendrik Teering t.b.v. 229 voor boeken gekocht op de veiling d.d. 20-5-1720.
+Bron: NA 1821, nr. 24 (1721) Akte.
+Bron: NA 1474, nr. 69 (13-7-1722) Obligatie van 1272.15 met Johannes van der Deyster aan Maria van Someren, weduwe van de Utrechtse boekverkoper Willem Broedelet voor boeken gekocht op de auctie onder de boekverkopers d.d. 15-5-1722 (borg Barend Wishoff, marktschipper op Delft).
+Bron: NA 1474, nr. 90 (30-9-1722) Procuratie aan de Haagse procureur Pieter van Schaick om hem te vertegenwoordigen in zijn zaak tegen de Haagse boekverkoper Rutger Aelberts voor de Haagse vierschaar.
+Bron: NA 1474, nr. 125 (26-1-1723) Obligatie van 2390.17.8 met Johannes Arnoldus Langerak, Daniel Goedval en Hendrick Teering aan de weduwe Franois Halma te Leeuwarden voor boeken gekocht op Halma's auctie op 6-10 e.v. 1722.
+Bron: NA 1821, nr. 24 (13-2-1724) Obligatie van 500 aan de broodbakker Pieter Risot.
+Bron: NA 1475, nr. 275 (26-4-1726) Obligatie van 679.4.8 met Johannes van der Deyster en Hendrick Teering aan de Utrechtse boekverkoper Willem van de Water voor boeken gekocht op een auctie op 6-3-1726.
+Bron: NA 1768, nr. 128 (19-10-1726) Obligatie van 400 aan Cornelis Buijs i.v.m. een lening (borg Joachim Swarts).
+Bron: NA 1895, nr. 65 (13-7-1727) Obligatie van 1049 aan de weduwe Boutesteyn voor boeken gekocht op de veiling onder de boekverkopers van 3-6 e.v. 1727 (borgen Hendrick Teering en de schoolmeerster Abraham Voosart; 4 termijnen).
+Bron: Nationaal Archief, Academische Vierschaar, 03.03.06, 25 (Dingboek G), f. 197 (19-2-1728) Toegestaan verzoek van Coenraad Wishoff en Willem van Mechelen, apotheker, om de goederen van de vertrokken Johannes Christoffel Vierthaler te mogen verkopen, o.a. vanwege een schuld voor boeken en veilinggeld over 1721 en 1722 van 57.11. Vgl. ff. 207-208 (29-3-1729) Lijst van preferentie en concurrentie. Concurrentie; Boekverkoper; Apotheker; Handschrift; Lakenkoper.
+Bron: NA 1919, ff. 457-58 (15-11-1729) Obligatie van 471 aan de Delftse boekverkoper Adriaan Beman voor boeken gekocht op een auctie te Delft d.d. 5-9-1729; Hendrik Teering borg.
+Bron: NA 1919, ff. 461-62 (15-11-1729) Obligatie van 329.9 aan de Haagse boekverkopers Pierre Gosse en Jean Neaulme voor gebonden boeken gekocht op hun auctie d.d. 25-7-1729.
+Bron: NA 1919, ff. 537-38 (24-12-1729) Obligatie van 405.5 aan de erven Franois Halma voor ongebonden boeken gekocht op hun auctie te Delft d.d. 5-9-1729.
+Bron: NA 1920, ff. 251-52 (24-4-1730) Obligatie van 290 aan Aagje Pieters Alis, weduwe Cornelis Keijzer voor papier gekocht d.d. 12-4-1730.
+Bron: NA 1921, f. 529 (24-7-1731) Obligatie van 804 aan Aagje Pieters Alis, weduwe Cornelis Keijzer voor papier gekocht in 1728, 1729, 1730.
+Bron: NA 1737, ff. 143- (?) Procuratie om van dr. Johann Adolph Erythropes te Plui[...] in Holstein 135 te innen voor het drukken van zijn disputatie en geleverde boeken; tevens 285.17 voor een obligatie op naam van Jan Oblet.
+Bron: NA 1925, ff. 634 en 917 (20-8-1735) Quitantie en verkoop van huizen i.v.m. voogdijschap.
+Bron: NA 2009, nr. 89 [scan nr. 328] (24-1-1737) Coenraad Wishoff quitantie als bewijs van ontvangst van een bedrag van 60 van Johannes Vaillant uit Leiden uit naam van Frederik Jagiwitz voor het drukken van diens disputen. Wishoff belooft het bedrag aan Vaillant terug te geven wanneer Jagiwitz hem niet binnen drie maanden betaalt. George Jacob Wishoff stelt zich garant voor Vaillant. Getuige David Mortier.
+Bron: NA 2088, nr. 210 (13-11-1738) Procuratie aan notaris Albertus Kleijnenbergh om van Sophia van Bergen 144 te ontvangen.
+Bron: NA 1903, nr. 119 (11-11-1738) Acte n.a.v. zijn voogdij over Anna Edelen.
+Bron: NA 2028, nr. 177 [scan nr. 707] (7-9-1739) Schenkt de helft van zijn boekwinkel etc. aan zijn zoon George Jacob.
+Bron: NA 2028, nr. 178 [ scan 709] (7-9-1739) Oprichting van een compagnie met zijn zoon George Jacob voor een periode van 25 jaar. 9 Bepalingen.
+Bron: NA 2029, nr. 40 [scan nr. ] (1740) Procuratie aan zijn zoon George Jacob om van Prof. Sellius in der minne of door middel van recht betaling van 323.8 af te dwingen n.a.v. rekeningen over de jaren 1734 (34.14), 1735 en 1737 (288.14).
+Bron: NA 2031, nr. 105 [scan nr. 426] (4-5-1742) Johanna van der Kest, weduwe van Hendrik Mulhovius, verkoopt aan Coenraad en George Jacob Wishoff een derde deel in het recht van kopij op de 4 uitgave van Bernardus Sigried Albinus, Historia musculorum omnium, incl. de platen en 168 exemplaren ( 4) voor totaal 672. Getuige o.a. David Onnekink.
+Bron: NA 2033, nr. 82 [scan nr. 375] (7-5-1744) Obligatie met George Jacob aan Johanna van der Kest, weduwe Hendrik Mulhovius, van 650, voor een derde part van het recht van kopij in B.S. Albinus, Historiae musculorum omnium, alsmede platen daarbij behorende en nog 168 exemplaren. De totale koop bedroef 672, waarvan inmiddels 22 was betaald.
+Bron: NA 2091, nr. 494 (7-11-1747) Procuratie aan Cornelis van der Kop om hem te vertegenwoordigen in zijn zaak voor schepenen tegen Abraham Schouten die hem elf roebels of 26.10 schuldig is.
+Bron: NA 2291, nr. 243 (1756) Akte.
+Bron: NA 2291 (1756?) Verkoop huizen (o.a. Kloksteeg).
+Bron: Poorterboeken: getuige bij inschrijving Jan Andries Seuter (9-10-1713).
+Misc: lidmatenlijst Lutherse kerk in NA 1924, f. 39.
+Vader: Jurriaan Wishoff
+Misc: Zoon van Jurriaan Wishoff, die in 1702 wordt vermeld als wijnwerker (NA 1464, nr. 235; hij was poorter geworden op 27-2-1682).
+
+
+
+Voornaam: George
+Tweede naam: Jacob
+Achternaam: Wishoff
+Geboortedatum: 1714
+Sterfdatum:
+Geboorteplaats: Leiden
+Misc: doop 15-11
+Misc: later naar Amsterdam?
+Plaats van overlijden:
+Geslacht: M
+Start_werkperiode: 1739
+Eind_werkperiode: 1743
+Beroep: boekverkoper
+Misc: Sibilla Schlond, ook genaamd Tork, afkomstig uit Dortmund (woonde eerder te Amsterdam).
+Huwelijk
+Soort huwelijk: SH
+Datum huwelijk: 11-9-1735
+Huwelijkspartner: Sibilla Schlond
+Getuigen:
+Adres
+Locatie: Kloksteeg.
+Locatie_startdatum: 1735
+Personeel
+Datum Aanstelling: 1-10-1742
+Naam werknemer:  David Mortier, K (van diens vader)
+Functie werknemer: Knecht
+Personeel
+Datum Aanstelling: 4-2-1743
+Naam werknemer:   Jan van Noord, L voor 6 jaar (AB 83c, f. 9v).
+Functie werknemer: Leerling
+Gilde:
+Startdatum: 5-1-1739
+Functie in het gilde: Vrijmeester
+Einddatum:
+Gilde_InDienstVan:
+Gilde_Literatuur: AB 83a, f. 15v
+Religie: Luthers
+Bron: Nationaal Archief, Academische Vierschaar, 03.03.06, ? (Dingboek I), f. 42 (24-8-1734) Rekest van Elisabeth Emmeriks om een procureur pro deo tot het instellen van haar actie van defloratie en alimentatie tegen George Jacob Wishoff, student.
+Bron: NA 1925, ff. 678-80 (1735) Mutueel testament.
+Bron: NA 1925, ff. 682 en 684 (1735) Declaratoir en quitantie i.v.m. familiezaken van zijn vrouw.
+Bron: NA 1927, ff. 820- (5-12-1737) Procuratie van Sibrand Schlond aan de Amsterdamse notaris P. van Gulik om een huis in de Berestraat te verkopen, alsmede twee obligaties van samen 2000 (afkomstig uit de boedel van Jurriaen Torck en Elisabeth Hemelrijk, van wie Sibilla de erfgenaam was).
+Bron: NA 2028, nr. 177 [scan nr. 707] (7-9-1739) Coenraad Wishoff schenkt de helft van zijn boekwinkel etc. aan zijn zoon George Jacob.
+Bron: NA 2028, nr. 178 [ scan 709] (7-9-1739) Oprichting van een compagnie tussen Coenraad Wishoff en zijn zoon George Jacob voor een periode van 25 jaar. 9 Bepalingen.
+Bron: NA 2029, nr. 40 [scan nr. ] (1740) Coenraad Wishoff procuratie aan zijn zoon George Jacob om van Prof. Sellius in der minne of door middel van recht betaling van 323.8 af te dwingen n.a.v. rekeningen over de jaren 1734 (34.14), 1735 en 1737 (288.14).
+Bron: NA 1914, nr. 3 [scan nr. 20] (14-1-1749) Boedel Sara Maria van Musschenbroek ( 29-7-1748). Woonhuis Steenschuur bij de Kloksteeg; buurman Jurriaan Wishoff. Zij is voor een kwart eigenaar. Nog een kwart aandeel in een huis op de Langebrug. Huisraad: prenten, tekeningen, schilderijen, boetseersels, pleisterwerk leeuwtje e.d. Geen boeken. Scheiding nr. 15.
+Bron: NA 1939, f. 328 [scan nr. 272] (6-5-1749) George Jacob en Sibilla Schlont en Barent Schlont en Henrietta Wishoff procuratie aan de Amsterdamse notaris Pieter van Gulik.
+Bron: NA 1939, f. 332 [scan nr. 275] (6-5-1749) George Jacob en Sibilla Schlont en Barent Schlont en Henrietta Wishoff procuratie aan de Amsterdamse notaris Pieter van Gulik.
+Bron: NA 2289, nr. 147 (1752) Akte.
+Bron: NA 2316, nr. 87 (1754) Akte c.s.
+Bron: NA 2149A, nr. 88 [scan nr. 308] (3-9-1754) Procuratie van George Jacob Wishoff en zijn vrouw Sybilla Schlont om huizen in Amsterdam uit een. nalatenschap te verkopen.
+Bron: NA 2149B, nr. 82 [scan nr. 592) (175) Boedel Johanna van der Rent ( ?). Hypotheek op een aantal huizen; speeltuin in Leiderdorp. Boeken: (onder het zilver) nachtmaalsboekje met zilveren sloten.
+Bron: NA 1946, f. 159 [scan nr. 152] (24-3-1756) George Jacob Wishoff en Sybilla Schlont procuratie n.a.v. de erfenis van Jurriaan Tork.
+Bron: NA 2136, f. 1004 [scan nr. 912] (1784) Johannes Luchtmans namens de familie veiling van een huis op het Steenschuur tussen Kloksteeg en Faliede Bagijnhof (buurman Jurriaan Wishoff), strekkende tot achteraan mw. de weduwe Luchtmans, geboren Reijtsma. Voorwaarde is dat twee achterramen die uitzien op de tuin van de weduwe Luchtmans dichtgemetseld moeten worden als zij daarom vraagt. Verkocht voor 3004 door Barend Jacob Artoijs.Linnaeus Project: L2073  Georg Jacob Wishoff aan Carolus Linnaeus, Leiden, 13-7-1756
+Bron: LS, XVI, 261-262. Text: not yet available.
+Vader: Coenraad Wishoff.
+
+Voornaam: Jurriaan
+Achternaam: Wishoff
+Geboortedatum:
+Sterfdatum:
+Geboorteplaats:
+Plaats van overlijden:
+STCN: 13833983X
+Geslacht: M
+Start_werkperiode: 1731
+Eind_werkperiode: 1762
+Beroep: boekverkoper
+Misc: Jacoba van den Acker afkomstig uit Delft (getuige Barent Wishoff). Kinderen
+Huwelijk
+Soort huwelijk: KO
+Datum huwelijk: 1731
+Huwelijkspartner: Maria Boon
+Getuigen:
+Huwelijk
+Soort huwelijk: KO
+Datum huwelijk: 9-4-1733
+Huwelijkspartner: Jacoba van den Acker
+Getuigen: Barent Wishoff
+Adres
+Locatie: Rapenburg bij de Kloksteeg
+Locatie_startdatum: 1734
+Adres
+Locatie: Steenschuur.
+Locatie_startdatum: 1733
+Locatie_einddatum: 1748
+Personeel
+Datum Aanstelling: 3-12-1731
+Naam werknemer:  Nicolaes Moens, L
+Functie werknemer: Leerling
+Personeel
+Datum Aanstelling: 1-3-1734
+Naam werknemer:   Abraham van der Mij, L
+Functie werknemer: Leerling
+Personeel
+Datum Aanstelling: 7-8-1741
+Naam werknemer:   Dirk van Meenen, L
+Functie werknemer: Leerling
+Personeel
+Datum Aanstelling: 1-9-1743
+Naam werknemer:   Jan Hoftuijn, L
+Functie werknemer: Leerling
+Personeel
+Datum Aanstelling: 7-7-1762
+Naam werknemer:   Abraham Messemaker, L (AB 83b, f. 71; 83c, f. 28).
+Functie werknemer: Leerling
+Gilde:
+Startdatum:
+Functie in het gilde: Contribuant
+Einddatum:
+Gilde_InDienstVan:
+Gilde_Literatuur:
+Gilde:
+Startdatum: 2-7-1731
+Functie in het gilde: Vrijmeester
+Einddatum:
+Gilde_InDienstVan:
+Gilde_Literatuur: AB 83a, f. 3
+Bron: NA 1970 nr. 136 (1730) Akte.
+Bron: NA 1970, nrs. 175-76 (1731) Akten betreffende een nalatenschap.
+Bron: NA 1831, nr. 197 (4-3-1731) Huwelijkse voorwaarden met Maria Boon. Hij is nog minderjarig en wordt vergezeld van zijn ouders. Zij brengt een bijbel met zilveren sloten ter waarde van 6 in.
+Bron: NA 1832, nr. 54 (7-4-1732) Testament Jurriaen Wishoff met Maria Roon, wonende op het Rapenburg.
+Bron: NA 1834, nr. 6 (6-1-1734) Mutueel testament; Jacoba is hoogzwanger. Aangetekend dat het paar in het kohier v.d. 200ste penning beneden 4000 was aangeslagen.
+Bron: NA 2289, nr. 39 (1751) Akte.
+Bron: NA 2289, nr. 69 (1751) Akte.
+Bron: NA 2289, nr. 96bis (1752) Akte.
+Bron: NA 2149B, nr. 86 [scan nr. 620] (1757) Borderel,  behorende bij de rekening van de nalatenschap van Johannes van Kerkhem door Jurriaan Wishoff. Wishoff was samen met Cornelis van Kerkhem voogd over de dochter van Van Kerkhem, Jacomina Rosetta. Van Kerkhem was overleden in het Cecilia Gasthuis op 12-5-1756. Voorst worden genoemd als executeurs Gijsbert Waller, Jan Prins en Thomas Honselaar. Tot de nalatenschap behoren ook 990 exx. van de Rudamenta Latina. In de rekening worden onder de inkomsten per jaar aantallen boeken en bedragen genoemd, onder de uitgaven onkosten voor Jacomina, zoals in 1753 100 voor kostgeld, als t leeren wolle naaijen. In de zgn. Derde uitgaaf o.a. Item nog voor twee gebonde exempelaaren van de rudementa Latina aan Arij van Alphen affgeleevert, en welke doort breken van deselve Van Alphen niet zijn betaalt.
+Misc: Zoon van de schipper Barend Wishoff en Johanna Springvliet.
+Vader: Barend Wishoff
+Moeder: Johanna Springvliet.
+#
+
+
+Voornaam: Franciscus
+Tweede naam: [Frans] Lambrechtsz
+Achternaam: Wisman
+Naamsvariant: Frans Lambrechtsz Wisman
+Geboortedatum: 1756
+Sterfdatum:
+Geboorteplaats: leiden
+Misc: doop RK Kuipersteeg 29-10]
+Plaats van overlijden:
+Geslacht: M
+Start_werkperiode: 1777
+Eind_werkperiode: 1796
+Beroep: boekverkoper
+Kinderen: doop RK De Zon 3-4-1783 Nicolaus Lambertus; 6-6-1784 Guilelmus Albertus; 2. SH 5-11-1790 Johanna Bronsgeest uit Oegstgeest. Kinderen: doop RK Appelmarktstatie 27-9-1791 Johanna; 25-4-1793 Cornelius Joannes; 5-2-1795 Catharina Maria; 2-7-1796 Sophia Maria; 30-11-1797 Catharina Maria; 20-4-1799 Joanna Sophia
+Misc: 1. RK 16-5-1782/SH 30-5-1782 Jacoba van Kampen uit Gouda (getuige zijn moeder; als beroep wordt opgegeven tabaksverkoper) (Jacoba van Kampen 1790).
+Huwelijk
+Soort huwelijk: RK
+Datum huwelijk: 16-5-1782
+Huwelijkspartner: Jacoba van Kampen
+Getuigen: Zijn moeder
+Adres
+Locatie: Mare.
+Locatie_startdatum:
+Gilde:
+Startdatum:
+Functie in het gilde: Contribuant
+Einddatum:
+Gilde_InDienstVan:
+Gilde_Literatuur: AB 83c, ff. 77, 102
+Religie: Katholiek of Oud-Katholiek
+Bron: NA 2134, nr. 626 (1782) Obligatie.
+Bron: NA 2225, nr. 6 (1788) Akte.
+Bron: NA 2143, f. 1248 (1790) Akte van bewijs.
+Bron: NA 2234, nr. 10 (1793) Testament.
+Bron: NA 2651, nr. 27 (1794) Procuratie.
+Bron: NA 2651, nr. 161 (1794) Akte van approbatie en decharge.
+Bron: NA 2617, nr. 134 (1796) Akte van cautie.
+Bron: Katholiek.
+Vader:  Lambertus Wisman.
+
+
+Voornaam: Lambertus
+Achternaam: Wisman
+Geboortedatum:
+Sterfdatum:
+Geboorteplaats: Ossenbrugge
+Plaats van overlijden:
+Geslacht: M
+Start_werkperiode: 1766
+Eind_werkperiode: 1778
+Beroep: boekverkoper
+Kinderen: Dopen RK Bakkersteeg 3-6-1749 Joannes; RK Kuipersteeg 1-12-1750 Wilhelmus; RK Kuipersteeg 25-12-1751 Catharina Maria; RK Kuipersteeg 8-3-1754 Joanna; RK Kuipersteeg 29-10-1756 Franciscus; RK Kuipersteeg 11-6-1758 Alida
+Huwelijk
+Soort huwelijk: SH
+Datum huwelijk: 22-4-1746
+Huwelijkspartner:  Maria Arents van Hees
+Getuigen: Matthijs Beek; als zijn beroep wordt opgegeven tabakssnijder
+Huwelijk
+Soort huwelijk: SH
+Datum huwelijk: 12-1-1748
+Huwelijkspartner:  Johanna Buykman
+Getuigen: zijn bekende Willem Buykman; 1792
+Adres
+Locatie: Jan Vossensteeg
+Locatie_startdatum: 1746
+Adres
+Locatie: Mare.
+Locatie_startdatum: 1748
+Gilde:
+Startdatum:
+Functie in het gilde: Contribuant
+Einddatum:
+Gilde_InDienstVan:
+Gilde_Literatuur: AB 83c, f. 96
+Bron: NA 2175, nr. 119 (1745) Testament.
+Bron: NA 1913, nr. 86 (10-11-1748) Testament met Johanna Buijkman.
+Bron: NA 2547, nr. 345 (1778) Cautie c.s.
+Bron: NA 2590, nr. 26 (1779) Akte.
+Bron: NA 2225, nr. 92 (1788) Akte.
+
+
+Voornaam: Gijsbrecht
+Tweede naam: de
+Achternaam: Wit
+Naamsvariant: Gijsbrecht de With
+Naamsvariant: Gijsbrecht de Witte
+Geboortedatum:
+Sterfdatum: 1655
+Geboorteplaats: Leiden
+Misc: doop PK 29-3; begr. 16-1-1655 HK
+Misc: Zijn weduwe werkzaam tussen 1655-1658
+Plaats van overlijden:
+Geslacht: M
+Start_werkperiode: 1640
+Eind_werkperiode: 1655
+Beroep: boekverkoper
+Kinderen: begr. 31-5-1647 HK kind; dopen HK 6-10-1647 Sophia; HK 25-10-1648 Hester; PK 16-9-1650 Sophia
+Misc: Cunera (Kniertje) Aerts hertrouwt KO 31-10-1658 (huwelijk 13-11-1658 te Voorburg) Jacob Burchoorn.
+Huwelijk
+Soort huwelijk: KO
+Datum huwelijk: 11-5-1645
+Huwelijkspartner:  Cunera Aerts
+Getuigen: getuige zijn oom Jacob Angillis
+Adres
+Locatie: Hogewoerd
+Locatie_startdatum: 1645
+Adres
+Locatie:  Breestraat, In t groot schrijfboeck
+Locatie_startdatum: 1646
+Locatie_einddatum: 1647
+Adres
+Locatie:  Breestraat over t stadt-huys.
+Locatie_startdatum: 1650
+Locatie_einddatum: 1655
+Personeel
+Datum Aanstelling: 1653
+Naam werknemer: Cornelis Bilderbeecq, voor 4 jaar (accoord 1-7-)
+Personeel
+Datum Aanstelling: 1655
+Naam werknemer: Aert Bastiaensz, voor 4 jaar
+Functie werknemer: Leerling
+Bron: NA 730, nr. 107 (19-4-1649) Verklaring met zijn moeder.
+Bron: NA 734, nr. 202 (1-7-1653) Contract met Willem Cornelisz Bilderbeecq over de leertijd van diens kleinzoon Cornelis Cornelisz Bilderbeecq van 4 jaar om te leren boekverkopen en boekbinden. Cornelis krijgt kost en inwoning. Zijn grootvader betaalt hiervoor de eerste 2 jaar 150, het 3e jaar 125 en het 4e jaar 100.
+Bron: NA 408, nr. 225 (2-10-1654) Obligatie aan Frans Hacke en David Lopez de Haro als executeurs van het testament en voogden van de kinderen van Frans Bastijn van 178.10.8 n.a.v. de koop van div. ongebonden boeken en gedrukte papieren. Borg Daniel Burchoorn. Obligatie voldaan op 25-2-1657.
+Bron: NA 408, nr. 224 (2-10-1654) Borg bij obligatie Daniel Burchoorn aan Frans Hacke en David Lopez de Haro als executeurs van het testament en voogden van de kinderen van Frans Bastijn.
+Bron: NA 735, nr. 352 (13-12-1654) Mutueel testament met Cunera Aerts, beiden ziek te bed. Kinderen krijgen een uitkering van 300. Voogden Abraham Oosters en Gillis Jansz van Nieuwenhuijsen.
+Bron: NA 736A, nr. 98 (8-4-1655) Contract tussen Cunera Aerts, weduwe Gijsbrecht de Wit en Hillegont Aerts, weduwe Bastiaan Lucasz te Rotterdam als moeder en voogdes over haar zoon Aert Bastiaensz; Aert zal voor 4 jaar komen werken als dienaar volgens behoorlijke uren. Loon: I 16 st.; II 30 st.; III 40 st.; IV 60 st.
+Literature: Salman 1999, Bibliografie.
+Bron: Het bedrijf werd voortgezet na de dood van De With door zijn weduwe en na haar hertrouwen met Jacob Burchoorn door hem.
+Vader:  Pieter Michielsz de Wit
+Moeder: Lijntje van Nas.
+
+Voornaam: Pieter
+Tweede naam: Michielsz de
+Achternaam: Wit
+Naamsvariant: Pieter Michielsz de Witte
+Geboortedatum: 1649
+Sterfdatum: 1649
+Geboorteplaats: Leiden
+Plaats van overlijden:
+Geslacht: M
+Start_werkperiode: 1615
+Eind_werkperiode: 1639
+Beroep: boekverkoper
+Beroep: boekbinder
+Kinderen: dopen PK 21-5-1621 Cornelis; PK 29-3-1623 Ghijsbrecht; PK 15-10-1625 Michiel; PK 11-11-1626 Lijntje; HGK 23-11-1627 Cornelis; HK 22-5-1629 Lijntje; HK 1-9-1630 Pieter
+Misc: Catalijne (Lyntje) Ghysbrechts van Nas afkomstig uit Dordrecht (niet gecompareerd, attestatie; getuige zijn oom Adriaen Behaghel).
+Huwelijk
+Soort huwelijk: KO
+Datum huwelijk: 19-1-1617
+Huwelijkspartner:  Catalijne Ghysbrechts van Nas
+Getuigen:
+Bron: NA 126A, nr. 1 (1-10-1615) en NA 127, nr. 43 (14-3-1616) Getuige bij mutueel testament Jan Jacobsz Paedts en zijn vrouw.
+Bron: NA 127, nr. 83 (1616) Getuige bij testament.
+Bron: NA 247, nrs. 42 en 105 (1626) Akte betreffende de nalatenschap van een familielied van zijn vrouw. Met verklaring van Daniel van Nas.
+Bron: NA 195, nr. 33 (1635) Mutueel testament.
+Bron: NA 267, nr. 15 (29-7-1637) Obligatie met zijn zuster (of vrouw?) Cathelijntje de Witte van 75 aan Constantinus Magnus.
+Bron: NA 393, nr. 33 (1639) Getuige bij boedelinventaris.
+Bron: NA 730, nr. 107 (19-4-1649) Verklaring Catalijntje Gijsberts en haar zoon Gijsbrecht (haar achternaam lijkt te zijn Vermasche).
+Weeshuis:  Gr. Bew. H 294v.
+Bron: Zie ook Pierre le Blanc.
+Misc: #Broer van Gijsbrecht de Wit.
+Misc: In dienst bij Jan Jacobsz Paedts?
+Misc: Zie ook Pierre le Blanc.
+
+
+Voornaam: Johannes Cornelisz
+Tweede naam: Cornelisz
+Achternaam: van der Woerdanus
+Naamsvariant: Johannes Cornelisz Woerden
+Naamsvariant: Johannes Cornelisz Van der Woerdt
+Geboortedatum: 1591
+Sterfdatum:
+Geboorteplaats: woerden
+Plaats van overlijden:
+Geslacht: M
+Start_werkperiode: 1622
+Eind_werkperiode: 1630
+Beroep: boekdrukker
+Misc: Huwelijk na 1620 Geertrui Simons van Schagen (weduwe van zijn in 1620 bij een brand omgekomen broer Uldrick Cornelisz van Honthorst KO 26-4-1608);
+Misc: Tweede huwelijk: SH 4-1-1641 Aaltje Gerrits van Bemmel (huwelijk te Woerden).
+Huwelijk
+Soort huwelijk:
+Datum huwelijk: 1620
+Huwelijkspartner: Geertrui Simons van Schagen
+Getuigen:
+Huwelijk
+Soort huwelijk: SH
+Datum huwelijk: 4-1-1641
+Huwelijkspartner:  Aaltje Gerrits van Bemmel
+Getuigen:
+Adres
+Locatie: Zegersteeg.
+Locatie_startdatum: 1622
+Bron: NA 37, nr. 136 (22-8-1609) Testament.
+Bron: NA 185A, nr. 235 (7-6-1625) Obligatie van 200 met Jan Simonsz van Schagen aan vroedschap Andries Cloeck i.v.m. lening.
+Bron: NA 351, nr. 13 (21-5-1627) Verkoopt zijn drukkerij aan notaris Willem van Dobben, die handelt uit naam van de moeder van Adriaan Vranken van Dobben (?). Het betreft:
+Bron: NA 360, nr. 4 (16-2-1628) Contract tussen Jan Maire en Johannes Woerdanus, dat de laatste aan Maire zal transporteren 84.16, hem competerende voor het drukken van Defensie Keckermani tegens Jacobum Martinum door de Hongaarse student Mattheus Czanakius. Vgl. Matthaeus Mant. Czanakius, Controversiae partim logicae &amp; philosiphicae, partim etiam theologicae (Leiden: dr. J.C. Wourdanus voor de auteur, 1625), 8. BTL Thysia 416. Maire krijgt hiertoe de beschikking over een koffer en twee kisten met boeken die Czanakius bij Woerdanus heeft achtergelaten.
+Bron: Op huijden den xvien februarij a xvic achtenttwintich compareerden voor mij Pieter Joosten Warmont notaris publyc by den Hove van Hollant op de nominatie der stadt Leijden geadmitteert, ende den naergenoemden getuijgen, Johannes Woerdanus boucdrucker ter eenre, ende Sr Jan Lamair bouckvercoper ter andere sijde. Ende bekenden dvoorn[oemde] comparanten (beyde woonende binnen der voors[eide] stadt Leijden ende mij notario wel bekent) mit malcanderen geaccordeert ende overeengecomen te sijn, dat de voorn[oemde] Johannes Woerdanus aende voors[eide] Lamair sal transporteren cederen ende overgeven, gelijc hij transporteert cedeert ende overgeeft mitsdezen sodanigen somme van vierentachtich guldens ende sestien stuvers [passage doorgestreept], hem competerende van Matthaeo Czanakio, uijt den konincrijcke van Hongarie ende alhier te Leyden gestudeert hebbende, ter saecke van het drucken van des voorn[oemde] Czanakij defensie Keckermanni tegens Jacobum Martinum. Ende hier toe dactie die hij uijt saecke voors[eid] heeft op de boecken ende anders van den selven Czanakio bevonden in een koffer ende twee kisten ten huijse van hem Johannes Woeranus, ende gespecificeert in zeeckere inventaris bij hun comparanten op huijden onderget[ekent?], daer op den voorn[oemde] Lamair dselve boecken ende anders bekende [passage doorgestreept] onder hem genomen te hebben, omme met alle tgene voors[eid] is te winnen ende verliesen in alle schijn of het de voorn[oemde] Woerdanus selver ware. Des so is bedongen dat den voorn[oemde] Lamair op dselve boucken ende anders, so voor dvers[eide] penningen, als tgeene hem in sijn priv naem van den voorn[noemde] Matthaeo Czanakio soude mogen competeren, binnen den tijt van twee jaren geen recht en sal mogen maecken veel min dselve vercoopen of hem afhandich maecken, maer die onder hem bewaren omme te zien of dvoorn[oemde] Czanakio dselve middeler tijt nijet en sal comen lossen [invoeging in linker marge: ende of hij middelertijt quame sal de vers[eide] Lamair van dvers[eide] Czanako van de vers[eide] somme sal eijsschen interest tegens den p[...] zestien van huijden deses af tot deffectuele betalinge toe] [invoeging in linker marge: des so sal dvers[eide] Woeranus dinteresten vande vers[eide] hooftsomme tegens de [p...] 16 tot twee jaren toe indien dvers[eide] Lamair dselve so lange hout ende van de boucken ende anders nyet en kon of [...] goetdoen.] Voorts so beloofde dvoorn[oemde] Johannes Woerdanus tallen tijden ende tot ver[...]ninge van dvoorn[oemde] Lamair of sijne naercomers de deuchdelichh[eijt] van dvoorn[oemde] actie te verifieren ende hem tassisteren daer ende sulcx, dat behoort tot naercominge van alle tgenne voors[eid] es. dvoorn[oemde] comparanten verbinden haere respective personen ende goederen present &amp; toecomende ten bedwangen ende executie van allen [...]heenen rechten ende rechtens, mit verhael vande costen daer[over?] [...]. Eijntelick so bekende dvoorn[oemde] Johannes Woerdanus hem van dvoors[eide] transporte cessie ende overgift al wel ende ten vollen vernoucht voldaen ende betaelt te sijn ende dat met de somme van vierentachtig guldens ende sestien stuvers in gereet gelde, consenterende beyde dvoorn[oemde] comparanten hier van bij mij notario gemaect ende geexpedieert te werden een of meer acten. Aldus gedaen binnen der stadt Leijden ten comtoire mij notarij staende aldaer aende noortzijde van Steenschuijr in presentie van Mathijs Willemsz van Tol kouckebacker ende Heijnderick Cranen beyden burgers der vers[eide] stede als geloofwaerdige getuijgen hier toe beneffens mij notario gereq[uireer]t.
+Misc: Werkte ca. 1630 voor Van der Boxe.
+
+Voornaam: Hendrick
+Tweede naam: Cornelisz van
+Achternaam: Woerden
+Geboortedatum:
+Sterfdatum:
+Geboorteplaats:
+Plaats van overlijden:
+Geslacht: M
+Start_werkperiode: 1622
+Eind_werkperiode:
+Beroep: drukker
+Bron: NA 102, nr. 52 (13-4-1622) Mutueel testament? Getuige letterzetter Pieter Vincentsz van Heemskerck (knecht?).
+Bron: Zoon van Cornelis Pietersz te Woerden.
+Vader: Cornelis Pietersz te Woerden.
+
+
+Voornaam: Hugo
+Tweede naam: Jansz van
+Achternaam: Woerden
+Geboortedatum: 1517
+Sterfdatum:
+Geboorteplaats:
+Misc: Werkzaam Leiden 1494-1506; Haarlem 1506; 1506-10 Amsterdam; 1515-16 Delft; 1517-43 Den Haag
+Plaats van overlijden:
+Geslacht: M
+Start_werkperiode: 1494
+Eind_werkperiode: 1543
+Beroep: boekverkoper
+Beroep: boekdrukker
+Beroep: boekbinder
+Adres
+Locatie: Vismarkt
+Locatie_startdatum: 1498
+Adres
+Locatie:  Pieterskerkchoorsteeg, hoek Vollersgracht [= Langebrug]
+Locatie_startdatum: 1500
+Locatie_einddatum: 1511
+Adres
+Locatie: Steenschuur
+Locatie_startdatum:
+Literature: Vijfhonderdste verjaring; J.D. Bangs, Huych Jansz van Woerdens Leiden years, Quaerendo, 7 (1977), 316-325; Pan 1996.
+
+
+
+
+Voornaam: Dirck
+Tweede naam:
+Achternaam: Wolders
+Naamsvariant: Dirck Theodorus Woolders
+Geboortedatum: 1591
+Sterfdatum:
+Geboorteplaats: hamburg
+Plaats van overlijden:
+Geslacht: M
+Start_werkperiode: 1627
+Eind_werkperiode:
+Beroep: boekdrukker
+Beroep: boekdrukkersknecht
+Beroep: boekdrukker
+Literature: Henselmans p. 5.
+Bron: UBL, Senaatsarchief, Volumen Inscriptionum, f. 232 (12-2-1627) Inschrijving als student, 44 jaar oud, wonend in de Varkenssteeg, met zeven anderen: Willem Christiaensz van der Boxe, William Wilkinson, Henry Randulph, Pieter Vincentsz van Heemskerck, Johannes de Vechter, Pieter Schut, en Angel Jacobsz jr. (Servi typographi nostri Academici sequenter acto ex gratie et liberalitate D.D. Consulum urbis nostris Leidensis gratis inscripti sunt). Vgl. AS 12-2-1627; hij wordt hier vermeld als Theodorus Wolders Hamburgensis. 36.
+Bron: Getuigenisboek S, f. 73 (drukker).
+Bron: UBL, Senaatsarchief, Volumen Inscriptionum, f. 232 (12-2-1627) Inschrijving als student, 44 jaar oud, wonend in de Varkenssteeg, met zeven anderen: Willem Christiaensz van der Boxe, William Wilkinson, Henry Randulph, Pieter Vincentsz van Heemskerck, Johannes de Vechter, Pieter Schut, en Angel Jacobsz jr. (Servi typographi nostri Academici sequenter acto ex gratie et liberalitate D.D. Consulum urbis nostris Leidensis gratis inscripti sunt). Vgl. AS 12-2-1627; hij wordt hier vermeld als Theodorus Wolders Hamburgensis. 36.
+
+
+Voornaam: Sebastianus
+Achternaam: Wolzius
+Geboortedatum:
+Sterfdatum:
+Geboorteplaats:
+Plaats van overlijden:
+STCN: 15644447X
+Geslacht: M
+Start_werkperiode: 1617
+Eind_werkperiode:
+Beroep: boekverkoper
+Literature: Thesaurus.
+Misc: Pseudoniem?.
+
+
+Voornaam: Robert
+Achternaam: Wood
+Geboortedatum: 1615
+Sterfdatum:
+Geboorteplaats:
+Plaats van overlijden:
+STCN: 075569469
+Geslacht: M
+Start_werkperiode: 1640
+Eind_werkperiode:
+Beroep: boekdrukker
+Literature: Sprunger, ch. 5.
+Bron: RA 79, dl. V, ff. 238r-v (16-3-1641) Verklaring (oud 26 jaar) met Jan de Vechter en Thomas Thymen uit Amsterdam t.b.v. Thomas Stafford, koopman te Amsterdam, dat zij een jaar tevoren bij v.d. Boxe een Engelse 2 bijbel hebben gedrukt, niet naar de kopie van de Schotse bijbel die te Delft werd gedrukt. Ook Thomas Crawford genoemd. De bijbel werd gedrukt op kosten van Stafford.
+Misc: Werkte voor Van der Boxe.
+Bron: Getuigenisboek V, f. 238 (drukker, 26 jaar).
+
+
+Voornaam: Hans
+Achternaam: Woutersz
+Naamsvariant: Jan Woutersz
+Geboortedatum:
+Sterfdatum: 15-3-1621
+Geboorteplaats: Antwerpen
+Plaats van overlijden: Leiden
+Geslacht: M
+Start_werkperiode: 1594
+Eind_werkperiode: 1615
+Beroep: lettergieter
+Beroep: letterzetter
+Huwelijk:
+Huwelijkspartner: Lijntje Schuermans
+Misc: Echtgenote afkomsig uit Antwerpen.
+Adres
+Locatie: t Rommelhuys
+Locatie_startdatum: 1621
+Bron: NA 57 (15-5-1593) Testament met Lijntje Schuermans. Hij is lettergieter. Getuigen Dirck van der Bochorst en Thomas de Vechter*.
+Bron: NA 58, f. 189v (5-8-1594) en NA 154, nr. 49 (12-11-1615) Getuige bij akten van Thomas de Vechter*.
+Literature: Briels 552.
+Misc: Overleden 15-3-1621 in t Rommelhuys (Gasthuizen 55, f. 91).
+Misc: In dienst van Thomas I en II de Vechter.

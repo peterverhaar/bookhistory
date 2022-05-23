@@ -1,0 +1,1047 @@
+﻿
+Voornaam: Richard
+Achternaam: Eyr
+Naamsvariant: Richard Ayr
+Geboortedatum: 1596
+Sterfdatum: 
+Geboorteplaats: 
+Plaats van overlijden: 
+Geslacht: M
+Start_werkperiode: 1632
+Eind_werkperiode: 1634
+Beroep: boekdrukker
+Beroep: letterzetter
+Naam huwelijkspartner: Lidia Eyr
+Adres
+Locatie: Rapenburg bij het tuchthuis.
+Locatie_startdatum: 1633
+Bron: NA 258, nr. 31 (20-2-1633) Verklaring t.v.v. William Chadborn, woonachtig in Den Bosch.
+Bron: NA 494, nr.  (19-4-1632) Verklaring van zijn vrouw aangaande gedurende de winter opgelopen waterschade aan haar huis. Van der Boxe getuige.
+Bron: NA 192, nr. 285 (17-11-1632) Verklaring met Esaias du Val en Jan de Vechter t.b.v. Willem Christiaensz van der Boxe bij wie hij werkt; hij was toen 37 jaar (zie aldaar).
+Bron: NA 320, nr. 1 (2-1-1634) Verklaring. Hij was toen 38 jaar.
+Bron: unknown
+Misc: In dienst van Willem Christiaensz van der Boxe.
+Werkgever: Willem Christiaensz van der Boxe
+
+
+Voornaam: Aernout
+Achternaam: Elsevier
+Geboortedatum: 
+Sterfdatum: 
+Geboorteplaats: 
+Aernout Elzevier
+Plaats van overlijden: 
+Geslacht: M
+Beroep: Schilder
+Beroep: Herbergenier
+Start_werkperiode: 
+Eind_werkperiode: 
+Bron: NA 100, nr. 72 (15-4-1620) Vermeld in akte als schilder.
+Bron: NA 284, nr. 120 (17-2-1625) Mutueel testament met Marijtje Simons van Zwieten.
+Bron: NA 151, nr. 73 (24-10-1626) Huwelijkse voorwaarden met Christina Everaerts, weduwe Dirck van Boetzelaer, boekhouder van Prins Maurits. Dezelfde?
+Bron: NA 329, nr. 127 (16-12-1626) Boedel met veel schilderijen. Zie ook 1628.
+Bron: NA 329, nr. 4 (2-2-1627) Verklaring van zijn hand n.a.v. de boedelinventaris van 1626, gevolgd door een verklaring van notaris Vergeyl.
+Bron: NA 330, nr. 74 (1627) Nadere staat van zijn in- en uitschulden. Zie ook elders in dit protocol.
+Bron: NA 341, nr. 75 (29-7-1627) Procuratie.
+Bron: NA 341, nr. 83 (5-9-1627) Borgstellling.
+Bron: NA 331, nrs. 25, 33, 34 (1628) Akten aangaande Christina Everaerts.
+Bron: NA 331, nr. 75 (1628).
+Bron: NA 331, nr. 104 (8/9-12-1628) Boedel van Aernout en zijn overleden vrouw Maria Sijmons van Swieten (aanwezig Bonaventura Elsevier en Symon van Swieten). Vgl. testament bij dezelfde notaris Laurens Vergeyl op 7-3-1626. Goederen: Enkele huizen waaronder het huis genaamd de gouden gekroonde regenboog op de Breestraat OZ 7000; huis in de Houtstraat naast Jacob Marcus 1600; speeltuin aan het zgn. Geldelose pad; 500 aan Franse en Spaanse wijnen; 101.9 aan kwade schulden; schilderijen getaxeerd door Cornelis Lieffrinck en Johan van Goyen; hieronder tal van schilderijen van Aernout zelf, bijv. in het voorhuis drie grote landschappen 84; ook werk van Pieter van Veen, Jacob Pinas, Daniel Verdoes, Wttenbrouck, Tingnagel, Paulus van Someren, en portretten van Arnout en zijn vrouw, totaal 610.10; inboedel, kleren, linnen, tin-, ijzer- en koperwerk; de lasten belopen 8496.16.
+Bron: NA 332A, nr. 40 [scan nr. 68 e.v.] (1629) boedel in zijn herberg In de vergulde gecroonde regenboog te Rotterdam. Uitgebreid register van uitstaande schulden, waaronder studenten. Dit betreft waarschijnlijk zijn Leidse tijd.
+Bron: NA 424, nr. 27 (16-12-1629) Procuratie Gillis Elzevier, wonende te Koudekerk. Ook zijn broer Arnout genoemd.
+Bron: NA 424, nr. 26 (16-12-1629) Curator over zijn goederen. Hij is herbergier te Rotterdam.
+Bron: NA 362, nr. 141 (?-5-1634) Genoemd in akte.
+Adres
+Locatie: Huis Houtstraat NZ (Over t Hof, f. 466v).
+Misc: Schilder en herbergier te Leiden (1625, 1627, 1628 herberg De Gecroonde Vergulde Regenboog in de Breestraat).
+
+Voornaam: Elisabeth
+Achternaam: Elsevier
+Geboortedatum: 1655
+Sterfdatum: 
+Geboorteplaats: leiden
+Misc: Elisabeth Elsevier I + II ? 
+Plaats van overlijden: 
+Begraafplaats: begr. PKB 16-8 vanuit Faliede Bagijnhof
+Geslacht: M
+Start_werkperiode: 
+Eind_werkperiode: 
+Bron: NA 90b, nr. 5 (17-1-1609) Akte n.a.v. voogdij over haar weeskinderen.
+Bron: NA 131, nr. 144 (17-5-1618) Volmacht van Elisabeth Elzevier, weduwe Lambrecht Claesz van Rhijn, aan Bonaventura Elzevier omtrent een huis door Van Rhijn te Groningen.
+Bron: NA 212, nr. 115 (1626) Akte.
+Bron: NA 110a, nr. 85 (21-10-1634) Testament; echtgenote van Abraham de Visscher.
+Bron: unknown
+Huwelijk
+Huwelijkspartner: Lambrecht Claesz. van Tethrode
+Huwelijk
+Datum huwelijk: 1624
+Huwelijkspartner: Josias Lucas van Vuyren
+
+
+Voornaam: Gillis 
+Achternaam: Elsevier
+Geboortedatum: 
+Sterfdatum: 1651
+Geboorteplaats: Leiden 
+Plaats van overlijden: 
+Begraafplaats: begr. PK 1-7
+Geslacht: M
+Start_werkperiode: 
+Eind_werkperiode: 
+Beroep: koopman
+Huwelijk 
+Huwelijkspartner: Anna Harthals
+Huwelijk 
+Huwelijkspartner: Franchina Hendriks.
+Adres
+Locatie: Rapenburg.
+Locatie_startdatum: 1649
+Bron: NA 83, nr. 158 (1-9-1601) Uit de hand gelopen feestvreugde n.a.v. de inname van Bergh.
+Bron: NA 38, nr. 127 (5-9-1610) Mutueel testament met Franchina Hendriks. Zijn handtekening onder de akte is uitgeknipt; Bredius heeft een briefje ingelegd met de volgende inhoud: NB. Z gevonden 1886. Bredius. Waarschijnlijk of liever zeker door den Archivaris Rammelman Elsevier te Leyden geschonden.
+Bron: NA 38, nr. 128 (6-9-1610) Aanvulling mutueel testament Hij is eerder getrouwd geweest met Anna Harthals.
+Bron: NA 78, nr. 89 (2-9-1611) Genoemd als vader en voogd.
+Bron: NA 131, nr. 79 (20-3-1618) Voogd over zijn dochter Elisabeth.
+Bron: NA 133, nr. 62 (12-3-1619) Besloten testament met Franchina Hendriks.
+Bron: NA 134, nr. 177 (14-11-1619) Verklaring van Gerardus Vossius 2500 ontvangen te hebben vanwege Maria du Jon, weduwe Isaac Diamant.
+Bron: NA 137, nr. 78 (8-4-1621) Voogd over zijn dochter Elisabeth, verkregen bij zijn overleden vrouw Anna Harthals.
+Bron: NA 140, nr. 118 (5-9-1622) Testament executeurs/voogden Matthijs en Bonaventura Elzevier en zijn behuwd neef Michiel Matthijsz Chimaer.
+Bron: NA 141, nr. 30 (24-1-1623) Procuratie t.b.v. enkele kooplieden uit Frankfort aan zijn schoonzoon Pieter van Viven.
+Bron: NA 294, nr. 205 (12-11-1625) Verklaring t.b.v. student Johannes Stangelus, die als commensaal bij hem inwoont.
+Bron: NA 351, nr. 101 (27-11-1627) Verklaring t.b.v. Gillis.
+Bron: NA 424, nr. 27 (16-12-1629) Procuratie Gillis Elzevier, wonende te Koudekerk. Ook zijn broer Arnout genoemd.
+Bron: NA 254, nr. 80 (1631) Gillis Elzevier, koopman te Koudekerk over (ver)koop van een tuin.
+Bron: NA 431, nr. 259 (1638) Gillis Elzevier.
+Bron: NA 570, nr. 21 (8-5-1640) Procuratie Gillis Elsevier aan Benjamin Halewijn.
+Bron: NA 570, nr. 60 (2-7-1640) Procuratie Isaac Elsevier, kapitein ter oorloge, wonende te Rotterdam aan zijn oom Gillis Elsevier n.a.v. het testament van wijlen Catalyntje Elsevier, huisvrouw van de apotheker Pieter Karron.
+Bron: NA 433, nr. 137 (6-8-1640) Procuratie Gillis Elzevier.
+Bron: NA 434, nr. 14 (18-1-1641) Voogdij Gilis en Bonaventura en Abraham Elzevier over Barbara Caron, dochter van Catharina Elzevier en de apotheker Jacob Caron. Zie ook nr. 79 (9-5-1641).
+Bron: NA 436, nr. 174 (19-9-1643) Akte Gillis Elzevier.
+Bron: NA 726, nr. 116 (8-4-1645) Verhuurt noorderhelft van zijn huis op het Rapenburg aan Jeremias de Laet voor 450 p.jr.
+Bron: NA 442, nr. 44 (31-3-1649) Procuratie aan Bonaventura Elzevier i.v.m. overboeking van obligaties van de West-Indische Compagnie bij het kantoor te Leiden t.b.v. zijn schoonzoon, de wijnkoper Joris van Spreeuwen.
+Bron: NA 442, nr. 45 (31-3-1649) Procuratie aan zijn neef Louis Elzevier i.v.m. overboeking van obligaties van de West-Indische Compagnie bij het kantoor te Amsterdam t.b.v. zijn schoonzoon, de wijnkoper Joris van Spreeuwen.
+Bron: NA 442, nr. 46 (31-3-1649) Verklaring van de wijnkoper Joris van Spreeuwen, gehuwd met Maria Elzevier n.a.v. het transport van twee obligaties in de West-Indische Compagnie t.w.v. 950 en 5700.
+Bron: NA 731, nr. 234 (3-9-1650) Annulering van een procuratie.
+Bron: NA 732, nr. 220 (1-7-1651) Akte Joris van Spreeuwen, wijnkoper en zijn vrouw Maria Elzevier en Abraham de Visscher en zijn vrouw Elisabeth Elzevier n.a.v. zijn nalatenschap.
+Bron: NA 544, nr. 138 (13-7-1651) Akte Maria Elsevier, gehuwd met Joris van Spreeuwen, n.a.v. zijn nalatenschap.
+Bron: NA 732, nr. 254 (16-8-1651) Verklaring Maria Elsevier, gehuwd met Joris van Spreeuwen en Elisabeth Elsevier, gehuwd met Abraham de Visscher, beiden dochters van Gillis Elsevier n.a.v. hun legitieme porties. Getuigen Lucas en Louis (?) van Vuyren.
+Bron: NA 732, nr. 274 (6-9-1651) Verklaring Bonaventura Elsevier n.a.v. zijn executeurschap over de nalatenschap van broer Gillis. Getuigen o.a. ds. Mathias Chimaer, predikant te Zoeterwoude.
+Bron: NA 734, nr. 119 (29-4-1653) Executeurs nalatenschap.
+Bron: NA 546, nr. 196 (12-10-1653) Akte van zijn dochters Elisabeth en Maria als zijn erven.
+Bron: AS 25-10-1640 Isaacus Elzevierius. 14.
+
+Voornaam: Pieter
+Tweede naam: Abrahamsz
+Achternaam: Elzevier
+Geboortedatum: 
+Sterfdatum: 
+Geboorteplaats: 
+Plaats van overlijden: 
+Geslacht: M
+Start_werkperiode: 
+Eind_werkperiode: 
+Beroep: verkoper
+Bron: Getuigenisboeken: S, f. 202 (verkoper).
+
+
+
+Voornaam: Abraham
+Tweede naam: I 
+Achternaam: Elsevier
+Geboortedatum: 4-4-1592
+Sterfdatum: 14-8-1652
+Geboorteplaats: Leiden -8-
+Plaats van overlijden: 
+Begraafplaats: begr. PK 17-8-1652
+Geslacht: M
+Start_werkperiode: 1620
+Eind_werkperiode: 1653
+Beroep: boekverkoper
+Beroep: drukker
+Kinderen: 
+Doop kind: 4-3-1622 
+Soort doop: PK 
+Naam kind: Johannes 
+Getuigen: Mathijs Elsevier, Catharina Waesberge
+Kinderen: 
+Doop kind: 13-6-1625 
+Naam kind: Abraham 
+GetuigenL Abram Mietens, Anneken Waesbergen, Maria Elsevier
+Kinderen
+Doop kind: 31-3-1627 
+Soort doop: PK 
+Naam kind: Isaac
+Getuigen: Simon van Swieten, David van Hoogenhuijsen, Lijsbeth Jans
+Kinderen
+Doop kind: 7-1-1632 
+Soort doop: PK 
+Naam kind: Margarita 
+Getuigen: Bonaventura en Isaac Elsevier, Lijstbeth van Sambix, Catarina de la Vie
+Misc: KO 23-4-1621 Catharina (Cathelyne) van Waesberge uit Rotterdam (* 1597, begr. 29-10-1659 PKB), dochter van Jan II van Waesberge. Kinderen: 4-3-1622 doop PK Johannes (getuigen Mathijs Elsevier, Catharina Waesberge); 13-6-1625 doop Abraham (getuigen Abram Mietens, Anneken Waesbergen, Maria Elsevier); 31-3-1627 doop PK Isaac (getuigen Simon van Swieten, David van Hoogenhuijsen, Lijsbeth Jans); 7-1-1632 doop PK Margarita (getuigen Bonaventura en Isaac Elsevier, Lijstbeth van Sambix, Catarina de la Vie).
+Huwelijk
+Soort huwelijk: KO
+Datum huwelijk: 23-4-1621
+Huwelijkspartner:  Catharina van Waesberge
+Getuigen: 
+Huwelijk
+Soort huwelijk: 
+Datum huwelijk: 13-6-1625
+Huwelijkspartner:  doop Abraham 
+Getuigen: 
+Huwelijk
+Soort huwelijk: 
+Datum huwelijk: 31-3-1627
+Huwelijkspartner:  doop PK Isaac 
+Getuigen: 
+Huwelijk
+Soort huwelijk: 
+Datum huwelijk: 7-1-1632
+Huwelijkspartner:  doop PK Margarita 
+Getuigen: 
+Adres: 1621-? Rapenburg 62 voorbij de Kloksteeg (in 1633 overgenomen uit de boedel van zijn moeder); 1633 Rapenburg 71? (verkocht in 1646 aan Hendrik Sneewins); 1641-51 Rapenburg 34 (verkregen door erfenis); 1651-52 Rapenburg 36 (was hiervan reeds eigenaar geworden in 1641 voor 3280; hij had het huis opnieuw laten bouwen). Vgl. Bonboek Over t Hof 6613, f. 476r-v: 1645); 1646-1663(?) Commanderijpoort (Bonboek Zevenhuizen 6614, f. 109); 1646-1663(?) Steenschuur (Bonboek Zevenhuizen 6614, f. 154v).
+Adres
+Locatie: Rapenburg 62 voorbij de Kloksteeg (in 1633 overgenomen uit de boedel van zijn moeder)
+Locatie_startdatum: 1621
+Adres
+Locatie: Rapenburg 71? (verkocht in 1646 aan Hendrik Sneewins)
+Locatie_startdatum: 1633
+Adres
+Locatie:  Rapenburg 34 (verkregen door erfenis)
+Locatie_startdatum: 1641
+Locatie_einddatum: 1651
+Adres
+Locatie:  Rapenburg 36 (was hiervan reeds eigenaar geworden in 1641 voor 3280; hij had het huis opnieuw laten bouwen). Vgl. Bonboek Over t Hof , f. 476r-v: 1645)
+Locatie_startdatum: 1651
+Locatie_einddatum: 1652
+Adres
+Locatie: Commanderijpoort (Bonboek Zevenhuizen 6614, f. 109)
+Locatie_startdatum: 1646
+Locatie_einddatum: 1663
+Adres
+Locatie: Steenschuur (Bonboek Zevenhuizen 6614, f. 154v).
+Locatie_startdatum: 1646
+Locatie_einddatum: 1663
+Personeel
+Datum Aanstelling: 1627
+Naam werknemer: Theodorus Wolders
+Veiling
+Datum veiling: 22-5-1623
+Geveilde collectie: Veilingen Officina Elzeviriana:  Cluverius, P. Mercator &amp Myssenius (KBK)
+Veiling
+Datum veiling: 2-6-1626
+Geveilde collectie:   Thomas Erpenius 
+Veiling
+Datum veiling: 
+Geveilde collectie:  Franciscus Raphelengius (KBK)
+Veiling
+Datum veiling: 7-3-1633
+Geveilde collectie:   Jan Rutgers (KBK)
+Veiling
+Datum veiling: 12-6-1635
+Geveilde collectie: Jac. Thysius (KBK)
+Veiling
+Datum veiling: 1657
+Geveilde collectie:   winkelvoorraad (zie Gerechtsdagboeken).
+Bron: NA 98, nr. 62 (27-3-1618) Verklaring t.b.v. Franois Muylwijck n.a.v. curieus bezoek aan zijn winkel. Vgl. nr. 63 (27-3-1618) verkl. van Daniel Heinsius t.b.v. Muylwijck.
+Bron: NA 138, nr. 92 (27-10-1621) Mutueel testament met Catharina van Waesberge.
+Bron: SA 682, Burg. Dagb., f. 102v (23-8-1622) Zweert censuureed.
+Bron: NA 140, nr. 107 (3-9-1622) Matthijs Elzevier verkoopt aan zijn zoon Abraham zijn deel van alle gebonden en ongebonden boeken in Leiden, Frankfort, Parijs en Veneti, incl. schulden en kredieten, alsmede zijn aandeel in de boekhandelscompagnie met Bonaventura Elzevier. Abraham betaalt hiervoor 11217, waarvan 4217 in contant geld, de rest in termijnen van 1200 per jaar. Getuigen de drukker Dirck Pietersz van Noort en Bonaventura Elzevier.
+Bron: NA 312, nr. 48 (15-3-1626) Insinuatie van Dirk Vlacq de Jonge aan Abraham Elzevier. Vlacq had aan Elzevier naer verscheyden tsamengespreck vier schilderijen geruild voor boeken t.w.v. 180. Volgens Elzevier was er een mogelijk van een meester Pinas; later kwam hij echter hierop terug en bezorgde alle schilderijen terug en eiste zijn boeken op. Vlacq was het hier niet mee eens, daar hij nooit had beweerd dat het verkochte schilderij van Pinas was.
+Bron: SA 304 (Missiven G, 1629-35), f. 8v (17-8-1629) Krijgt vrijstelling van garnizoensdienst te Willemstad i.v.m. zijn voorgenomen reis naar Frankfort, waarvoor hij reeds een paspoort had gekregen.
+Bron: NA 374, nr. 115 (29-5-1632) Procuratie met o.a. Nicolaes Eeckhout en Wouter de Haes om van de nu te Amsterdam gedetineerde student Elias Winstrop schulden te innen.
+Bron: NA 374, nr. 116 (2-6-1632) Procuratie met Jacob Marcus om van de nu te Amsterdam gedetineerde student Elias Winstrop schulden te innen. Zie ook akte 29-5-1632.
+Bron: NA 362, nr. 173 (12-1-1635) Verklaring o.a. Abraham Elzevier als meester en regent van het hofje van Jan de Latere.
+Bron: NA 550, nr. 59 (16-4-1638) Scheiding van de compagnie tussen Clouck, Jan Maire, Abraham Elzevier (zijn broer Bonaventura treedt voor hem op) en Isaac Commelin, ten eerste betreffende twee huizen aan de Breestraat, geheten de Regenboog en de Blauwe Fontijn, en ten tweede twee daarachter liggende huizen aan de Rijnstraat. Zij kwijten elkaar ook de huurpenningen.
+Bron: NA 324, nr. 34 (26-4-1638) Obligatie van Pieter van Waesberge t.b.v. 800 i.v.m. een lening. Borg staan Felix van Sambix, boekverkoper te Delft en David van Hoogenhuijsen te Amsterdam. Als getuigen treden op David Lopez de Haro en de boekbinder Jacob Jansz van Muylendonck.
+Bron: NA 324, nr. 79 (13-7-1638) Akte van Abraham en Isaac (kapitein) Elsevier betreffende de voogdij over de kinderen van Maria Breugels (?) en Simon van Swieten.
+Bron: NA 621, nr. 7 [scan nr. 14] (19-12-1643). Verklaring, oud 50 jaar, t.b.v. Geertruijt Jans van Heemskerck, jonge dochter uit Leiden dat hij Thomas Jolij fransch jongman verscheidene malen heeft horen zeggen dat hij als knecht van Claes Adriaens van Redelichuijsen, boekverkoper te Parijs, die aldaar gehuwd was met Margaretha Valle, weduwe van Guilliaem Pelle, naar Leiden was gekomen om boeken van Redelichuijsen te ruilen of te verkopen. Getuigen Claes Simonsz Schouten en Balthasar Rewolt.
+Bron: NA 437, nr. 81 (28-5-1644) Koopt huis aan de Hoge Rijndijk in Zoeterwoude.
+Bron: NA 544, nr. 225 (1651) Wordt genoemd in de boedelscheiding van Christina du Pree als schuldenaar voor 640 i.v.m. custingbrief.
+Bron: SA 73 (Gerechtsdagboek FF), f. 330r (15-2-1657) Consent aan de weduwe van Abraham Elzevier voor een boekenveiling.
+Bron: NA 452, nr. 15 (30-1-1659) Akte Catharina van Waesberge over huis en tuin aan de Hoge Rijndijk.
+Literature: Willems 422; Briels 276; NNBW; Kossmann 122; Het Rapenburg Va, 123-124, 179-180; VIb, 712.
+Bron: 12-11-1639 Genoemd met Bonaventura in brief Daniel Heinsius aan John Selden over Exercitationes ad Novum Testamentum. Bodleian Library, MS Selden supra 108, f. 13.
+Vader: Matthijs Elsevier.
+Misc: Album Studiosorum 11-2-1604 Abrahamus Elzevier Leidensis. 13, L.
+Misc: Werkte sedert 1622 met zijn oom Bonaventura (zie aldaar) samen in de boekhandel en nam met hem in 1626 de drukkerij van zijn broer Isaac over. 9-5-1626 Academiedrukker. In 1626 gedaagd door de magistraat met andere boekverkopers vanwege de verkoop van het pamlfet Den Hollandsche Apocalypsis. Ook werkzaam te Den Haag. Na zijn dood werd in 1653 een zilveren penning geslagen (LJ, 10 [1913], 74).
+
+
+Voornaam: Abraham
+Tweede naam: II 
+Achternaam: Elsevier
+Geboortedatum: 1653
+Sterfdatum: 30-7-1712
+Geboorteplaats: leiden
+Plaats van overlijden: 
+Geslacht: M
+Start_werkperiode: 1681
+Eind_werkperiode: 1712
+Beroep: boekverkoper
+Beroep: drukker
+Misc: Maria Vermeulen uit Amsterdam ( 17-3-1738).
+Huwelijk
+Soort huwelijk: KO
+Datum huwelijk: 31-5-1695
+Huwelijkspartner:  Maria Vermeulen 
+Getuigen: 
+Adres
+Locatie:  Rapenburg (Bonboek Noord-Rapenburg, 6616, f. 126v)
+Locatie_startdatum: 1697
+Locatie_einddatum: 1712
+Adres
+Locatie:  Hoefstraat (Bonboek Oost-Nieuwland 6617, f. 444).
+Locatie_startdatum: 1697
+Locatie_einddatum: 1712
+Personeel
+Datum Aanstelling: 1-3-1682
+Naam werknemer:  Isbrant van der Burgh, L
+Personeel
+Datum Aanstelling: 1-3-1682
+Naam werknemer:  Jan Ambrullaert,* K, 
+Personeel
+Datum Aanstelling: 1-3-1682
+Naam werknemer:  Abraham Ambrullaert,* K, 
+Personeel
+Datum Aanstelling: 1-3-1682
+Naam werknemer:  Abraham de Mij, K (= van der Mijn?), 
+Personeel
+Datum Aanstelling: 1-3-1682
+Naam werknemer:  Simon Florisz Schouten,* K, 
+Personeel
+Datum Aanstelling: 1-3-1682
+Naam werknemer:  Jacob Questro,* K
+Functie werknemer: Leerling
+Personeel
+Datum Aanstelling: 21-5-1685
+Naam werknemer:   Cornelis Horatius Wyngarden, K, 
+Personeel
+Datum Aanstelling: 1-3-1682
+Naam werknemer:  Cornelis Justus Wyngarden, K
+Functie werknemer: Knecht
+Personeel
+Datum Aanstelling: 4-5-1695
+Naam werknemer:   Jan Janse Rickelman, K.
+Functie werknemer: Knecht
+Misc: 13-8-1681 Vrijmeester boekdrukker en boekverkoper vlgs. geboorterecht (AB 83a, f. 15).  Rond 21-10-1705 maakte Abraham tevergeefs bezwaar tegen het feit dat hij als vrijmeester boekdrukker de dubbele gildepenning moest betalen in plaats van de enkele (AB 83a, f. 15).
+Gilde:
+Startdatum: 13-8-1681
+Functie in het gilde: Vrijmeester
+Einddatum: 
+Gilde_InDienstVan: 
+Gilde_Literatuur: AB 83a, f. 15
+Gilde:
+Startdatum: 21-10-1705
+Functie in het gilde: vrijmeester
+Einddatum: 
+Gilde_InDienstVan: 
+Gilde_Literatuur: AB 83a, f. 15
+Bron: NA 743, nr. 102 (?-1660) Verklaring Johannes?, Isaac (uit Rotterdam) en Abraham (uit Den Haag) Elsevier, erfgenamen van Abraham Elsevier sr. en Catharina van Waesberge dat zij negen maanden geleden de nalatenschap hebben verdeeld, waarbij Isaac heeft gekregen het huis De vergulde zon op de steiger in Rotterdam.
+Bron: NA 1228, nr. 38 (18-5-1677) Verklaring van Annetje Tr---ck, huisvrouw van Jacob Winckels op verzoek van de hoofdofficier Brouwer, dat zij van de boekverkoper Jacob Voorn had gehoord dat Abraham tegen hem had gezegd dat hij de student Christophorus Adolphus van Waesdorp tijdens een duel had verwond.
+Bron: NA 1228, nr. 39 (19-5-1677) Verklaring door Jacob Voorn en Jacob Cornelis Kop, commissaris van het veer op s-Gravenhage en Delft, op verzoek van de hoofdofficier Hendrik Brouwer. Voorn was in de drukkerij van de weduwe Elsevier geweest, waar Abraham hem had gevraagd eens bij de in het duel gekwetste student te gaan kijken hoe het met hem was. Kop had het duel gezien.
+Bron: NA 1261, nr. 28 (3-3-1678) Obligatie t.b.v. 6000 aan Franchoys de Schregel jr. (Abraham te s-Gravenhage).
+Bron: NA 1261, nr. 116 (16-9-1678) Obligatie t.b.v. 6000 aan Jacob Kloeck.
+Bron: NA 1350, nr. 183 (20-11-1681) Attestatie n.a.v. een jachtpartij.
+Bron: NA 1387, nr. 48 (17-11-1695) Mutueel testament.
+Bron: NA 1710, nr. 41 (9-5-1711) Akte n.a.v. voogdij.
+Bron: NA 1710, nr. 102 (15-12-1711) Huurt huis op de Hogemors van de advocaat Johan v.d. Burch voor 18 p/j.
+Bron: NA 1672, nr. 158 (10-9-1712) Akte n.a.v. een rekening van winst en verlies van Abraham (niet interessant).
+Bron: NA 1735, ff. 315-341 (20/21-2-1713) Verkoop van zijn drukkerij, letters en papier. Onder de kopers voor de letters Leffen, Heeneman, Van der Aa, Abraham van der Mijn, Bartholomeus Voskens, Endenburg, Willem de Groot, Huijbert van Besoyen, weduwe Van der Boxe, Willem Goeree, Mathijs van der Mijn, Jacob de Backer, weduwe Muntendam (borg Samuel Luchtmans), Jan Boom, Pieter de Vries; voor het papier: notaris Wolff, Teering, G. Blancken; 4 drukpersen: Van der Aa (2), Van Besoyen; drukkerijgereedschap: Abraham Bleykersvelt, Heeneman, Gerard Adriaansz, Van Besoyen, Van der Aa, Endenburg, Mathijs van der Mijn, Willem Goeree, Abraham van der Mijn, Jan van Damme, Jacob de Backer, Michiel Baring, Johannes Koster (curatoren de notarissen Adriaen Wolff en Pieter van Dieningen). Zie aparte transcriptie. Vgl. Proeve der Drukkerye van Mr. Abraham Elzevier, In sijn Leven Drukker van de Universiteyt tot Leiden. Bestaande in vier schoone druk-parssen, waar onder drie met kopere degels zijn, als mede verscheyde soorten van Arabische, Sirische, Samaritaansche, Aethiopische, Grieksche, Hebreeuwsche, Rabbijnsche, Latijnsche, Cursijfsche, Hoog- en Nederduytsche, en meer andere letteren. Nog verscheyde Arabische, Sirische, Hebreeuwsche, Latijnsche en Cursijfsche matrysen, wyders Arabische, Hebreeuwsche Ponons, of stempels, en verscheyde vormen om in te gieten. Een schoone groote kagchel, curieuse houte en loode letteren, finaaltjes, ysere ramen, letterkassen,  nat- en spoelborden, vijf korrigeer steenen, en verder gereetschap tot de drukkery behorende. Welke verkocht sal werden tot Leyden in de Academy, op maandag den 20. february 1713. s morgens ten 9. uuren preys. Alles sal daags te vooren van de gegadingde konnen gesien werden, en de catalogus is te bekomen by, Franoys Heeneman, op de Haarlem-straat in de Vergulden Son. (z.pl. en jr. [Leiden: Franois Heeneman, 1713]). UBL 743 F 45; BL; KB Stockholm.
+Reizen: Beschrijving van een Duitse reiziger Dr. Christ. Aug. Lmmermann van de toestand van de drukkerij van Abraham in 1710, afkomstig uit: Litterarische Anekdoten, die Elzevirische Buchdruckerey in Leiden, und die beiden dasigen Gelehrten, Herm. Boerhave und Thom. Crenius betreffend. (Aus dem handschriftlichen Reise-Diarum des D. Christ. Aug. Lmmermann, welcher  sich 1710 in Holland aufgehalten hat.), Historisch-litterarisch-bibliographisches Magazin, ed. J.G. Meusel, 6e stuk (1792), pp. 99-100. Jacobsen Jensen 105.
+Literature: Willems; Davies; Molhuysen; NNBW; Ensched, Typefoundries, 442, nr. 46.
+Bron: Vertaling Davies 93-94: The Elsevier press, which formely was so justly famous, has now greatly declined, and appears to fall lower daily because the proprietor, Abraham Elsevier, is a sheriff or alderman of the city while he neglects the press, and also he is not sufficiently learned. At the least, one can say truthfully that nowhere in Europe is printing done in a more vicious manner than here. Journeymen act as though they are the masters, and make corrections only when they are good and ready. For the most part Elsevier prints theses, of which there are an unbelievable number defended here. If students were not forced to have their theses printed here, and if Elsevier were not an alderman of the city, he would certainly have to eat small crumbs. The price of the printed sheet is five guilders; black paper costs five-and-a-half stuivers, ordinary paper twelve stuivers, and good paper one guilder two stuivers, so the cost of a small thesis may easily be from sixty to seventy guilders. The building is in the form of a square with two passages. There are many typecases, but only four presses, and of these only one, or at most two, is in daily use.
+Vader: Johannes II ELSEVIER
+Moeder: Eva van Alphen.
+Misc: 5-9-1667 Inschrijving als student; 12-1-1679 doctor in beide rechten; nadien advocaat aan het Hof van Holland.
+Misc: Album studiosorum: 5-9-1667 Abraham Elsevier Leidensis. 14. Hon. gr.
+Misc: Volgde zijn moeder in mei 1681 op als academiedrukker (loon 300, later 200).
+Misc: Beschrijving van een Duitse reiziger Dr. Christ. Aug. Lmmermann van de toestand van de drukkerij van Abraham in 1710, afkomstig uit: Litterarische Anekdoten, die Elzevirische Buchdruckerey in Leiden, und die beiden dasigen Gelehrten, Herm. Boerhave und Thom. Crenius betreffend. (Aus dem handschriftlichen Reise-Diarum des D. Christ. Aug. Lmmermann, welcher  sich 1710 in Holland aufgehalten hat.), Historisch-litterarisch-bibliographisches Magazin, ed. J.G. Meusel, 6e stuk (1792), pp. 99-100. Jacobsen Jensen 105.
+
+
+Voornaam: Aegidius
+Tweede naam:  
+Achternaam: Elsevier
+Naamsvariant: Gillis Elsevier
+Geboortedatum: 1567
+Sterfdatum: 1651
+Geboorteplaats: Wezel
+Plaats van overlijden: 
+Begraafplaats: begr. 1-7-1651
+Geslacht: M
+Start_werkperiode: 
+Eind_werkperiode: 
+Bron: NA 138, nr. 102 (?-1621) Testament Franchyna Hendrickx. Huizen op de Langebrug; diverse legaten.
+Bron: NA 138, nr. 136 (10-11-1621) Verklaring t.b.v. Gillis Elzevier.
+Bron: NA 132A, nr. 30 (24-4-1629) Ontvangt van zijn broer Aernout een partij schilderijen, meubelen en andere goederen t.b.v. 300.
+Bron: NA 332A, nr. 43 (?) ?
+Bron: NA 326, nr. 28 (7-3-1640) Akte met No Barbry sr. en Pieter Boidin sr. over de rooilijn van huizen (Breestraat). Zie ook nr. 39.
+Bron: NA 668, nr. 19 (24-2-1647) Akte.
+Bron: NA 442, nr. 44 (31-3-1649) Procuratie van Gillis Elsevier te Leiden aan zijn broer Bonaventura om zijn aandelen in de WIC over te boeken naar de wijnkoper Joris van Spreeuwen, zijn schoonzoon. De totale waarde is fl. 5700.
+Bron: NA 671, nr. 187 (7-12-1651) Verklaring n.a.v. zijn overlijden.
+Literature: Kossmann 120-121; Willems cliii-iv.
+Bron: Over de afhandeling van zijn nalatenschap zie onder Bonaventura Elzevier.
+Vader: Louis Elsevier. 
+Adres: 
+Locatie: Langebrug. 
+Locatie_startdatum: 1640
+Huwelijk
+Datum huwelijk: 4-2-1597 
+Huwelijkspartner: Anneke Harthals 
+Huwelijk
+Datum huwelijk: 1600 
+Huwelijkspartner: Francina Hendriks
+Misc: Francina Hendriks is weduwe Etienne Bellaert. Werkte in de winkel van zijn vader. Ook werkzaam te Den Haag.
+Misc: Over de afhandeling van zijn nalatenschap zie onder Bonaventura Elzevier.
+
+
+Voornaam: Bonaventura
+Achternaam: Elsevier
+Geboortedatum: 1583
+Sterfdatum: 17-9-1652
+Geboorteplaats: Leiden -9-
+Plaats van overlijden: 
+Begraafplaats: begr. PK 21-9-1652
+Geslacht: M
+Start_werkperiode: 1610
+Eind_werkperiode: 1652
+Beroep: boekverkoper
+Beroep: boekdrukker
+Misc: Sara van Ceulen uit Rotterdam (dochter van prof. Daniel van Ceulen uit Gent; begr. 16-3-1647 PK).
+Huwelijk
+Soort huwelijk: KO
+Datum huwelijk: 18-7-1625
+Huwelijkspartner:  Sara van Ceulen 
+Getuigen: 
+Misc: Woonde tot 1625 in bij zijn broer Matthijs op Rapenburg 32
+Adres
+Locatie:  Rapenburg 30 (1623 Bonboek Noord-Rapenburg, 6616 f. 126 Bonboek Over t Hof 6613, ff. 475v en 477v)
+Locatie_startdatum: 1618
+Locatie_einddatum: 1652
+Adres
+Locatie: Rapenburg 32)
+Locatie_startdatum: 1625
+Adres
+Locatie:  Doelenachtergracht (Bonboek Noord-Rapenburg 6616, f. 118)
+Locatie_startdatum: 1623
+Locatie_einddatum: 1626
+Adres
+Locatie:  Oude Varkensmarkt (Bonboek Noord-Rapenburg 6616, f. 155v)
+Locatie_startdatum: 1623
+Locatie_einddatum: 1626
+Adres
+Locatie:  Pieterskerkstraat (Bonboek Over t Hof 6613, f. 362)
+Locatie_startdatum: 1623
+Locatie_einddatum: 1626
+Adres
+Locatie:  Houtstraat (Bonboek Over t Hof 6613, ff. 471 en 474). 
+Adres
+Locatie: Rapenburg 71 (1651 4 persen). Kocht in 1631 buurhuis in de Houtstraat (1652 Op t Hout), in 1636 Rapenburg 32 (van zijn broer Matthijs voor 3200), in 1647 (= 1645) Rapenburg 38 voor 2000, en in 1650 Rapenburg 69b. Kocht in 1645 voor 1183 ook een perceel achter Rapenburg 32.
+Locatie_startdatum: 1623
+Locatie_einddatum: 1626
+Personeel
+Datum Aanstelling: 1643
+Naam werknemer: Niclaes Adriaensz van Redelichuysen, (wiens voogd hij was)
+Personeel
+Datum Aanstelling: 1-5-1647
+Naam werknemer: Lucas van Vuyren, oud 25 jaar, voor 4 jaar
+Personeel
+Datum Aanstelling: 1652
+Naam werknemer: Jan Zachariasz Baron, L/K? (AB 83a, f. 2 met vermelding overleden).
+Functie werknemer: Leerling
+Veiling
+Datum veiling: 8-5-1619
+Geveilde collectie: Joa. a Wittenhorst
+Veiling
+Datum veiling: 22-5-1625
+Geveilde collectie:  Philippus Cluverius, P. Mercator/Henr. Myssenius
+Veiling
+Datum veiling: 1625
+Geveilde collectie:   Thomas Erpenius
+Veiling
+Datum veiling: 12-3-1625
+Geveilde collectie:   anon./Rein. Bontius
+Veiling
+Datum veiling: 
+Geveilde collectie:  Jo. Volcerus
+Veiling
+Datum veiling: 27-5-1626
+Geveilde collectie:   Jacobus Lettingius
+Veiling
+Datum veiling: 2-6-1626
+Geveilde collectie:   Th. Erpenius/Fr. Raphelengius
+Veiling
+Datum veiling: 5-10-1626
+Geveilde collectie:   Petrus Moseius/Franciscus Raphelengius (zie 2-6-1626)/Isaac Swaneburgius
+Veiling
+Datum veiling: 28-6-1626
+Geveilde collectie:   Richardus Janus Niraeus/Daniel Quesnoy
+Veiling
+Datum veiling: 6-3-1629
+Geveilde collectie:   Thomas Segethus Scotus/Willebrordus Snellius
+Veiling
+Datum veiling: 21-5-1629
+Geveilde collectie:   Gilbertus Jacchaeus
+Veiling
+Datum veiling: 12-6-1630
+Geveilde collectie:   Janus Rutgersius.
+Religie: Waals
+Bron: NA 73, nr. 113 (30-8-1606) Verklaring t.b.v. Barbara Geens.
+Bron: NA 133, nr. 74 (8-3-1619) Testament Bonaventura Elzevier. Zijn zuster Elisabeth ontvangt haar hele leven lang de lyftochte ende bladinge van een bedrag van 2400. De verantwoordelijkheid daarvoor ligt bij zijn broer Matthijs en Gillis. Mathijs Elzevier mag zijn huis op de hoek van het Rapenburg en de Houtstraat en het aangrenzende huis in de Houtstraat overnemen volgens de prijs waarvoor het door de rooimeesters van de stad wort getaxeerd. Matthijs mag ook de helft van het boekbindersgereedschap overnemen voor 100. Als het hem belieft mag hij ook de tuin van Bonaventura, gelegen buiten de Koepoort en Zoeterwoude overnemen. Voorts ontvangt Matthijs bij prelegaat die zilveren schaal die Bonaventura in de loterije van Leyden heeft gewonnen. Zijn zuster Maeyken Elzevier ontvangt zijn diamant roosrinck met vijff steenen. Lowijs Elzevier in Utrecht, zoon van zijn overleden broer Joost krijgt 100 aan boeken tegen boekverkopersprijs onder voorwaarde dat hij aen het studeren blijft. Cornelis Elzevier, zoon van zijn broer Aernout, schilder, ontvangt als pillegift een zilveren beker t.w.v. 50. Hetzelfde geldt voor Lowijs, zoon van Isaac Elzevier. Grietje, dochter van Lowijs Elzevier in Den Haag mag een van zijn andere ringen uitkiezen en zij krijgt een huijck t.w.v. 36. Dan krijgen de jongens of knechten die bij zijn overlijden in dienst zullen zijn, onder wie Cors Jongen Brant, of bij zijn overlijden, diens zoon, een rouwgeld van 3.10 en daar bovenop nog een vrolijke maaltijd, ter discretie van zijn erfgenamen. Verder aan Jacob Passcheijntjes zoon, die tegenwoordig bij hem werkt een pak rouwkleren. Aan de armen van de Franse gemeente binnen Leiden moet 300 worden uitgekeerd. Zijn universele erfgenamen zijn zijn broers Matthijs, Lowijs, Gillis en Aernout en zijn zusters Maeyke en Elizabeth, elk voor een zevende deel. Zie ook nieuw testament van 16-11-1624.
+Bron: NA 133 nr. 79 [scan nr. 168] (1619) Aktenummer klopt niet.
+Bron: SA 682, Burg. Dagb., f. 102v (23-8-1622) Zweert censuureed.
+Bron: NA 103, nr. 16 (24-1-1623) Koopt huis van prof. Polyander voor 800. Plaats niet aangegeven, maar grenst aan huis Matthias van Overbeeke.
+Bron: NA 162, nr. 76 (1624) Genoemd als schuldenaar in boedel witmaker Quirijn Jansz van Boshuijsen (18 vanwege Grietje te Utrecht en 139).
+Bron: NA 146, nr. 80 (16-11-1624) Uitgebreid testament; o.a. huizen aan de Lokhorstgracht, hoek Lange Diefsteeg en hoek Rapenburg/Houtstraat, alsmede een tuin buiten de Koepoort. Erfgenamen zijn broers Matthijs, Gillis en Aernout, zijn zusters Maeyke en Elizabeth, de dochter van Lowijs Elzevier en de kinderen van Joost Elzevier, elk voor 1/7 deel. Voogden zijn oudst levende broer en Michiel Matthijsz Chimaer, zijn behuwde neef. Vgl. eerder testament van 8-3-1619.
+Bron: NA 148, nr. 43 (16-5-1625) Uitbetaling van 510 door de Weeskamer uit de goederen van Pieter Dircxz van Leeuwen.
+Bron: NA 148, nr. 105 (18-8-1625) Contract tussen Bonaventura en Abraham Elzevier enerzijds en Jacob Elzevier te s-Gravenhage anderzijds over de leverantie van hun boeken aan Jacob tot de prys die by anderen daer van betaelt wert, met een rabat van 20%. Jacob is reeds 2000 aan beiden schuldig, die hij echter alleen bij het einde van de overeenkomst moet terugbetalen (div. bepalingen). Andere schulden moet hij halfjaarlijks betalen. Hij mag ook boeken terugzenden, het eerste halfjaar voor 600, daarna voor niet meer dan 300 per jaar. Getuigen Isaac en Louis Elzevier.
+Bron: NA 149, nr. 101 (24-12-1625) Isaac Elzevier verkoopt aan Bonaventura en Abraham Elzevier t gebou ende de timmeragie die door Isaac aan de rechterkant van de Academiepoort is neergezet, als ook het huurcontract met de universiteit, voor 2000, te betalen op 8-2-1626. Getuigen o.a. Louis Elzevier en Catharina van Waesberge.
+Bron: NA 149, nr. 121 (24-12-1625) Transport door Isaac Elzevier aan Bonaventura en Abraham Elzevier van 10.000 pond letters, 5 drukpersen, 1 plaatpers, stempels, matrijzen en verder toebehoren van de drukkerij voor 7000.
+Bron: NA 312, nr. 145 (13-8-1626) Procuratie met Lieven de Clerck, Abraham en Is. Commelin, Jac. Marcus, Arent Simonsz Schoenmaker aan Jan Geurs om tegen Jac. Martini van Lunenburch, die te Amsterdam was gearresteerd, een proces te beginnen, waarschijnlijk wegens niet betaalde schulden. Zie ook nr. 142.
+Bron: NA 344, nr. 15 (19-6-1627) Verklaring jonkheer Francois Schuijrmans dat hij van Bonaventura 30 nader omschreven boeken ontvangen heeft. Getuigen Jan Thomasz de Vechter en Pieter Vincentsz van Heemskerck.
+Bron: NA 296, nr. 157 (10-12-1627) Verklaring met Pieter de la Court, koopman, als diakenen van de Franse Kerk i.v.m. de verkoop van land o.a. te Aardenburg en Middelburg.
+Bron: NA 360, nr. 15 (9-4-1628) Mutueel testament met Sara van Keulen.
+Bron: NA 213, nr. 137 (19-11-1627) Obligatie Josias Lucasz. van Vuyren op het Noordeinde aan Pauwel Cauwelaer van 500. Borgen Mathijs, Bonaventura en Arnout Elzevier. Getuige Jacob Beke, boekverkoper. Hij was in 1624 gehuwd met Elisabeth Elzevier, wed. van Lambert Claessen.
+Bron: NA 360, nr. 15 [scan nr. 35 e.v.] (9-4-1628) Mutueel testament. Executeurs voor Sara van Keulen Daniel Colonius en Lodewijk de Dieu, voor hem Mathijs Elzevier en Michiel Chimaer. Handtekening verwijderd. Op de blanco pagina tegenover de laatste pagina notitie van Bredius: Dit aldus gevonden. Waarschijnlijk door den overl. archivaris van Leyden R.E. geschied. !!! den Haag 1885. ABredius.
+Bron: NA 360, nr. 45 (13-7-1628) Verklaring Josias Lucasz van Vuyren en zijn vrouw Elisabeth Elzevier, weduwe Lambrecht Claesz van Tethrode, n.a.v. haar achtste erfdeel in de erfenis van haar vader t.w.v. 1200. Zij hebben de resterende 600 hiervan ontvangen van Bonaventura Elzevier.
+Bron: NA 316, nr. 74 (29-3-1630) Akte betreffende voogdij Bonaventura Elsevier en Simon van Swieten (pedel) over de nagelaten kinderen van Aernout Elsevier en Maeyken van Swieten.
+Bron: NA 319, nr. 21-22 (9-2-1633) Procuratie met Andries Cloeck, Jan Maire en Isaac Commelin om van de erven van de overleden drukker en boekverkoper Augustijn Febrer (?) te Rostock schulden te innen, voor Bonaventura en Abraham 113. Als procureurs worden aangesteld de notaris Robert Oudart te Hamburg en Joh. Hempelius en Joh. Ludeman te Rostock.
+Bron: NA 550, nr. 69 (7-9-1638) Met Nicolaes Biestkens getuige bij procuratie Willem Usselincx, commissaris van de Zweedse koning.
+Bron: NA 271, nr. 92 (28-10-1639) Mutueel testament.
+Bron: NA 271, nr. 93 (28-10-1639) Testamentaire dispositie met Sara van Keulen.
+Bron: NA 572, nr. 97 (6-12-1642) Procuratie aan zijn zwager Daniel van Ceulen, advocaat voor het Hof van Holland om hem te vertegenwoordigen in de afhandeling van de erfenis van Daniel van Ceulen sr.
+Bron: NA 725, nr. 69 (30-4-1644) Obligatie moutmaker Pieter Elzevier te Rotterdam aan Bonaventura van N2000.
+Bron: NA 728, nr. 62 (9-3-1647) Mutueel testament met Sara van Keulen. Zij is ziek.
+Bron: NA 729, nr. 260 (14-9-1648) Procuratie met zijn zwager Daniel van Ceulen.
+Bron: NA 442, nr. 44 (31-3-1649) Procuratie van Gillis Elsevier te Leiden aan zijn broer Bonaventura om zijn aandelen in de WIC over te boeken naar de wijnkoper Joris van Spreeuwen, zijn schoonzoon. De totale waarde is fl. 5700.
+Bron: NA 730, nr. 229 (8-9-1649) Procuratie uit naam van de erfgenamen van zijn broer Mathijs aan de Leeuwarder procureur Everhardus Horn om van de erven van Pieter Geerts, boekverkoper aldaar 152.16 te eisen voor geleverde boeken en om van Dirck Albertsz, eveneens boekverkoper in Leeuwarden 27 voor geleverde boeken. Getuige Daniel Elsevier.
+Bron: NA 730, nr. 211 (18-8-1649) Procuratie met Abraham Elzevier aan --- te Middelburg om van de erven van Gerrit Moulart en van Jacques Fierens schulden te innen, van Moulart 177.0.8, van Fierens 118.1. Getuige Lucas van Vuyren.
+Bron: NA 731, nr. 96 (9-4-1650) Procuratie aan zijn zwager Prof. Daniel van Ceulen om al zijn bezittingen in Vlaanderen te verkopen. Getuige Lucas van Vuyren.
+Bron: NA 731, nr. 244 (14-9-1650) Testament waarin o.a. sprake is van de stichting van een hofje. Daniel krijgt huis in de Houtstraat, waar zijn vader nu woont, als ook het huis op het Rapenburg, laatst gekocht van de erven van juffr. Marre (?). Daniel krijgt ook de helft van de drukkerij en de boekenvoorraden die zijn vader samen met Abraham in compagnie heeft bezeten.
+Bron: NA 731, nr. 245 (14-9-1650) Codicil op zijn testament d.d. 14-9-1650.
+Bron: NA 544 (of 444?), nr. 103 (3-6-1651) Borg.
+Bron: NA 444, nr. 103 (3-6-1651) Borg bij verkoop van een huis.
+Bron: NA 732, nr. 199 (?-6-1651) Akte n.a.v. voogdij over kinderen uit familie Chimaer. Onder de voogden Bonaventura Elzevier.
+Bron: NA 653, nr. 39 (29-8-1651) Franse procuratie met Abraham aan --- om hun zaken te Parijs waar te nemen n.a.v. de aankoop van een partij boeken. Ook Johan Elzevier genoemd. Getuigen Pierre Parival en F. de Laet.
+Bron: NA 732, nr. 274 (6-9-1651) Verklaring Bonaventura Elsevier n.a.v. zijn executeurschap over de nalatenschap van zijn overleden broer Gillis. Getuigen o.a. Mathias Chimaer, predikant te Zoeterwoude.
+Bron: NA 671, nr. 174 (14-10-1651) Procuratie met Jan Maire en Frans Hacke aan Jacob Blaeu te Rotterdam n.a.v. het arrest te Rotterdam van zekere balen of vaten boeken door de weduwe Whitaker uit Londen verzonden naar Frankfort door Joan Blaeu en Louis Elzevier.
+Bron: NA 733, nr. 170 (18-6-1652) Koopt van Kapt. Jacob Elzevier, wonende te Gensingen, 100 morgen land in Gensinger Gemarck (Nederpalts), met uitzondering van 2 morgen wijngaarden. Hij betaalt hiervoor 1400 rijksdaalders.
+Bron: SA 71, Gerechtsdagboek CC, ff. 106v-107r (15-8-1652) Consent aan Bonaventura Elzevier, als verhuurder van zijn huis aan het Rapenburg t.o. de Academie, om via een boedelverkoop zijn huurder, de kleermaker Thomas van der Lucht, tot betaling van achterstallige huur te dwingen. Van der Lucht had al een aantal eigendommen verwijderd.
+Bron: NA 733, nr. 260 (15-9-1652) Toevoegingen aan zijn testament van 14-9-1650. Hij kan nauwelijks zijn handtekening zetten; de notaris heeft erbij geschreven: Vermits de bevinge van des comparants hand heeft hij alleen op dees manier zijn handtekening cunnen stellen.
+Bron: NA 733, nr. 317 (9-12-1652) Procuratie Daniel Elzevier, Daniel van Ceulen, Louis Elzevier in Amsterdam als testamentaire voogden over de Bonaventuras kinderen van aan Mathijs Bijvoort te Marienpoort bij Creijtsnach om daar de overdracht van 100 morgen land te bewerkstelligen. Vgl. 18-6-1652.
+Bron: NA 734, nr. 217 (16-7-1653) Obligatie Frans Moeyaart aan juffr. Catharina van Waesberge, weduwe Abraham Elzevier en aan de kinderen en erven van Bon. Elzevier van 575.6.10 voor boeken gekocht op de publieke auctie. 12 termijnen van 6 maanden.
+Bron: SA 71, Gerechtsdagboek CC, f. 345v (13-3-1653) Consent aan Catharina van Waesberge en de erven van Abraham Elzevier en de kinderen van Bonaventura Elzevier voor een veiling van hun boeken. De veiling vond plaats op 16-4-1653 (BSC).
+Bron: SA 71, Gerechtsdagboek CC, ff. 298r-299r (9-5-1653) Consent aan de erven van Bonaventura om een kelder te graven in het huis hoek Rapenburg/Houtstraat.
+Bron: NA 734, nr. 270 (13-9-1653) Obligatie Aernout Leers, boekverkoper te Rotterdam aan juffr. Catharina van Waesberge, weduwe Abraham Elzevier en aan de kinderen en erven van Bonaventura Elzevier van 7706.19 voor boeken gekocht op de publieke auctie. 12 termijnen van 6 maanden.
+Bron: NA 734, nr. 266 (3-9-1653) Obligatie Frans Hacke aan juffr. Cath. van Waesberge, weduwe Abraham Elzevier en aan de kinderen en erven van Bonaventura Elzevier van 2439.19 voor boeken gekocht op de publieke auctie. 8 termijnen van 6 maanden. Getuige Pieter Hacke.
+Bron: NA 734, nr. 258 (30-8-1653) Obligatie John Fosbrook, dienaar van Cornelius Bee te Londen, aan Catharina van Waesberge, weduwe Abraham Elzevier en aan de kinderen en erven van Bonaventura Elzevier van 756.13.7 voor boeken gekocht op de publieke auctie. Betaling 1/3 in contant geld en de rest in termijnen van 6 maanden. Borg Aernout Leers.
+Bron: NA 735, nr. 108 (20-4-1654) Procuratie Daniel van Keulen en Daniel Elsevier namens de erfgenamen van Bon. Elsevier aan Ferdinand de Backere, burgemeester van Sluis, om hun zaken waar te nemen in Vlaanderen.
+Bron: NA 735, nr. 149 (4-6-1654) Procuratie Catharina van Waesberge, Daniel Elzevier en Daniel van Keulen als erfgenamen c.q. voogden over de boedels van Abraham en Bonaventura Elzevier aan de Haagse notaris Joh. Houtthuijn om van Jhr. Matthijs van der Merwede, Heer van Sloterwijk een bedrag te innen voor geleverde boeken.
+Bron: NA 735, nr. 208 (16-7-1654) Procuratie Daniel Elsevier en Louis Elzevier als erfgenamen c.q. van de nalatenschap van Bonaventura Elzevier aan prof. Daniel van Ceulen om effecten te innen, ook die in de gemene zaak met de weduwe van Abraham Elzevier. Johan Elzevier getuige.
+Bron: NA 736B, nr. 267 (6-8-1655) Procuratie Catharina van Waesberge en Daniel van Keulen aan de Haagse notaris Joh. Houtthuijn om van de erven van Margareta Elsevier, weduwe Jac. Duyn 1400 te innen.
+Bron: NA 736B, nr. 349 (11-10-1655) Daniel van Keulen en Louis Elzevier maken zich sterk voor Corn. de Lange, man van Maria Elzevier n.a.v. de nalatenschap Bonaventura Elzevier. Arnout Leers genoemd.
+Bron: NA 738, nr. 244 (14-8-1657) Procuratie Daniel van Keulen i.v.m. nalatenschap Bonaventura.
+Bron: NA 738, nr. 244 (16-9-1657) Procuratie Daniel van Keulen i.v.m. nalatenschap Bonaventura.
+Bron: NA 739, nr. 46 (10-3-1658) Procuratie Daniel Elzevier te Amsterdam i.v.m. verkoop speeltuin aan med. dr. Petrus van Velde uit de nalatenschap van Bonaventura.
+Literature: Willems; Briels 274-276; Het Rapenburg Va, 43-44, 58-59, 82, 90-91, 251.
+Bron: Brieven Bon. en Abraham en Louis III d.d. 1-9-1634, 20-2-1635, 2-8-1636 en 8-?-1636 aan Lucas Holstenius te Rome in Cod. Barberini, Lat. 3631. Afschriften Bibl. KVB, VH 11.
+Vader: Louis Elsevier.
+Kinderen
+Doop kind: 14-8-1626 
+Soort doop: PK 
+Naam kind: Daniel 
+Getuigen: Daniel van Ceulen, Gillis Elsevier, Sara van Ceulen
+Kinderen
+Doop kind: 26-4-1628
+Soort doop:  PK 
+Naam kind: Pieter 
+Getuigen: Matthijs Elsevier, Guillaume van der Elst, Maria de Backere
+Kinderen
+Doop kind: 31-12-1631 
+Soort doop: PK 
+Naam kind: Maria 
+Ggetuigen: Abraham Elsevier, Maria de Backer, Maeijken Elsevier
+Kinderen
+Doop kind: 8-5-1641 
+Soort doop: PK 
+Naam kind: Sara 
+Getuigen: Antonij van Hilten, Maria van Ceulen, Sara Looten, vrouw van Abraham Heidanus)
+Misc: Sara begr. 4-12-1644 PK kind.
+Misc: 21-2-1618 Inschrijving Album Studiosorum (bibliopola). Nam in 1617 met zijn broer Matthijs de boekhandel van zijn vader over, waarin hij na 1622 samenwerkte met zijn neef Abraham I. Nam op 24-12-1625 de drukkerij van zijn neef Isaac over en werd op 9-5-1626 met Abraham I aangesteld tot boekdrukker van de Academie. 1639 Opsiender der auctien. 1639-49 Ouderling Waalse gemeente.
+
+
+Voornaam: Daniel
+Achternaam: Elsevier
+Geboortedatum: 1626
+Sterfdatum: 13-10-1680
+Geboorteplaats: Amsterdam 
+Plaats van overlijden: 
+Begraafplaats: begr. PK 20-10-1680
+Geslacht: M
+Start_werkperiode: 1652
+Eind_werkperiode: 1655
+Beroep: boekverkoper
+Beroep: drukker
+Huwelijk 
+Datum huwelijk: 
+Huwelijkspartner: Anna Beerninck
+Misc: Anna Beerninck (* Utrecht 1639,  Amsterdam 1680, begr. Leiden PK 15-3-1680).
+Adres
+Locatie:  Rapenburg 30.
+Locatie_startdatum: 1652
+Locatie_einddatum: 1655
+Bron: NA 732, nr. 187 (9-6-1651) Procuratie van de arts Jac. Ferreris aan Daniel Elsevier, nu te Stockholm, om aldaar geld voor hem te innen.
+Bron: NA 671, nr. 233 (27-6-1652) Procuratie van Heyndrick Christoffelsz van Cathagen aan Daniel om van Johann Becker, med. dr. te Danzig 250, van Johann Winter te Lbeck 300, van Heynrich Koch te Statijn (Stettin?) 300, van Johann Kiselbach te Statijn 25, van Johann Sander, med. dr. te Statijn 100 en van dr. Heino Pighius te Hamburg 80, alles met rente, te innen.
+Bron: NA 566, nr. [250] (13-11-1652) Getuige met zijn broer Willem Elsevier bij procuratie Marijtje Thonis, wed. ... Jans, wonende te Delfshaven, aan o.a. prof. Daniel van Ceulen.
+Bron: NA 733, nr. 317 (9-12-1652) Procuratie met Daniel van Ceulen en Louis Elzevier in Amsterdam als testamentaire voogden over de minderjarige kinderen van wijlen Bonaventura Elzevier aan Mathijs Bijvoort te Marienpoort bij Creijtsnach om daar de overdracht van 100 morgen land te bewerkstelligen. Bonaventura had dit land, waaronder wijngaarden, gekocht van Jacob Elzevier, kapitein wonende tot Gersinge (?) in de Nederpalts.
+Bron: NA 733, nr. 364 (16-12-1652) Procuratie met prof. Daniel van Ceulen aan Ferdinand de Backere, burgemeester van Sluis, m.b.t. stukken land in Zeeuws-Vlaanderen.
+Bron: NA 734, nr. 207 (4-7-1653) Mutueel testament met zijn broer Willem Elzevier (student en ziek te bed) en zuster Maria Elzevier.
+Bron: NA 739, nr. 46 (10-3-1658) Procuratie aan Daniel van Ceulen i.v.m. erfenis Bonaventura Elsevier. Handelt over veiling van het bezit van dr. Petrus van Velde.
+Bron: NA 777, nr. 323 (7-7-1665) Prof. Daniel van Ceulen benoemt o.a. Ferdinand de Backere en Daniel Elzevier tot voogd over zijn kinderen.
+Literature: Willems; Molhuysen 318; Van Eeghen III, 111-122; Het Rapenburg Va, 44.
+Bron: Album studiosorum 7-12-1653 Daniel Elsevier Academiae typographus. 28.
+Vader: Bonaventura Elsevier.
+Misc: Had een deel van zijn leertijd doorgebracht in Parijs bij Pierre Le Petit (Bray, Chapelain, p. 194). In 1654 vertrokken naar Amsterdam waar hij samenwerkte met Lodewijk Elsevier.
+Album studiosorum: Album studiosorum 26-11-1638 Daniel Helzevier. Leidensis. 12. L.; 2-3-1648 Daniel Elsevier Leidensis. 21. L.
+
+
+Voornaam: Isaac
+Achternaam: Elsevier
+Geboortedatum: 11-3-1596
+Sterfdatum: 8-10-1651
+Geboorteplaats: Leiden
+Plaats van overlijden: Keulen
+Vader:  Mathijs Elsevier
+Moeder: Berbertje Copes
+Geslacht: M
+Start_werkperiode: 1616
+Eind_werkperiode: 1626
+Beroep: boekdrukker
+Kinderen: 
+Naam kind: Isaac 
+Doop kind: 10-2-1623
+Getuigen: Mathijs en Bonaventura Elsevier
+Huwelijk
+Soort huwelijk: KO
+Datum huwelijk: 29-1-1616
+Huwelijkspartner:  Jacquemyntje Simons van Swieten 
+Getuigen: zijn ouders en haar broer Symon en haar schoonbroer Aernout Elsevier
+Huwelijk
+Soort huwelijk: 
+Datum huwelijk: 10-2-1623
+Huwelijkspartner: Isaac 
+Getuigen: 
+Adres
+Locatie: Breestraat (Bonboek Gasthuisvierendeel 6612, f. 275)
+Locatie_startdatum: 1626
+Adres
+Locatie:  Rapenburg 34.
+Locatie_startdatum: 1640
+Locatie_einddatum: 1641
+Personeel
+Datum Aanstelling: 1623
+Naam werknemer:  Pieter Vincentsz van Heemskerck,? (NA 209, nr. 133 getuige)
+Personeel
+Datum Aanstelling: 1623
+Naam werknemer:  Nicolaas Jansz (NA 209, nr. 216).
+Bron: SA 640, Burg. Dagb., f. 118r-v (16-2-1621) Zweert censuureed.
+Bron: NA 209, nr. 133 (4-7-1623) Verklaring van (studenten?) Barnardus Drachardus, oud 29 jaar, en Pieter Bartalson, oud 27 jaar, t.b.v. Isaac Elsevier n.a.v. de betalingswijze bij de koop en verkoop van ossen in Denemarken. Getuigen student Christianus Stowgardius en Pieter Vincentsz van Heemskerck.
+Bron: NA 209, nr. 216 (23-11-1623) Verklaring van Deense studenten Henrich Post en Bero Geo. Drachardus op zijn verzoek, dat hij wegens een indispostie op 12 september van het vorig jaar zijn knecht  Nicolaes Jansz naar Denemarken heeft gestuurd om daar een aantal schulden te innen. n.a.v. schulden van Deense kooplieden. Het betreft een obligatie van 500 rijksdaalders in specie op Claes Brockenhuijsen; een obligatie op Olof Baltensz en Olof Jansz, kooplieden te Aarhus, van 244 rijksdaalders in specie; een obligatie op Jacob Osseriis in Kopenhagen van 136 slechte daalders; een obligatie op Jan Wesling te Colding van 20 rijksdaalders; een obligatie op Claes Dahousen te Brunswijk van 49 rijksdaalders. Onduidelijk is of het hier om schulden vanwege boekleveranties gaat, of om andere handelswaar, bijv. de in de vorige en volgende akten genoemde ossen. Getuige Pieter Vincentsz van Heemskerck.
+Bron: NA 147, nr. 20 (4-1-1625) Verklaring van de Deense student Henric Post, oud 28 jaar, t.v.v. Isaac over de onheuse bejegening door de Amsterdamse koopman Franchoys Wijbrantsz met wie hij in 1624 een reis naar Denemarken had gemaakt om ossen te kopen. Tevens bedrag van 600 genoemd. Vgl. nr. 22 (3-1-1625) Insinuatie van Isaac betreffende deze zaak.
+Bron: NA 149, nr. 54 (18-10-1625) Overdracht door Jacomijne Buijes, weduwe Thomas Erpenius, bijgestaan door Anthonie Thysius en Hieronymus de Backer, van de drukkerij, stempels, matrijzen, letters etc. van wijlen Erpenius aan Isaac. Hij mag deze echter niet zonder meer verkopen bij uitscheiden, maar moet eerst de curatoren van de universiteit verwittigen. Jacomijne ontvangt hiervoor een huis en erf aan de NZ van de Breestraat aan het Noordeinde. Borg is Bonaventura Elzevier. Op 20-10-1625 worden nadere bepalingen aan deze akte toegevoegd betreffende de eventuele verkoop van de drukkerij en de positie van de universiteit.
+Bron: NA 149, nr. 101 (24-12-1625) Verkoopt aan Bonaventura en Abraham Elzevier t gebou ende de timmeragie die door Isaac aan de rechterkant van de Academiepoort is neergezet, als ook het huurcontract met de universiteit, voor 2000, te betalen op 8-2-1626. Getuigen o.a. Louis Elzevier en Catharina van Waesberge.
+Bron: NA 149, nr. 121 (24-12-1625) Transport aan Bonaventura en Abraham Elzevier van 10.000 pond letters, 5 drukpersen, 1 plaatpers, stempels, matrijzen en verder toebehoren van de drukkerij voor 7000.
+Bron: NA Rotterdam 132, nr. 38/f. 82 (29-1-1626), Cecilia Brants, weduwe van Jan Carel Wanthen, geassisteerd door haar zoon Cornelis Janss Wanthen, verkoopt aan Isaac Elsevier, wonende te Leyden, haar huis en erf, genaamd de Toelast, gelegen aan de zuidzijde van de Hoogstraat in de bon Oostvierendeel.
+Bron: NA Rotterdam 132, nr. 143/f. 324 (29-1-1626) Cecilia Brants, weduwe van Jan Carel Wanthen, geassisteerd door haar zoon Cornelis Janss Wanthen, verkoopt aan Isaac Elsevier, wonende te Leyden, haar huis en erf genaamd de Toelast, gelegen aan de zuidzijde van de Hoochstraet in het Oostvierendeel, voor de prijs van 10.200 waarin de inboedel begrepen is ter waarde van 600. Op 26-11-1628 is de akte gedeeltelijk veranderd. Isaac Elsevier, nu wonende te Rotterdam, verkoopt het h.e.e. aan zijn zoon Arnout Elsevier, wonende te Leyden, voor 10.500 met inbegrip van de inboedel t.w.v. 1000. Naast eerder genoemde belastingen is het huis en erf ook belast met 2000 gulden t.b.v. mr. Anthonis Willems en met 3650 t.b.v. Cecilia Brants. Deze gewijzigde akte is wel ondertekend. NB: Onderaan de akte staat een notitie dat het slechts een optie op koop betreft, maar dat de koop niet is doorgegaan. Overigens was Aerout Elsevier herbergier in de Toelast.
+Bron: NA 351, nr. 38 (26-7-1627) Isaac Elzevier genoemd als herbergier te Rotterdam.
+Bron: NA 188A, nr. 61 (27-3-1628) Verklaring Thomas de Vechter en Pieter Vincentsz van Heemskerck t.b.v. Lieven Henricx dat Isaac Elsevier ca. 3 jaar geleden aan Jan ... Lieventijt voor 66 een partij letters had verkocht, te betalen in 4 termijnen binnen 1 jaar. Moeilijk leesbaar.
+Bron: NA 465, nr.  (4-1-1632) Huwelijkse voorwaarden Simon van Swieten, pedel, weduwnaar van Maria Breugels, en Susannatje Pieters de Haes. Hij is vergezelschapt van zijn zwager Isaac Elzevier.
+Bron: NA 390, nr. 33 (4-3-1636) Obligatie van 500 aan chirurgijn Evert Jansz Munx. Hij heeft een functie bij de admiraliteit te Rotterdam. Borg Matthijs Elzevier.
+Bron: NA 820, nr. 91 (18-11-1645) Contract tussen Isaac Elzevier sr. en de Leidse brouwer Coenraad Melcque over de leertijd van Isaac jr. voor een jaar in de brouwerij van Melcque. Isaac ontvangt hiervoor eten, drinken en kleren, zijn vader betaalt aan Melcque 500.
+Bron: NA 439, nr. 123 (1646) Akte.
+Literature: Briels 276-79; Het Rapenburg Va, 123.
+Bron: Doop Pieterskerk 24-2-1644 Getuige bij de doop van Margriete Lopez de Haro, met Johannes Elsevier, Abigael Gardeyn en Margriet van Hoogenhuse.
+
+
+Voornaam: Jacob
+Achternaam: Elsevier
+Geboortedatum: 1597
+Sterfdatum: 1661
+Geboorteplaats: Leiden
+Plaats van overlijden: 
+Geslacht: M
+Start_werkperiode: 
+Eind_werkperiode: 1621
+Beroep: boekverkoper
+Misc: Sara van Loo uit Amsterdam.
+Huwelijk
+Soort huwelijk: KO
+Datum huwelijk: 24-9-1620
+Huwelijkspartner:  Sara van Loo 
+Getuigen: 
+Bron: NA 100, nr. 145 (9-9-1620) Huwelijkse voorwaarden met Sara van Loo.
+Bron: NA 101, nr. 2 (8-1-1621) Mutueel testament met Sara van Loo. De handtekening van Jacob is verwijderd; later is hier een briefje ingevoegd met de tekst: Dat heeft Rammelman Elsevier zeker gedaan! O die leelijkert!
+Bron: NA 163, nr. 6 (12-1-1625) Getuige bij huwelijkse voorwaarden van zijn zwager Pieter van Loo en Aafje Salomons van der Wuert.
+Bron: NA 148, nr. 105 (18-8-1625) Contract tussen Bonaventura en Abraham Elzevier enerzijds en Jacob Elzevier te s-Gravenhage anderzijds over de leverantie van hun boeken aan Jacob tot de prys die by anderen daer van betaelt wert, met een rabat van 20%. Jacob is reeds 2000 aan beiden schuldig, die hij echter alleen bij het einde van de overeenkomst moet terugbetalen (div. bepalingen). Andere schulden moet hij halfjaarlijks betalen. Hij mag ook boeken terugzenden, het eerste halfjaar voor 600, daarna voor niet meer dan 300 per jaar. Getuigen Isaac en Louis Elzevier.
+Bron: NA 733, nr. 170 (18-6-1652) Verkoopt aan Bonaventura Elzevier 100 morgen land in Gensinger Gemarck, met uitzondering van 2 morgen wijngaarden. Bonaventura betaalt hiervoor 1400 rijksdaalders. Jacob woont zelf in Gensingen en wordt genoemd als kapitein.
+Literature: Briels 279-80; Kossmann 121-122.
+Bron: 1621 naar Den Haag, waar hij tot 1636 werkzaam was.
+Vader: Mathijs Elsevier.
+Album studiosorum: 1611 Inschrijving als student.
+
+
+Voornaam: Johannes
+Achternaam: Elsevier
+Geboortedatum: 1622
+Sterfdatum: 8-6-1661
+Geboorteplaats: zijn weduwe en erven -
+Misc: w. 1651-61; zijn weduwe en erven 1661-81)
+Plaats van overlijden: 
+Begraafplaats: begr. PK 5/11-6-1661
+Geslacht: M
+Start_werkperiode: 1651
+Eind_werkperiode: 1661
+Beroep: boekverkoper
+Beroep: drukker
+Misc: Huwelijk KO 18-6-1647 Eva van Alphen (zie aldaar; zij woonde op de Haarlemmerstraat en was een dochter van de burgemeester Abraham (of Daniel Simonsz?; zie hieronder 1653) van Alphen; getuige zijn vader).
+Huwelijk
+Soort huwelijk: KO
+Datum huwelijk: 18-6-1647
+Huwelijkspartner:  Eva van Alphen 
+Adres
+Locatie: Rapenburg, hoek Kloksteeg
+Locatie_startdatum: 1653
+Adres
+Locatie:  Rapenburg 36.
+Locatie_startdatum: 1659
+Locatie_einddatum: 1661
+Personeel
+Datum Aanstelling: 7-10-1651
+Naam werknemer:  Abraham Jansz Durieu, [?], oud 26 jaar, voor 4 jaar (van Abraham Commelin)
+Personeel
+Datum Aanstelling: 1-5-1654
+Naam werknemer:   Carel Gerstecooren,* voor 6 jaar (met akkoord over de verdeling van de werkzaamheden tussen de drukkerij en winkel) (AB 83a, f. 15)
+Personeel
+Datum Aanstelling: 1659
+Naam werknemer:   Daniel Steucker, Ook werkzaam te Den Haag.
+Veiling
+Datum veiling: 
+Geveilde collectie: Veilingen BM s.c. 862* (1) fondsveiling
+Veiling
+Datum veiling: 10-2-1659
+Geveilde collectie:   gebonden en ongebonden boeken (KBK)
+Veiling
+Datum veiling: 5-4-1660
+Geveilde collectie:   gebonden en ongebonden boeken (KBK)
+Veiling
+Datum veiling: 1668
+Geveilde collectie:   Jacobus Golius (KBK)
+Veiling
+Datum veiling: 3-10-1661
+Geveilde collectie:   gebonden en ongebonden boeken te Den Haag door Johannes Verhoeve (catalogus gedrukt te Leiden) (KBK).
+Gilde: Hoofdman 1651, 1656-57.
+Gilde:
+Startdatum: 1651
+Functie in het gilde: Hoofdman
+Einddatum: 
+Gilde_InDienstVan: 
+Gilde_Literatuur: 
+Bron: NA 574, nr. 51 (28-6-1644) Verklaring, oud ca. 23 jaar, verklaart t.v.v. Geertruid Jans van Heemskerck dat hij 2 maanden tevoren geweest is in Parijs en aldaar goede kennisse heeft gehad aan Nicolaes van Redelichuysen, die daar is getrouwd met Margrieta Valle, weduwe Guillaume Peelle (Pel), boekverkoper te Parijs. Hij weet dat Redelichuysen daar een huwelijkscontract heeft getekend van de voordochter van Margrieta Valle. Pieter Vincentsz o.a. getuige.
+Bron: NA 790, nr. 77 (3-11-1644) Verklaring Johan Elzevier, oud c. 22 jaar, t.v.v. Maria Da... [?].
+Bron: NA 567, nr. 16 (3-1-1653) Procuratie met anderen als man en voogd van Eva van Alphen i.v.m. de erfenis van haar vader Daniel Simonsz van Alphen. Getuigen de boekbinders Pieter Parival en Andries van Hoogenhuizen.
+Bron: NA 734, nr. 24 (30-1-1653) Mutueel testament met Eva van Alphen; zij wonen op het Rapenburg op de hoek van de Kloksteeg.
+Bron: NA 655, nr. 15 (12-11-1653) Procuratie met Daniel Elzevier aan Pierre le Goux, koopman te Parijs om van [] Thibault aldaar bedragen te innen voor de leverantie van boeken en andere goederen.
+Bron: NA 657, nr. 22 (4-3-1655) Procuratie met Daniel Elzevier aan n.n. om van de erven van Sebastiaen de Heuqueville te Nantes 337 te innen voor geleverde boeken.
+Bron: NA 657, nr. 23 (4-3-1655) Procuratie met Daniel Elzevier aan n.n. om van de weduwe van Mr. Comere (?), in leven raadsheer van de koning te Toulouse 749.15 te innen voor de levering van een baal boeken (merk in de marge). Getuigen Carel Gerstecoren en Jean Leper.
+Bron: NA 737, nr. 104 (24-4-1656) Verklaring letterzetters en drukkers Hieronymus Canijn en Pieter Chenel t.v.v. Johan dat zij op de winkel van Jan van Neer (= Joannes Naeranus) te Rotterdam hebben gewerkt, Canijn tot 4 maanden geleden, Chenel tot 3 weken geleden, en dat zij daar tot op het einde van hun dienstverband hebben gewerkt aan het zetten en drukken van Andreas Geijls Observantien van de keyserlycke practijcq, vertaald door Adriaen van Nispen, waarbij zij bij het zetten gebruik hebben gemaakt van de autograaf van Van Nispen. Van Nispen kwam regelmatig voor correctie op de drukkerij. Het werk van Canijn omvatte 49 bladen, dat van Chenel 45. Getuige Nicolaas Schouten. Het betreft Andreas Gail, Observantien van de kayserlicke practycke (Leiden: J. Elzevier, 1656; titeluitgave Amsterdam: Louis en Daniel Elzevier, 1656). In hetzelfde jaar verscheen een editie bij Johannes Naeranus.
+Bron: NA 739, nr. 154 (25-9-1658) Obligatie van Abraham van Geervliet van 921 voor boeken gekocht op zijn veiling. Borg diens schoonmoeder Suzanna van Wijngaarden.
+Bron: SA 75 (Gerechtsdagboek GG), f. 329r-v (12-12-1658) Consent aan Johannes Elzevier voor twee boekenveilingen in 1659 van zijn winkelvoorraad. Hij belooft hierna uit de boekhandel te scheiden en zich alleen nog met het drukken bezig te houden.
+Bron: SA 76 (Gerechtsdagboek HH), ff. 211v-212r (23-3-1660) Consent aan Johannes Elzevier voor uitstel van de tweede veiling van zijn sorteringen, waarvoor hij boeken uit Spanje en elders had laten overkomen, die echter nog niet waren aangekomen. De veiling zal nu in april worden gehouden. Vgl. consent d.d. 12-12-1658.
+Bron: NA 743, nr. 102 (?-1660) Verklaring Johannes?, Isaac (uit Rotterdam) en Abraham (uit Den Haag) Elsevier, erfgenamen van Abraham Elsevier sr. en Catharina van Waesberge dat zij negen maanden geleden de nalatenschap hebben verdeeld, waarbij Isaac heeft gekregen het huis De vergulde zon op de steiger in Rotterdam.
+Bron: NA 744, nr. 103 (6-4-1661) Verklaring o.a. Johan Elsevier en zijn zwagers over de scheiding van de boedel van zijn schoonvader, burgemeester Abraham van Alphen.
+Bron: NA 744, nr. 198 (13-6-1661) Verklaring Eva van Alphen over het testament dat zij met haar man heeft opgesteld op 30-1-1653. Als executeurs de broers van haar man Isaac en Abraham.
+Bron: NA 744, nr. 205 (13-6?-1661) Notaris Willem van Vredenburch verklaart dat hij door de weduwe en vrienden van Johan Elsevier is verzocht te compareren in diens sterfhuis om het besloten testament te recognosceren dat bij hem op 7-6-1650 gepasseerd.
+Bron: NA 939, nr. 36 (27-6-1661) Verklaring van Daniel Steucker t.b.v. de Amsterdamse boekverkoper Hendrik Prins dat hij voor wijlen Johan Elzevier in commissie heeft verkocht en verhandeld grote hoeveelheden van alle soorten van boeken en dat hij op de herfstmis van 1659 ook in commissie te Frankfort is geweest, en dat daar ook Prins was, die hem vroeg naar vier boeken, getiteld Breviaria Romana 12, 4 dln. (Keulen: Jodocus Kalcovius, 1659), waarvan Steucker er vier heeft geleverd, zoals hij ze van zijn meester Elzevier had ontvangen, die ze weer geleverd had gekregen van J.J. Schipper.
+Bron: SA 78 (Gerechtsdagboek KK), f. 346v (7-9-1662) Consent aan Eva van Alphen voor het houden van een veiling. Opzienders 5.
+Bron: NA 749, nr. 64 (9-8-1663) Verklaring Maerten Jansz. Wanna t.v.v. Eva van Alphen dat hij samen met wijlen Johan Elsevier in mei 1661 naar Engeland is gereisd en dat Johan op de avond voorafgaand aan hun vertrek een zak met geld, zijnde de betalingen van boekverkopers in Londen en Cambridge (een bedrag van 20 van een boekverkoper in Cambridge wordt genoemd) heeft gebracht bij James? Allestry (Allestree), waaruit een bedrag aan reisgeld is afgeteld. Op de vraag van Wanna waarom hij niet al het geld mee naar huis nam, antwoordde Johan dat hij dit veiliger vond; het geld kon per wissel worden overgemaakt. Toen op hun terugreis een medereiziger was beroofd van n500 had Johan gezegd dat het maar goed was geweest dat hij niet al het geld contant had meegenomen.
+Bron: SA 79 (Gerechtsdagboek LL), f. 336v (29-1-1665) Consent aan Eva van Alphen voor een veiling van de boeken van wijlen Johan Elzevier. Opzienders 5.
+Bron: OHC 26-1-1675 Eva van Alphen, Weduwe van Johannes Elsevier, is van meyninge onder de Boeckverkopers te verkopen een goede quantiteyt Nederlandsche Bybels, in Folio, met Romeynsche Letters, so op Reael als Groot Mediaen Papier. De Verkoopinge sal geschieden ten Huyse van de Weduwe voornoemt, woonende in de Academie tot Leyden, op Saterdagh den 2 February, 1675. na de middag ten 4 uren.
+Literature: Willems; Molhuysen 318; Davies; Kossmann 122; Het Rapenburg Va, 180.
+Bron: ? RA Haarlem, Kortenhoef NA 3036, A 64 (22-7-1734) Johan Elzevier.
+Misc: 26-8-1653 Academiedrukker, samen met Daniel, die in 1654 echter de compagnie verbrak.
+Misc: Had een deel van zijn leertijd doorgebracht in Parijs bij Guillaume Pel (Bray, Chapelain, p. 194).
+Album studiosorum: Album studiosorum 17-10-1633 Johannes Elsevier. 13.
+Album studiosorum: Album studiosorum 7-12-1653 Johannes Elsevier Academiae typographus. 30.
+
+
+Voornaam: Loys
+Tweede naam: I 
+Achternaam: Elsevier
+Naamsvariant: Louis I Elsevier
+Geboortedatum: 1547
+Sterfdatum: 1617
+Geboorteplaats: Leuven
+Plaats van overlijden: Leiden
+Geslacht: M
+Start_werkperiode: 1580
+Eind_werkperiode: 1617
+Beroep: boekverkoper
+Beroep: boekbinder
+Huwelijkspartner: Mayke Duverdijn 
+Misc: Mayke Duverdijn (* Luik,  Leiden 1613).
+Adres
+Locatie:  Rapenburg 56 (1585 verkocht aan Plantijn)
+Locatie_startdatum: 1580
+Locatie_einddatum: 1585
+Adres
+Locatie:  Rapenburg bij de Academie
+Locatie_startdatum: 1587
+Locatie_einddatum: 1599
+Adres
+Locatie:  Rapenburg 30/32/hoek Houtstraat. Bezat ook huizen in de Kloksteeg en op het Pieterskerkhof.
+Locatie_startdatum: 1599
+Locatie_einddatum: 1617
+Personeel
+Datum Aanstelling: 1598
+Naam werknemer: Jan Christiaensz,*?
+Personeel
+Datum Aanstelling: 1609
+Naam werknemer:  Lambert Claesz van Tethrode,* (alias Van Rijn) (huwde in dat jaar met zijn dochter Elisabeth).
+Veiling
+Datum veiling: 4-6-1601
+Geveilde collectie: Daniel van der Meulen
+Veiling
+Datum veiling: 1603
+Geveilde collectie:  Cornelis Rekenarius (samen met Christoffel Guyot)
+Veiling
+Datum veiling: 5-10-1604
+Geveilde collectie:   Janus en Georgius Dousa
+Veiling
+Datum veiling: 1605
+Geveilde collectie:   P. van Hoorn
+Veiling
+Datum veiling: 1606
+Geveilde collectie:   Justus Lipsius
+Veiling
+Datum veiling: 5-10-1607
+Geveilde collectie:   Johannes Halsbergius (catalogus gedrukt door Thomas Basson) (KBK)
+Veiling
+Datum veiling: 8-10-1607
+Geveilde collectie:   librorum Commelinianorum (catalogus gedrukt door Jan Claesz van Dorp) (KBK)
+Veiling
+Datum veiling: 29-5-1608
+Geveilde collectie:   Paullus Merula
+Veiling
+Datum veiling: 11-3-1609
+Geveilde collectie:   J.J. Scaliger
+Veiling
+Datum veiling: 5-10-1609
+Geveilde collectie:   Gerardus  Goes (catalogus gedrukt door Thomas Basson) (KBK)
+Veiling
+Datum veiling: 1610
+Geveilde collectie:   Stephanus Isenbrandus van Haarlem (catalogus gedrukt door Thomas Basson) (KB)
+Veiling
+Datum veiling: 1610
+Geveilde collectie:   anoniem
+Veiling
+Datum veiling: 15-11-1610
+Geveilde collectie:   Bonaventura Vulcanius
+Veiling
+Datum veiling: 16-11-1611
+Geveilde collectie:   Arnoldus a Nyvelt/Justus Bulaeus (catalogus gedrukt door Jan Bouwensz, ex. KBK 79-II 39-II [16] (40 pp.)
+Veiling
+Datum veiling: 4-10-1612
+Geveilde collectie:   Jacobus Montanus &amp
+Veiling
+Datum veiling: 
+Geveilde collectie:  Dionysius Mulhemius (KBK)
+Veiling
+Datum veiling: 29-5-1613
+Geveilde collectie:   G. Dimenius, Johannes Mullerus &amp
+Veiling
+Datum veiling: 
+Geveilde collectie:  D.C. Porquintus (KBK)
+Veiling
+Datum veiling: 24-3-1614
+Geveilde collectie:   Dominicus Baudius &amp; Andreas Harckonius (KBK)
+Veiling
+Datum veiling: 22-10-1614
+Geveilde collectie:   Johannes  Dam (catalogus gedrukt door Van Haestens) (KBK)
+Veiling
+Datum veiling: 2-6-1615
+Geveilde collectie:   B. Vulcanius (vgl. 15-11-1610)
+Veiling
+Datum veiling: 1617
+Geveilde collectie:   anon.
+Veiling
+Datum veiling: 17-10-1617
+Geveilde collectie:   Theodorus Canterus.
+Bron: SA 7446, Tresoriersrekening, f. 279v (1582) betaling aan Cornelis Simonsz van 23.7 sch. voor het zetten en drukken van de remonstrantie aan de Staten vanwege deze stad gedaan nopende de synodale resolutie der kerkmeesters; kosten uitgesplitst: aan de boekbinder Jacob Adriaensz 4.5 sch. voor papier tot een getal van 100 ex.; aan Louis Elsevier 11.3 sch. voor het binden van 25 ex., waarvan 12 met vergulde stempels, verguld linnen en zijden banden per stuk 11 sch. (?) en 13 alleen met zijden banden tot 5 sch. per stuk etc.
+Bron: SA 7446, Tresoriersrekening, f. 681r (1585) betaling van 17.5.8, omdat hij verscheidene boeken gebonden heeft, die Christoffel Plantijn aan de stad geschonken had, volgens declaratie, blijkende uit de ordonnantie van de burgemeesters d.d. 9-2-1585.
+Bron: SA 7446, Tresoriersrekening, f. 700v (1588) betaling van 30 st. voor het binden van een boek waarin de kaarten komen van alle stadswateren en grachten.
+Bron: NA 18, f. 15 (14-1-1589) Verklaring als pedel van de universiteit, oud ca. 40 jaar t.b.v. Pauwels Adriaensz, boekverkoper, dat hij omtrent twee jaar geleden is geweest bij Bonaventura Vulcanius. Hij had daartoe eerst verlof gevraagd van de rector. Hij had Vulcanius geinsinueert dat Adriaensz bereid was aan Vulcanius te leveren en weder te ontvangen zoedanige boucken als den requirant binnen Middelburg aen de vsz. Vulcanius vercoft, ende hy weder van zelven Vulcanius gecoft hadde, welcke insinuatie by de vsz. Vulcanius gehoort zynde, heeft hy deposant geen goet antwoort van zelve Vulcanius ontfangen. Ende hy tuychde wyders nyet presenterende in cas van recolemente alle tzelzve by zyn eede solempnelicken te affirmeren. Zie voor deze zaak verder onder Pauwel Adriaensz Beyman.
+Bron: NA 57, nr. 111 (29-5-1593) Waarborg van Dirck Gerritsz van Kessel t.b.v. Loys Elzevier voor diens recente aankoop van het huis op de hoek van de Houtstraat en het Rapenburg.
+Bron: NA 58, f. 189v (5-8-1594) Protest van twee wisselbrieven jegens Loys Elzevier, de een van 76.10 van Jan Moretus, de ander van 60 van Gillis Beijts, die hij ca. vijf weken tevoren heeft geaccepteerd. Het protest had plaatsgevonden in de winkel van Elzevier op het Rapenburg. Op de vraag of Elzevier de brieven had geaccepteerd had deze geantwoord, nae vele ongebonden wooden al had ic tgelt, daer opte taeffel liggen, wil ict u persoons nyet betaelen, ic bekense  geaccepteerd te hebben ende ic accepteerse noch dan beyt acht oft thyen dagen tot dat Gillis myn soon uut Vrieslant gecomen zal syn die ic alle dagen verwachte, jegens welck erlaye [?] die vers. de Vechtere protesteert van alle costen schaden ende interesten tsynen lasten, van meeninghe zynde die zelve wisselbrieven te rugge te seynden.
+Bron: NA 61, f. 151 (1597) Genoemd in de schuldverklaring van de Litouwse student en edelman Jaroslaus Drucki Sokolinski met een bedrag van N60.12.8.
+Bron: SA 49 (Gerechtsdagboek), f. 22r (31-12-1598) Toestemming aan Louis Elzevier om een huis te bouwen op de hoek van de Houtstraat en het Rapenburg. Zie ook f. 46 (4-5-1599).
+Bron: NA 64, f. 59v (21-3-1600) Protest van wissel door Thomas Henricx Strijp te Haarlem. De wisselbrief, gedateerd 15-2-1600 en ondertekend door Gillis Elzevier, bedroeg 25 kronen (76.5). Uiteindelijk accepteert Louis.
+Bron: NA 69, nr. 97 (22-10-1601) Akte waaruit blijkt dat Louis Elzevier onwillig is 60 carolus guldens te betalen aan de voormalige boekverkoper Pieter van Holt voor boekbindersgereedschap en 10 riem papier gekocht op de herftmis te Frankfort.
+Bron: NA 69, nr. 204 (13-6-1601) Verklaring Nicolaes Christiansen en Laurens Hemmelinck t.v.v. Lenaert Dierts van Tetrode, boekverkoper te Gouda, dat zij in oktober 1599 bij Tetrode waren geweest op zijn stal in het stadhuis. Heeft betrekking op de affaire tussen Louis Elzevier en Pieter van Holt (zie boven). Matthijs Elzevier ook genoemd, evenals een boek Syntaxis artis mirabilis [= Gregorius Tolosanus, Syntaxis artis mirabilis (diverse edities, bijv. Lyon: Jean Pillehotte, 1587, 16].
+Bron: NA 72, nr. 129 (2-11-1605) Verklaring t.b.v. Thomas Greseling te Naarden n.a.v. een zaak voor de vredemakers.
+Bron: NA 40, nr. 168 (16-11-1612) Mutueel testament met Maayke Duverdijn, die ziek is. Getuige boekbinder Hans de Lange.
+Bron: NA 125, f. 130 (28-11-1614) Procuratie door zijn schoonzoon Lambert Claesz van Rijn om diens disastreuze financile zaken te behartigen. Hij moet aan Elzevier een boedelbeschrijving overhandigen op basis waarvan zijn goederen kunnen worden verkocht. Verder komt hij onder curatele en moet beloven geen nieuwe leningen meer aan te gaan. Getuigen Mathijs, Aernout en Bonaventura Elzevier. Zie ook nr. 131. Louis plaatst in zijn handtekening soms een tekening van een haardstandaard voor houtblokken (Elzenvuur).
+Bron: NA 42, 182 (3-12-1614) Testament Loys Elzevier. Dit deel van het protocol is niet meer aanwezig.
+Bron: NA 126B, nr. 110 (4-8-1615) Procuratie aan Andries van Deijl te Vlissingen om voor de vierschaar aldaar zijn zaak te behartigen tegen Adriaan Claessen, secretaris van Vlissingen.
+Bron: NA 126B, nr. 155 (20-11-1615) Verklaring van Pieternelletje van Oostrum en Maerten Aelberts, tuinman, op zijn verzoek over de breedte van een sloot achter de tuin van wijlen Bonavenetura Vulcanius buiten de Koepoort.
+Bron: NA 128, nr. 104 (24-12-1616) Bevestiging van zijn testament d.d. 3-12-1614 voor notaris Van der Wuert, waarin voor zijn dochter Elizabeth, weduwe Lambrecht Claesz van Rijn, via Mathijs en Bonaventura een bedrag van 400 wordt apart gezet (vruchtgebruik). Louis ligt ziek te bed en is indispoost van lichaam. Getuigen Hans de Lange en Cornelis Christiaensz Brandt, boekbindergezellen.
+Reizen: Molhuysen, Bronnen, I: C 28-10-1591 Reis naar Heidelberg (p. 66).
+Literature: Briels 264-271; Willems; Het Rapenburg Va, 43, 54-58.
+Bron: ARA, Res. Hof van Holland 376 (19-12-1615) Ordonnantie voor Philippus Cluverius, De Germania [= Germaniae antiquae libri tres, 1616]  12 st.
+Misc: Kwam in 1580 naar Leiden. Werkte eerst als boekbinder voor Plantijn. 1586 Pedel van de Academie. 8-8-1594 Poorter. 1616 Tijdelijk geschorst als pedel wegens verweten nalatigheid bij de brand van de Academie.
+
+
+Voornaam: Louis
+Tweede naam: II 
+Achternaam: Elsevier
+Geboortedatum: 1566
+Sterfdatum: 
+Geboorteplaats: Antwerpen
+Misc: Elsevier, Louis II (* Antwerpen  1566;  voor 1620 te Den Haag; w. 1590)
+Plaats van overlijden: 
+Geslacht: M
+Start_werkperiode: 1590
+Eind_werkperiode: 
+Beroep: boekverkoper
+Huwelijk 
+Soort huwelijk: KO 
+Datum huwelijk: 1590 
+Huwelijkspartner: Wilhelmina Cornelis.
+Bron: NA 136, nr. 98 (24-8-1620) Accoord tussen zijn weduwe en Hans Casimir Du Jon, luitenant kapitein van een vendel voetknechten te Emden dat zij beiden de uitkomst van een arbitrage over hun geschil ten aanzien van de koop van een partij boeken, getiteld Wederlegginge van de Weechschael, door Du Jon geschreven, zullen accepteren. Scheidsrechters o.a. Jan Jansz Orlers en Johannes de Laet. Vgl. H.C. Du Jon, Wederlegginge van de weegschaal onlangs uytgegeven tegens doratie des ed. heere Dudley Carletons  (z.pl. en uitg., 1618; herdrukt 1622 bij Aert Meuris in Den Haag).
+Bron: NA 136, nr. 99 (25-8-1620) Uitspraak van Orlers en De Laet over bovengenoemd conflict. Zijn vrouw Wijburch Cornelis moet voor de door haar man geleverde 603 ex. 336 plus 75 voor de tengevolge van de dedicatie van dezelfde boeken aan de Staten-Generaal ontvangen gelden betalen = totaal 411. 110 was reeds betaald. Borg Bonaventura Elzevier.
+Literature: Kossmann 120.
+Bron: Vertrok in 1590/91 naar Den Haag.
+Vader: Louis I Elsevier.
+Misc: Vertrok in 1590/91 naar Den Haag.
+
+Voornaam: Louis
+Tweede naam: III 
+Achternaam: Elsevier
+Geboortedatum: 1604
+Sterfdatum: 1670
+Geboorteplaats: Utrecht
+Plaats van overlijden: Amsterdam
+Vader:  Joost Elzevier
+Moeder: Margarita van der Woert.
+Geslacht: M
+Start_werkperiode: 1637
+Eind_werkperiode: 70
+Beroep: boekverkoper
+Personeel
+Datum Aanstelling: 
+Naam werknemer: Nicolaes Hercules
+Functie: Corrector.
+Bron: NA 795, nr. 35 (1-5-1649) Transport door Frans de Heger aan Frans Hacke en Louis Elzevier (te Amsterdam) van het privilege dat hij op 29-7-1642 van de SG heeft ontvangen, alsmede de approbatie van de SH van 2-8-1642 op Dictionaire franchois alleman, latin et alleman, franchois latin avec un petit abbrg de grammaire francoise, revue, corrige et argument en cette dition par Nathanael Dhues.
+Bron: NA 671, nr. 197 (23-1-1652) Contract tussen Franois Hacke, als lasthebber van Louis te Amsterdam, en de med. dr. Petrus van de Velde. Van de Velde treedt op als voogd van zijn broer Dirck, die voor 4 jaar bij Louis zal gaan werken om het boekverkopersvak te leren. Petrus betaalt 200 p/jr., waarvoor hij kost en inwoning zal genieten en tenminste twee maal op een buitenlandse reis naar Duitsland en Frankrijk zal worden gezonden. Vgl. NA 672, nr. 103 (10-8-1654), waarin Dirck pogingen doet om naar Bordeaux gestuurd te worden om aldaar in de leer te gaan bij een koopman.
+Bron: NA 733, nr. 317 (9-12-1652) Procuratie met Daniel Elzevier en Daniel van Ceulen, als testamentaire voogden over de minderjarige kinderen van wijlen Bonaventura Elzevier aan Mathijs Bijvoort te Marienpoort bij Creijtsnach om daar de overdracht van 100 morgen land te bewerkstelligen. Bonaventura had dit land, waaronder wijngaarden, gekocht van Jacob Elzevier, kapitein wonende tot Gersinge (?) in de Nederpalts.
+Bron: NA 734, nr. 19 (27-1-1653) Overeenkomst met Frans de Heger, beiden wonende te Amsterdam. De Heger zal de eerstvolgende 5 jaar in zijn nering komen werken, d.w.z. zowel in de winkel als op reizen. Hiervoor ontvangt De Heger voor zijn werk in Amsterdam wekelijks 8 (verder op zijn eigen kosten) en voor zijn werk op reis 4 (reis- en onkosten voor rekening van Elzevier). Mocht De Heger trouwen, dan moet het contract als beindigd worden beschouwd. De Heger moet wel zijn contract uitdienen. Getuige Frans Hacke.
+Bron: NA 1122, nr. ? (17-6-1670) Testament.
+Literature: Willems cciii-ccxxi.
+Bron: vso: Monsieur / Monsieur Justel / a / Paris.
+Album studiosorum: Album studiosorum 20-11-1630 Ludovicus Elzevier. 13.
+
+
+Voornaam: Matthijs
+Achternaam: Elsevier
+Geboortedatum: 1564
+Sterfdatum: 1640
+Geboorteplaats: antwerpen
+Plaats van overlijden: 
+Begraafplaats: begr. PK 10-12-1640
+Geslacht: M
+Start_werkperiode: 1580
+Eind_werkperiode: 1640
+Beroep: boekverkoper
+Misc: KO 1. 9-1-1591 WK Barbara Lopez de Haro (* Leuven,  Leiden 1624; zij was zijn nicht; getuige zijn vader en haar vader, Honesto Lopez de Haro); 2. 25-10-1624 Maria Ludolffs van Ceulen uit Delft; 3. 18-6-1626 Elisabeth Jans de Smeth [Smids] (* Bremen, begr. 30-6-1639 PK) uit Amsterdam, weduwe Hendrick Dircx.
+Huwelijk
+Soort huwelijk: KO
+Datum huwelijk: 9-1-1591
+Huwelijkspartner: Barbara Lopez de Haro 
+Getuigen: 
+Huwelijk
+Soort huwelijk: 
+Datum huwelijk: 25-10-1624
+Huwelijkspartner:  Maria Ludolffs van Ceulen 
+Getuigen: 
+Huwelijk
+Soort huwelijk: 
+Datum huwelijk: 18-6-1626
+Huwelijkspartner:  Elisabeth Jans de Smeth 
+Getuigen: 
+Adres: 1606-11 Rapenburg 69a (gekocht voor een losrente van 62.10 (carolusgulden), verkocht voor 1750); 1611-18 Rapenburg 71; 1618-36 Rapenburg 32; 1636 Rapenburg 34 (reeds gekocht in 1630 voor 900); woonde op het eind van zijn leven in bij zijn zoon Abraham; 1640 Steenschuur (van daar uit begraven). Bezat ook Rapenburg 36 sinds 1630 (gekocht voor 1895) en huizen op de hoek van de Kloksteeg.
+Adres
+Locatie:  Rapenburg 69a (gekocht voor een losrente van 62.10 (carolusgulden), verkocht voor 1750)
+Locatie_startdatum: 1606
+Locatie_einddatum: 1611
+Adres
+Locatie:  Rapenburg 71
+Locatie_startdatum: 1611
+Locatie_einddatum: 1618
+Adres
+Locatie:  Rapenburg 32
+Locatie_startdatum: 1618
+Locatie_einddatum: 1636
+Adres
+Locatie: Rapenburg 34 (reeds gekocht in 1630 voor 900). Woonde op het eind van zijn leven in bij zijn zoon Abraham
+Locatie_startdatum: 1636
+Adres
+Locatie: Steenschuur (van daar uit begraven). 
+Locatie_startdatum: 1640
+Misc: Bezat ook Rapenburg 36 sinds 1630 (gekocht voor 1895) en huizen op de hoek van de Kloksteeg.
+Personeel
+Datum Aanstelling: 1606
+Naam werknemer:  Cornelis Oliphiers
+Functie: boekbinder
+Personeel
+Datum Aanstelling: 1615
+Naam werknemer:   Petrus Muller,
+Functie:  Boekbinder 
+Misc: Was getuige bij KO van beide werknemers
+Bron: NA 54, f. 141 (5-8-1589) Procuratie van Matthijs Elzevier, voorheen dienaar van Milord Adele, aan Jan Jansz te Arnhem om van Henric Wynaert, liewatier te Doesburg, een ton met perkamenten boeken en papieren op te eisen. Elzevier had Wynaert deze ton in bewaring gegeven.
+Bron: NA 43, nr.  (1-8-1603) Behoort tot de schuldeisers van de Franse student Samuel Gaultier des Aulnes (t20). Vgl. NA 44, f. 58 e.v. (31-7-1603); het bedrag is daar  12.
+Bron: NA 44?, nr.  (?-10-1608) Obligatie te zijnen laste.
+Bron: NA 91, nr. 144 (9-6-1610) Procuratie met Dirck den Oosterling aan Louis Elzevier, boekverkoper op de Zaal te s-Gravenhage, om van de voormalige student Leonardus Nissius 149.10 te innen i.v.m. geleverde boeken, d.w.z. Elzevier 66 en Oosterling 83.10.
+Bron: NA 39, nr. 70 (5-5-1611) Mutueel testament Matthijs Elzevier en Barbara Lopez. Getuigen boekbinders Hans de Lange en Cornelis Christiaensz Brant.
+Bron: NA 93a, nr. 183 (30-6-1612) Obligatie van een losrente van 25 aan Henrick Sirjansz, Pieter Verc[...]re en Jan de Block als executeurs van het testament van de koopman Jan de Latere. Borg Honesto Lopez.
+Bron: NA 126B, nr. 139 (17-9-1615) Obligatie van Maaike van der Donc, weduwe Honesto Lopez aan haar schoonzoon van 260.10 voor mondkosten van haar en haar man gedurende de periode 1614-aug. 1615. Getuigen de boekbinders Cors Christiaensz en Hans de Lange.
+Bron: NA 95A, nr. 220 (22-10-1615) Procuratie aan Adriaen Jansz Wortel om van Harman Santbeck, wonend buiten Bremen, 74.4 te innen voor geleverde boeken vlgs. een obligatie van 5-3-1611. Getuigen boekbinder Jan Claes en Cors Christiaensz.
+Bron: NA 140, nr. 107 (3-9-1622) Matthijs Elzevier verkoopt aan zijn zoon Abraham zijn deel van alle gebonden en ongebonden boeken in Leiden, Frankfort, Parijs en Veneti, incl. schulden en kredieten, alsmede zijn aandeel in de boekhandelscompagnie met Bonaventura Elzevier. Abraham betaalt hiervoor 11217, waarvan 4217 in contant geld, de rest in termijnen van 1200 per jaar. Getuigen de drukker Dirck Pietersz van Noort en Bonaventura Elzevier.
+Bron: NA 103, nr. 179 (1623) Boedel Philippus Cluverius. Onder de schuldeisers Bonaventura en Mathijs op reste van huyshuijr, geleent gelt en de geleverde boucken, tgeene by hem voor de copie van Italien belooft hadden wesende ses hondert gulden, afgetrocken (resteert 300).
+Bron: NA 209, nr. 197 (22-10-1623) Verklaring met o.a. Jan Ganne.
+Bron: NA 150, nr. 46 (19-2-1626) Mutueel testament met Maria van Ceulen.
+Bron: NA 351, nr. 40 (2-8-1627) Procuratie met Elizabeth Jans [Smits] aan Lenaert Lucasz van Vuyren, deurwaarder van het Hof van Utrecht. Lowijs Elzevier getuige.
+Bron: NA 213, nr. 142 (25-11-1627) Procuratie met zijn echtgenote Elizabeth Jans, weduwe van de Amsterdamse lakenverkoper Heijndrick Dircx, aan Gijsbert Pieters van der Wourden (?) en Graft (?) Jansz van Leeuwarden, lakenverkopers en vroedschappen te Utrecht om aldaar te compareren voor het gerecht i.v.m. een willig decreet betreffende een huis in Utrecht.
+Bron: NA 360, nr. 33 (22-7-1628) Mutueel testament met Elizabeth Jan Smits. Gillis en Bonaventura voogden. Diverse legaten.
+Bron: NA 353, nr. 21 (21-2-1629) Treedt op als voogd over zijn vrouw. Getuigen Lowijs Elzevier en Frans Hacke.
+Bron: NA 353, nr. 61 (7-4-1629) Procuratie van zijn vrouw Elizabeth n.a.v. een erfenis. Getuigenn Lowijs Elzevier en Frans Hacke.
+Bron: NA 315, nr. 96 (14-7-1629) Akte betreffende koop van huis Rapenburg/hoek Kloksteeg van de erven van wijlen Ludolf van Keulen.
+Bron: NA 360, nr. 137 (8-10-1629) Obligatie aan zijn vrouw Elizabeth van 2800 uijt saecke van diversche obligatien.
+Bron: NA 361, nr. 3 (25-1-1630) Procuratie van zijn vrouw Elizabeth aan Bonefaes Cole om van de lakenkoper Willem Pieters te Aalsmeer een bedrag te innen volgens des voorn. haer sa. man register. Elizabeth was eerder gehuwd geweest met Henrick Dircx Melinc. Louis Elzevier getuige.
+Bron: NA 132B, nr. 32 (28-6-1630) Obligatie aan zijn broer Gillis te Koudekerk van 600 voor een lijfrente van 37.10 (1634 afgelost).
+Bron: NA 299, nr. 113 (16-8-1630) Genoemd in akte als een van de regenten van het armenhofje van Jan de Latere.
+Bron: NA 362, nr. 1 (19-1-1632) Aanvulling Elisabeth op het mutueel testament van 18-8-1628.
+Bron: NA 362, nr. 15 (14-2-1632) Tenietdoening van testamentaire dispositie d.d. 22-7-1628.
+Bron: NA 387, nr. 30 (22-4-1632) Testamentaire dispositie waarin hij verklaart dat zijn zoon Jacob, die boekverkoper is in Den Haag niets zal erven zolang hij niet zijn schulden, waaronder een bedrag van 1000 aan diens broer Isaac heeft voldaan.
+Bron: NA 362, nr. 83 (19-4-1633) Testament Hij heeft een dochter Catharina. Bonaventura Elzevier en zijn cousijn Michiel Chimaer zijn voogden.
+Bron: NA 319, nr. 92 (8-8-1633) Akte i.v.m. hofje van Jan du Latre. Matthijs genoemd als pedel van de universiteit.
+Bron: NA 110a, nr. 33 (6-5-1634) Latijnse procuratie als curator van Hier. van Ursel (daartoe aangesteld door de Universiteit) aan de student Joh. Ammonius om van de erven van Fred.  Studenitz etc. (?)  593 te innen.
+Bron: NA 112A, nr. 32 (5-6-1638) Verklaring met Bartholomeus Vermey, beiden pedel van de universiteit, t.b.v. Jodocus van Overbeeke. Matthijs ca. 74 jaar oud.
+Bron: NA 324, nr. 119 (10-9-1638) Pieter Caron, apotheker, betaalt zijn schoonvader Matthijs Elsevier  3000 uit ter voldoening van een rentebrief.
+Bron: NA 569, nr. 40 (15-4-1639) Matthijs Elsevier, pedel, verhuurt huis op het Rapenburg voor 2 jaar.
+Bron: NA 199, nr. 80 (22?-6-1639) Testament van zijn weduwe Elisabeth Jans Smits.
+Bron: NA 199, nr. 108 (1639) Boedel Elisabeth Jans Smits.
+Bron: NA 433, nr. 116 (9-7-1640) Testament Matthijs Elzevier, pedel.
+Bron: NA 433, nr. 207 (3-12-1640) Testamentaire dispositie van Matthijs Elzevier. Hij ligt ziek te bed.
+Bron: NA 434, nr. 12 (17-1-1641) Boedel (transcriptie in Het Rapenburg, huis nr. 34, bijlage II). Hierin is per object steeds aangetekend wie de erfgenaam is, onder wie Isaac Elzevier, Gillis Elzevier, Bonaventura Elzevier, David Lopez, Abraham Elzevier, een zekere Mijtens. Onder de goederen diverse schilderijen, zoals een portret van Matthijs en zijn vrouw en van Honesto Lopez. Isaac Elsevier kreeg een bybel met een frans salmbouc. Verder worden geen boeken vermeld.
+Bron: NA 434, nr. 13 (?-1-1641) Geld, onroerend goed, goud zilver, schulden en lasten van de boedel.
+Bron: NA 728, nr. 186 (17-6-1647) Procuratie van zijn kinderen en erfgenamen aan de procureur Laurens Vergeyl om hen te vertegenwoordigen in hun zaak voor de Academische Vierschaar tegen Andries Frisius, gewezen rentmeester van de graaf van Cuijlenburg.
+Literature: Briels 271-272; Het Rapenburg Va, 81-82, 89-91, 123, 137-139, 161-162, (boedel), 179.
+Bron: Molhuysen, Bronnen, II: C 27-5-1638 Mogelijke kandidaat voor de verwachte opvolging van Mathijs Elzevier als pedel (p. 224).
+Misc: 5-8-1594 Poorter. 13-11-1607 Pedel van de Academie. 1616 Ontslagen als pedel wegens nalatigheid bij de brand van de Academie. 1617 Opnieuw aangesteld tot pedel na de dood van zijn vader. Werkte samen met zijn broer Bonaventura.
+
